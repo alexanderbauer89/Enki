@@ -1,0 +1,8 @@
+If an altcoin is created by modifying the Bitcoin source code, where can you interact with the altcoin, other than exchanges?
+
+The Ethereum blockchain
+The Bitcoin blockchain
+Its smart contract
+The altcoin's blockchain
+
+> The altcoin's blockchain
