@@ -1,0 +1,2 @@
+The never type is used for values that ???
+> never occur
