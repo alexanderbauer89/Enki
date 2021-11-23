@@ -1,0 +1,2 @@
+What's the correct syntax for a positive lookahead to check that a password must have at least one word character, regardless of capitalization?
+> /(?=.*\w)/
