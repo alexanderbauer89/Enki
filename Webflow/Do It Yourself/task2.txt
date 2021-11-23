@@ -1,0 +1,8 @@
+Which of the following can't be used to add sections?
+
+The element panel.
+The dashboard.
+The canvas.
+The navigator.
+
+> The dashboard.
