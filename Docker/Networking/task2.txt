@@ -1,0 +1,14 @@
+If we instantiate a container from an image created with this Dockerfile:
+# ...
+
+EXPOSE 9090
+
+# ...
+
+Using this exact command:
+
+docker run -t enki-image
+
+Will the container be accessible via port 9090 on the host it's running on?
+
+> No
