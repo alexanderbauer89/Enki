@@ -1,0 +1,2 @@
+The limit of checks a filter can have in Zapier is ???
+> none
