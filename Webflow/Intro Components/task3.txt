@@ -1,0 +1,6 @@
+Sliders are simple
+
+and useless components on Webflow
+but powerful components on Webflow
+
+> but powerful components on Webflow
