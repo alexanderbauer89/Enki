@@ -1,0 +1,7 @@
+Which of the following is not a valid way of creating an array:
+let a: number[] = [1, 2];
+
+let b: Array<number> = [1, 2];
+
+let c: []number = [1, 2];
+> c
