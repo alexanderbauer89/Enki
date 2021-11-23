@@ -1,0 +1,5 @@
+To inspect a Docker nginx image, we'd run the command:
+docker ??? ??? ??? ???
+> image
+> inspect
+> nginx
