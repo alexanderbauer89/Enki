@@ -1,0 +1,31 @@
+Given the DataFrame:
+
+data = {
+  "Name": [
+    "Stefan",
+    "Marcus",
+    "Danielle",
+    "Layla"
+  },
+  "Book_Count": [36, 33, 71, 132]
+}
+
+bookCountPerPerson = pd.DataFrame(data, columns=["Name", "Book_Count"])
+
+Fill in the gaps to create a simple bar chart from bookCountPerPerson. Don't forget to show the plot afterward.
+
+import matplotlib.pyplot as plt
+
+bookCountPerPerson.???(
+    ??? = "Name",
+    ??? = "Book_Count",
+    ??? = "bar"
+)
+
+???
+
+> plot
+> x
+> y
+> kind
+> plt.show()
