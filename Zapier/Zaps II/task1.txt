@@ -1,0 +1,2 @@
+With Zapier, you can't:
+> Use it as a database.
