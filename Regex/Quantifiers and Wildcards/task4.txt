@@ -1,0 +1,3 @@
+Which regex pattern would match the full string?
+123
+> /\w+/
