@@ -1,0 +1,8 @@
+What does solidity run on?
+
+EVM
+Ethereum blockchain
+Blockchain
+Any computer
+
+> EVM
