@@ -1,0 +1,12 @@
+Create an alias named nothing to the void type:
+
+??? nothing ??? void;
+
+function logTSFact(): nothing {
+  console.log(
+    'TypeScript helps us write safer code'
+   );
+}
+
+> type
+> =
