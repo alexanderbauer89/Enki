@@ -1,0 +1,6 @@
+Identify a valid blockchain operation from the list below:
+Modify data
+Update data
+Append data
+Remove data
+> Append data
