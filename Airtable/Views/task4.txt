@@ -1,0 +1,3 @@
+Sorting and filtering can be used for both ??? and ???.
+> editing a current view
+> creating a new view
