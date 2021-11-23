@@ -1,0 +1,6 @@
+Using the flexbox display option will
+
+provide you with a predefined way of displaying the children elements
+allow you to change how the children are displayed
+
+> allow you to change how the children are displayed
