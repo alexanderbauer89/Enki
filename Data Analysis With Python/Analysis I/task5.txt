@@ -1,0 +1,10 @@
+What will the .count() method do in the following code?
+
+df.loc[df['Type'] == 'Film'].count()
+
+Count the number of rows that have
+
+the Film value in the Type column.
+the Type value in the Film column.
+
+> the Film value in the Type column
