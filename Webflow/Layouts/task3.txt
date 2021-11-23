@@ -1,0 +1,10 @@
+Match the word with its description.
+
+block ???
+inline ???
+
+allows stacking on the same line but can't change width and height
+starts on a new line and pushes other elements on new lines
+
+> starts on a new line and pushes other elements on new lines
+> allows stacking on the same line but can't change width and height
