@@ -1,0 +1,14 @@
+Which statement will throw an error?
+const a: Object = {
+  enki: "fun",
+  };
+  
+ const b: object = {
+  enki: "fun",
+ };
+ 
+ const c: {enki: string} = {
+  enki: "fun",
+  };
+  
+> None of them
