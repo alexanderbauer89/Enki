@@ -1,0 +1,8 @@
+Choose from the following list the case in which successful mining doesn't yield any reward:
+
+Successfully mining blocks always yields rewards.
+The nonce is 0.
+There is a longer branch being built on.
+Double-spent attack.
+
+> There is a longer branch being built on.
