@@ -1,0 +1,8 @@
+What does a cryptocurrency wallet contain?
+
+A list of account ID and balance pairs
+A list of public and private key pairs
+A list of coin IDs
+A QR code
+
+> A list of public and private key pairs
