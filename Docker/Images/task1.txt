@@ -1,0 +1,2 @@
+Docker images are composed of ???
+> layers
