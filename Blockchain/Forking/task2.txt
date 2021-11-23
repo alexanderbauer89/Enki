@@ -1,0 +1,9 @@
+Identify what cannot be changed in the source code of a fork for it to be considered as a valid fork:
+
+The coin name
+The estimated time between blocks
+Anything can be changed
+The genesis block
+The mining puzzle
+
+> Anything can be changed
