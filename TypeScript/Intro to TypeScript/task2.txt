@@ -1,0 +1,2 @@
+TypeScript requires your code to run and produce an output before it can check for types.
+> False
