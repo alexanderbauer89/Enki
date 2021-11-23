@@ -1,0 +1,11 @@
+Which of these is not accessed through the style panel?
+
+Typography
+Background color
+Spacing
+Effects
+Borders
+Pages
+Position
+
+> Pages
