@@ -1,0 +1,8 @@
+What is the main purpose of the Ethereum Virtual Machine?
+
+To track digital coins ownership
+To create and breed cryptokitties
+To speed up digital transactions
+To run applications
+
+> To run applications
