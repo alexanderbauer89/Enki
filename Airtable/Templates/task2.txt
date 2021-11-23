@@ -1,0 +1,2 @@
+When discovering templates, Airtable shows a descriptions and ???
+> a preview of the selected option
