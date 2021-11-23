@@ -1,0 +1,8 @@
+Create a new collection named pokemon in MongoDB.
+
+???.???("
+???")
+
+> db
+> createCollection
+> pokemon
