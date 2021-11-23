@@ -1,0 +1,3 @@
+What can be removed in the ss part of our regex pattern to make it mandatory?
+/(:[0-5]\d?/
+> ?
