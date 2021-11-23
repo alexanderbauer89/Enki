@@ -1,0 +1,8 @@
+Why is DPoS more centralized than PoS?
+
+Only nodes with more tokens than average can propose blocks
+Only a limited number of nodes can propose blocks
+On the contrary, PoS is more centralized
+Because it is faster
+
+> Only a limited number of nodes can propose blocks
