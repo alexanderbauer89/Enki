@@ -1,0 +1,2 @@
+How could we match items in a shopping list that include the word 'apple'?
+> /apple/
