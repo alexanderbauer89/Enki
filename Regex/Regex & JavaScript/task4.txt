@@ -1,0 +1,8 @@
+Complete the following code to log true:
+
+const match = /dog/.exec(
+"I want a hot dog.");
+
+console.log(match[0] === '
+???')
+> dog
