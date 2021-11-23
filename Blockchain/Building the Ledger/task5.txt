@@ -5,3 +5,5 @@ Check block references
 Check for funds
 Check UTXOs
 Check for double-spend
+> Check for funds
+> Check for double-spend
