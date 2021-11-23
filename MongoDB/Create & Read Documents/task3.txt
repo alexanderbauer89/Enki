@@ -1,0 +1,7 @@
+List all documents in the pokemon collection.
+
+???.???.???
+
+> db
+> pokemon
+> find()
