@@ -1,0 +1,2 @@
+We want to accept both Visa and Mastercard. Which regex would allow us to successfully do so?
+> /^[45]\d{15}$/
