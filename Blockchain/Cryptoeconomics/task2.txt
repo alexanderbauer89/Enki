@@ -1,0 +1,7 @@
+What is the main driver of a cryptocoin price?
+
+Circulating supply
+Traded volume
+Market cap
+
+> Traded volume
