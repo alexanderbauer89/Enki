@@ -1,0 +1,29 @@
+Fill in the gaps to create a pie chart that has its third slice slightly separated from the chart. Don't forget to show the plot afterward.
+
+data = [100, 150, 200]
+labels = 'Milk', 'Coffee', 'Tea'
+
+plt.pie(
+    ???,
+    ???=labels,
+    ???=???,
+    autopct="%.f"
+)
+
+plt.title('Drinks left')
+???
+
+explode
+separate
+data
+plt.show()
+(0, 0, 0.1)
+labels
+(0.1, 0.1, 0)
+plt.dispaly()
+
+> data
+> labels
+> explode
+> (0, 0, 0.1)
+> plt.show()
