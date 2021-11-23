@@ -1,0 +1,2 @@
+When querying any NoSQL database, we are always guranteed to get accurate and up-to-date information:
+> False
