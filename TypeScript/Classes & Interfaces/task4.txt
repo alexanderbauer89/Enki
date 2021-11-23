@@ -1,0 +1,23 @@
+Fill in the gaps such that the code compiles without errors:
+
+interface Speaking {
+  volume: number;
+}
+
+interface Walking {
+  speed: number;
+}
+
+interface Human
+  ??? Speaking, Walking {
+  name: string;
+}
+
+let human = {
+  volume: ???,
+  speed: 19,
+  name: 'Tony Hoare'
+};
+
+> extends
+> 33
