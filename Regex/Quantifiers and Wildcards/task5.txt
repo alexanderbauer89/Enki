@@ -1,0 +1,3 @@
+Which regex pattern would match any non-digits in the following text?
+abc123xyz
+> /\D/
