@@ -1,0 +1,3 @@
+Which of these would be a match for the following regex pattern?
+/aeiouy?/
+> aeiou
