@@ -1,0 +1,9 @@
+Fill in the descriptions:
+Stopped ???
+Playing ???
+Holding ???
+Filtered ???
+> Zap ran into an error.
+> Zap is in the process of completing. 
+> Zap is on hold.
+> Zap was stopped due to a constraint.
