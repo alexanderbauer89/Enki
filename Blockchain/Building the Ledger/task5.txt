@@ -1,0 +1,7 @@
+Which are the first and second verifications at the transaction level?
+???
+???
+Check block references
+Check for funds
+Check UTXOs
+Check for double-spend
