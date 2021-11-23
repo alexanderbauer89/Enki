@@ -1,0 +1,15 @@
+The method that counts the number of rows on a Series or the number of rows times the number of columns on a DataFrame:
+
+???
+
+The method that groups data by a series of columns is:
+
+???
+
+This method returns the number of rows in each group of the specified column:
+
+???
+
+> .size()
+> .groupby()
+> .groupby().size()
