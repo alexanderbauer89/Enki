@@ -1,0 +1,5 @@
+Match the type with its descriptions:
++AND - ???
++OR - ???
+> both checks must pass
+> at least one check must pass
