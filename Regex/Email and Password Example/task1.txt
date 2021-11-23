@@ -1,0 +1,2 @@
+Which regex pattern would ensure that a password is between 8 and 16 characters in length?
+> /.{8,16}/
