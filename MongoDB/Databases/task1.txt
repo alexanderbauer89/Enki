@@ -1,0 +1,4 @@
+Write the command used to access the MongoDB interactive JavaScript shell:
+> mongo
+Write the command used to exit/quit the MongoDB interactive JavaScript shell:
+> exit
