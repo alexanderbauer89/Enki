@@ -1,0 +1,10 @@
+What is a property that is not required for one's Bitcoin activity to be unlinkable?
+
+It should be hard to
+
+look up previous out transactions of the same user
+link together addresses of the same user
+link the sender to its recipient
+link different transactions made by the same user
+
+> look up previous out transactions of the same user
