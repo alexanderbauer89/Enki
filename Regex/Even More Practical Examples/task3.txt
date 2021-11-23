@@ -1,0 +1,2 @@
+How could we write a regex pattern to match all <div> tags?
+> /<div[^>]*>.*?<\/div>/
