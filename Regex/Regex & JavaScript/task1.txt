@@ -1,0 +1,9 @@
+How would you check whether the class of a JavaScript object returns RegExp?
+
+let regex_pattern = /aeiou/
+
+console.log(???
+instanceof ???);
+
+> regex_pattern
+> RegExp
