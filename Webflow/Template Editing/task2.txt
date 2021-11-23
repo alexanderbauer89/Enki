@@ -1,0 +1,8 @@
+In the designer, you can ??? new elements/ components or ??? previously existing ones.
+
+merge
+add
+delete
+
+> add
+> delete
