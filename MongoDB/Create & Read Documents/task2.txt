@@ -1,0 +1,10 @@
+Method used to add a single document in Mongo:
+
+???()
+
+Method used to add multiple documents:
+
+???()
+
+> insertOne
+> insertMany
