@@ -1,0 +1,8 @@
+Identify one way of creating new cryptocurrencies:
+
+It can't be improved
+Adding new nodes to the network
+Modifying the mining puzzle
+Forking already established ones
+
+> Forking already established ones
