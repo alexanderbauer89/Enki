@@ -1,0 +1,8 @@
+In case the node picked to append the next block is based on the computing power it has, what is the process called?
+
+Proof of stake
+Proof of process
+Proof of work
+Proof of concept
+
+> Proof of work
