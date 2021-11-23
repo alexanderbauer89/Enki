@@ -1,0 +1,20 @@
+Fill in the blanks such that reader statisfies the BookReader interface:
+
+interface Book {
+  name: string;
+}
+
+interface BookReader {
+  books: ???;
+}
+
+let reader??? = {
+  books: [
+    { name: "Don Quixote"},
+    { name: "Robinson Crusoe"
+  },
+    ];
+ };
+ 
+ > Array
+ > :
