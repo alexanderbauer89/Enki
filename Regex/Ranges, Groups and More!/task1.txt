@@ -1,0 +1,2 @@
+How would you specifiy a range of letters from 'a' to 'm', taking into account capitalization, using regex?
+> /[a-mA-M]/
