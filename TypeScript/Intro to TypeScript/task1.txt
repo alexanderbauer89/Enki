@@ -1,0 +1,2 @@
+All features of JavaScript are included in TypeScript but not all features of TypeScript are included in JavaScript.
+> True.
