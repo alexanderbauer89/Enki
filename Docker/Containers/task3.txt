@@ -1,0 +1,6 @@
+Run a container (from the mongo image) with the name db and expose the port 27017 to port 3000 on host machine:
+docker run -p ???:??? --name ??? -it ???
+> 3000
+> 27017
+> db
+> mongo
