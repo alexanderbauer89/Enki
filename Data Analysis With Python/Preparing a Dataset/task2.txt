@@ -1,0 +1,13 @@
+??? are 1-Dimensional pandas arrays that can hold ???.
+??? are 2-Dimensional pandas arrays that can hold any data type.
+
+DataFrames
+Lists
+only strings and integers
+only dictionaries and integers
+Series
+any data type
+
+> Series
+> any data type
+> Data Frames
