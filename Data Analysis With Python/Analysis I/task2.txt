@@ -1,0 +1,15 @@
+Create a pie chart by filling in the blanks. Don't forget to show the plot.
+
+import matplotlib.pyplot as plt
+
+plt???(???)
+
+plt???
+
+.show()
+[1200, 900]
+.pie
+
+> .pie
+> [1200, 900]
+> .show()
