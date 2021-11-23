@@ -1,0 +1,3 @@
+What is the conensus algorithm implemented in the Bitcoin blockchain?
+Proof of ???
+> work
