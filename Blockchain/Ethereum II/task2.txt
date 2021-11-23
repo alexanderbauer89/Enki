@@ -1,0 +1,6 @@
+ERC20 token standard supports decimals?
+
+True
+False
+
+> True
