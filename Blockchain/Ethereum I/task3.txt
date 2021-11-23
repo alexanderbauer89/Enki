@@ -1,0 +1,10 @@
+What is the most notable token standard for Ethereum?
+
+???
+
+ECR20
+ECR21
+ERC2020
+ERC20
+
+> ERC20
