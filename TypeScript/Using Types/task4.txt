@@ -1,0 +1,22 @@
+What will be logged for A and B?
+function enki1(username?: string){
+  console.log(username); // A
+ }
+ 
+ function enki2(
+ isTypeScriptFun: boolean = true
+ )}
+  console.log(
+  'TS is fun: ${
+  isTypeScriptFun}' // B
+  );
+  }
+  
+  enki1();
+  enki2();
+  
+  A =
+  B =
+  
+  > undefined
+  > TS is fun: true
