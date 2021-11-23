@@ -1,0 +1,15 @@
+Fill in the gaps such that the next sentence makes sense:
+
+Bitcoin blockchain functionality is
+limited to ???
+while Ethereum blockchain can also
+???
+
+run and store applications
+ASICs for solving PoW
+use GPUs
+solve world hunger
+tracking a digital currency
+
+> tracking a digital currency
+> run and store applications
