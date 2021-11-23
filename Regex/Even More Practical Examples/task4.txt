@@ -1,0 +1,5 @@
+Using /^\w[\w.]{0,28}\w$/ as our regex pattern. Is the following username valid?
+
+enki_devs.
+
+> No
