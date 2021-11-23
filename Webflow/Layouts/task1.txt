@@ -1,0 +1,6 @@
+Padding is used to move components ??? from the border.
+
+closer to
+away
+
+> away
