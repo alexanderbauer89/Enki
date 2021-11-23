@@ -1,0 +1,15 @@
+Create the "London" instances of the City class:
+
+class City {
+  name: string;
+  constructor(cityName: string)
+  {
+    this.name = cityName;
+   }
+}
+
+let lond = ??? 
+???('London')
+
+> new
+> City
