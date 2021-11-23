@@ -1,0 +1,5 @@
+Which method can be used to remove all rows that have a NaN value?
+
+???
+
+> .dropna()
