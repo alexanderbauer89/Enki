@@ -1,0 +1,7 @@
+Will this code compile without errors?
+let lession =
+"Remember, TS guesses the type"
+;
+let points = 10;
+let result = points * lesson;
+> No
