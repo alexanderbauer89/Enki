@@ -1,0 +1,16 @@
+Complete the following block:
+
+???
+- can edit content
+- can edit structure
+- can edit design
+
+???
+-- can edit content
+
+designer
+color picker
+editor
+
+> designer
+> editor
