@@ -1,0 +1,10 @@
+What is the type of cryptography used for authentication on a distributed network?
+
+The network achieves decentralization
+Public-key cryptography
+Symmetric cryptography
+New tokens are created
+A new block is added
+RSA
+
+> Public-key cryptocraphy
