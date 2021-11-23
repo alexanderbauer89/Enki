@@ -1,0 +1,8 @@
+Complete the following:
+
+let string = "which position";
+string.search(/o/i);
+
+// ???
+
+> 7
