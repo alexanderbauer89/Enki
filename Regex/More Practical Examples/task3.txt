@@ -1,0 +1,3 @@
+Imagine that we don't want to include hyphens or spaces in our pattern for Visa cards. What can we remove from the following regex pattern?
+/(\d{4}[-\s?){4}/
+> [-\s]?
