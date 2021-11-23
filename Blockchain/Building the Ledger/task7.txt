@@ -1,0 +1,10 @@
+What is it that keeps nodes from going bad?
+??? incentives and ???
+
+Good faith
+Exclusion from blockchain
+Monetary
+Higher pick rate
+
+> Monetary
+> Exclusion from blockchain
