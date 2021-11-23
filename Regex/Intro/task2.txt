@@ -1,0 +1,2 @@
+A regex can be used to check if some text contains a vaild email address.
+> True
