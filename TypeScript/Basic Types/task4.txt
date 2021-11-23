@@ -1,0 +1,11 @@
+What will be the value logged in the console?
+enum Enki {
+  a,
+  b = 10,
+  c,
+}
+
+let enki: Enki = Enki.c;
+console.log(enki);
+// ???
+> 11
