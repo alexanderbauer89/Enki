@@ -1,0 +1,2 @@
+A bind mount is ???
+> a file or directory on the host machine directly mounted onto a file path within a container
