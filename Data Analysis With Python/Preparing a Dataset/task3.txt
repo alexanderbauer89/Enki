@@ -1,0 +1,7 @@
+Import a dataset called my_data.csv into a DataFrame called df.
+
+??? = pd.???('???')
+
+> df
+> read_csv
+> my_data.csv
