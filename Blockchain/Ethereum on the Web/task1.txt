@@ -1,0 +1,8 @@
+What currencies can Metamask keep track of?
+
+Ethereum, ERC20 and Bitcoin
+Ethereum and Bitcoin
+Ethereum
+Ethereum and ERC20
+
+> Ethereum and ERC20
