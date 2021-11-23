@@ -1,0 +1,8 @@
+The ??? method is used to remove columns from a DataFrame.
+
+.remove()
+.getRidOf()
+.drop()
+.disable()
+
+> .drop()
