@@ -1,0 +1,13 @@
+The three things you need for setting up a mining data center are:
+
+???, not to miss out on blocks
+???, to pay the minimum price to run the rig
+???, to help with cooling
+
+cheap power
+cool climate
+good network
+
+> good network
+> cheap power
+> cool climate
