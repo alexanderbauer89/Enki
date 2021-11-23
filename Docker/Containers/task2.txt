@@ -1,0 +1,3 @@
+Docker container is more ??? than a VM which allows it to be started, stopped and replicated more ???
+> light-weight
+> efficiently
