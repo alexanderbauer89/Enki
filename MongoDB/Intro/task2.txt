@@ -1,0 +1,2 @@
+Which are 4 types of NoSQL databases:
+> Column, Graph, Documents, Key-Value
