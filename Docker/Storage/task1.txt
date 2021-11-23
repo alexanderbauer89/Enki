@@ -1,0 +1,2 @@
+When a Docker container is destroyed, all of its data is still available.
+> false
