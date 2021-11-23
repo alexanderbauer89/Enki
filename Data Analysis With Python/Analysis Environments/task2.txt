@@ -1,0 +1,6 @@
+Notebooks are documents that support
+
+only code and images
+various elements such as code, text and images, and more
+
+> various elements such as code, text and images, and more
