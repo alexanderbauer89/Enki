@@ -1,0 +1,2 @@
+Delete (drop) the currently active database in MongoDB:
+> db.dropDatabase()
