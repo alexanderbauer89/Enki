@@ -1,0 +1,6 @@
+Which of the following phrases is false?
+Base 1 Table A
+       Table B
+Base 2 Table C
+
+> You can link records from Table C to Table A
