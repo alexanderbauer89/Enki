@@ -1,0 +1,8 @@
+What is the main difference between PoW (Proof of Work) and PoS (Proof of Stake)?
+
+No verification needed
+Miners are called stakeholders
+Miners verify
+No mining hardware needed
+
+> No mining hardware needed
