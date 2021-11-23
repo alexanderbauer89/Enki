@@ -1,0 +1,8 @@
+Will this code produce an error?
+function cheers(): any {
+  return null;
+ }
+ 
+ cheers();
+ 
+ > No
