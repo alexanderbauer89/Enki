@@ -1,0 +1,7 @@
+Complete the regex pattern to match the following email address.
+tacos@enki.com
+/??? ??? ??? ???/
+> (tacos)
+> @
+> [a-z]+
+> (?:\.[a-z]+)*
