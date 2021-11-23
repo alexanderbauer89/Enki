@@ -1,0 +1,2 @@
+Docker DNS relies on ??? to locate and identify containers.
+> names
