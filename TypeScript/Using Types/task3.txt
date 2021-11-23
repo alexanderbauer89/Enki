@@ -1,0 +1,17 @@
+Which line do you think will compile without errors?
+function getLessonsLearned(
+ username: string
+ ) {
+  return [
+    "optional static types",
+    "modern javascript features",
+    "structural typing",
+    ];
+   }
+   
+  // A.ts
+  getLessonsLearned("Zamolxis");
+  
+  // B.ts
+  getLessonsLearned(100);
+  > A
