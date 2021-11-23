@@ -1,0 +1,11 @@
+Fill in the definitions:
+
+Cell ???
+Workspace ???
+Base ???
+Table ???
+
+> Intersection between a row and column
+> Collection of projects
+> A set of table
+> Spreadsheet of cells
