@@ -1,0 +1,8 @@
+In the context of Bitcoin, which piece of hardware is the most effective for mining?
+
+ASIC
+CPU
+GPU
+FPGA
+
+> ASIC
