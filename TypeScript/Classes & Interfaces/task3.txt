@@ -1,0 +1,20 @@
+Fill in the gaps such that the code contains no type errors:
+??? MobileApp {
+  category: string;
+}
+
+??? EnkiApp
+??? MobileApp {
+  category: ???
+}
+
+// Hint: we're not passing
+// in the category
+const e = ??? EnkiApp();
+e.category;
+
+> interface
+> class
+> implements
+> string =
+> new
