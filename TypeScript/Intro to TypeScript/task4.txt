@@ -1,0 +1,3 @@
+To compile a TypeScript file called enki.ts into a JavaScript file called enki.js, you have to run the following command:
+??? enki.ts
+> tsc
