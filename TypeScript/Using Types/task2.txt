@@ -1,0 +1,2 @@
+Declare a variable ts with the type string and a value 'is fun':
+> let ts: string = 'is fun'
