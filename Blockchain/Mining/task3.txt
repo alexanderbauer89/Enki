@@ -1,0 +1,13 @@
+Identify a pro and a con of mining in a pool:
+
+pro: ???
+con: ???
+
+downtime independent of miner
+highter uptime
+high reward
+steadier income
+no fees
+
+> steadier income
+> downtime indeptendent of miner
