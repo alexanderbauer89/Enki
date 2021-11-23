@@ -1,0 +1,2 @@
+Volume data is still available when we remove the container.
+> true
