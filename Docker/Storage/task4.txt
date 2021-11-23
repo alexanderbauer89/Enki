@@ -1,0 +1,3 @@
+The tmpfs mount is a storage option in Docker where data is persisted ?? and is available only on ???.
+> temporary
+> Linux
