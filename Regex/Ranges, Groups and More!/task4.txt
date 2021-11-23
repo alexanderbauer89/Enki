@@ -1,0 +1,5 @@
+Which regex pattern would match with the first line of text?
+Mission: successful
+Last Mission: unsuccessful
+Next Mission: succesful upon capture of target
+> /^(Mission: succesful)/
