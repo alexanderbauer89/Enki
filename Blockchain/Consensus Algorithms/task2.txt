@@ -1,0 +1,8 @@
+In the context of Bitcoin, what is the puzzle solved?
+
+Finding a hash less than a target
+Finding a Cunningham chain
+Computing private keys
+Reversing a hash
+
+> Finding a hash less than a target
