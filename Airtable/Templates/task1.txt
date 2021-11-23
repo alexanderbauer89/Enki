@@ -1,0 +1,3 @@
+A template is a ??? created for ???.
+> base
+> a specific purpose
