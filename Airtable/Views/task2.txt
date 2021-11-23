@@ -1,0 +1,2 @@
+To make a new view, you have to ??? and select the new view you want.
+> click on the current view
