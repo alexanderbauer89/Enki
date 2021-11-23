@@ -1,0 +1,10 @@
+Fill in the gaps to display every person in the people dataset whose age is 27 or older.
+
+people.loc[
+  ???['???']
+  ??? '27'
+]
+
+> people
+> age
+> >=
