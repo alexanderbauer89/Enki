@@ -1,0 +1,8 @@
+??? is used to check if cells are empty or not?
+
+isnan()
+isempty()
+isnull()
+exists()
+
+> isnull()
