@@ -1,0 +1,8 @@
+What are the 4 standard states of all elements?
+
+None, Hover, Checked, and Default
+Focussed, Pressed, None and Hover
+Pressed, None, Checked and Hover
+Hover, Checked, isClicked and None
+
+> Focussed, Pressed, None and Hover
