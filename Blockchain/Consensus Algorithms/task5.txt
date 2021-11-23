@@ -1,0 +1,12 @@
+In general, which solution to the Byzantine Generals Problem is the fastest (first answer) and which is the slowest (second answer)?
+???
+???
+
+Delegated proof of stake
+Proof of stake
+Federative byzantine agreement
+Byzantine fault tolerance
+Proof of work
+
+> Federative byzantine agreement
+> Proof of work
