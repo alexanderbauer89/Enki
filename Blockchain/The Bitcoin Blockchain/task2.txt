@@ -1,0 +1,2 @@
+What was the maximum number of transactions per second the Bitcoin network could initially process?
+> 7
