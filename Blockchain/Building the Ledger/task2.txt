@@ -1,0 +1,2 @@
+What does UTXO stand for?
+> Unspent transaction output
