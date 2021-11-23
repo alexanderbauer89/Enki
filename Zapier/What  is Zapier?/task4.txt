@@ -1,0 +1,9 @@
+Match the words with their description:
+zap ???
+trigger ???
+action ???
+task ???
+> The entire integration
+> An event that starts a zap.
+> An event that will be performed be the zap after a trigger.
+> Any single action performed by Zapier.
