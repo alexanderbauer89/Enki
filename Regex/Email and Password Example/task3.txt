@@ -1,0 +1,3 @@
+Using the regex below, we could match the email address we_love_code@enki.com.
+/[a-z]+@[a-z]+\.[a-z]{2,6}/i
+> False
