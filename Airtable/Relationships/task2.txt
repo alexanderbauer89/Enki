@@ -1,0 +1,2 @@
+To link two already existing tables you have to ???
+> Create a new field and select the Link
