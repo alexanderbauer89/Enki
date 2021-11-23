@@ -1,0 +1,13 @@
+What is the type of cryptography used for authentication on a distributed network?
+???
+What is the outcome of reaching a consensus?
+???
+A new block is added
+The network achieves decentralization
+New tokens are created
+Symmetric cryptocraphy
+RSA
+Public-key cryptography
+
+> Public-key cryptography
+> A new block is added
