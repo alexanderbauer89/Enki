@@ -1,0 +1,8 @@
+On which two levels are verifications conducted?
+
+Transaction and Square
+Transaction and Block
+Transfer and Transaction
+Transcript and Block
+
+> Transaction and Block
