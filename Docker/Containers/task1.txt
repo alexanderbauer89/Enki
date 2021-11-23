@@ -1,0 +1,2 @@
+Virtualization allows us to abstract away the hardware. This enables us to use ??? physical machines for running and deploying our software.
+> fewer
