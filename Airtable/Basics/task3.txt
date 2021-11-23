@@ -1,0 +1,2 @@
+When changing the type of a field, what happens to the data that doesn't fit the new type?
+> It's deleted.
