@@ -1,0 +1,11 @@
+??? are command-line tools used to execute code.
+??? are pieces of code saved into files.
+??? are sessions on the computer used to communicate code to shells.
+
+Scripts
+Shells
+Terminals
+
+> Shells
+> Scripts
+> Terminals
