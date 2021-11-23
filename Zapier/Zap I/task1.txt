@@ -1,0 +1,2 @@
+How does information flow in Zapier?
+> From top to bottom.
