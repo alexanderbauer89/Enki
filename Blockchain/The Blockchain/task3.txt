@@ -1,0 +1,7 @@
+What function is used to check if the content of any block has been altered?
+???
+Identify a property of the above function:
+???
+
+> Hash function
+> One-way function
