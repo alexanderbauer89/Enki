@@ -1,0 +1,16 @@
+Delete the first document in the pokemon table of type "Fire".
+
+???.pokemon.???
+({
+  ??? : "???"
+})
+
+Delete all documents within the pokemon collection:
+
+???
+
+> db
+> deleteOne
+> type
+> Fire
+> db.pokemon.deleteMany()
