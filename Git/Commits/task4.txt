@@ -1,0 +1,6 @@
+The commit cherry-picked in the example was applied on
+
+master
+other branch
+
+> master
