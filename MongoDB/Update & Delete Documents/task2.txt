@@ -1,0 +1,12 @@
+How would you update all documents of type: "Poison" to be of type: "Normal"?
+
+db.pokemon.???(
+  { ??? : "Poison" },
+  { ??? : { type:
+ ??? } }
+);
+
+> update.Many
+> type
+> $set
+> "Normal"
