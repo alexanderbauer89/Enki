@@ -1,0 +1,21 @@
+What does the .str.replace() method do in this code?
+
+df['duration'] = \
+  df['duration']\
+  .str.replace(" min", "")
+  
+Replaces every string in the ??? column of the ??? DataFrame that has a ??? substring in it with ???.
+
+df
+a space
+DF
+replace
+duration
+nothing
+" min"
+"min "
+
+> duration
+> df
+> " min"
+> nothing
