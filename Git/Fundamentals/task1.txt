@@ -1,0 +1,7 @@
+What type of VCS only makes use of a local database to keep changes of files under version control?
+
+Centralised Version Control
+Distributed Version Control
+Local Version Control
+
+> Local Version Control
