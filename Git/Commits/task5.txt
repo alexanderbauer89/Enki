@@ -1,0 +1,7 @@
+Git hashing is based on the content of a file or directory structure.
+
+content
+date of creation
+name
+
+> content
