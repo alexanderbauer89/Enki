@@ -1,0 +1,19 @@
+What is the $limit aggregation stage used for?
+
+???
+
+Which of the 2 examples below is a valid $limit stage?
+
+???
+
+// A
+{ $limit: 5 }
+// B
+{ $limit: -5 }
+
+A B
+To limit the number of documents you want to aggregate
+To limit the number of stages for the aggregation
+
+> To limit the number of documents you want to aggregate
+> A
