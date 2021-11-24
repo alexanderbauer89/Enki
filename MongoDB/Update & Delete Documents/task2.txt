@@ -1,0 +1,9 @@
+In MongoDB, the names of collection are case-sensitive. This means that the enki collection is not the same as the Enki collection.
+
+the same
+not the same
+case-sensitive
+case-insensitive
+
+> case-sensitive
+> not the same
