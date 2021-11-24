@@ -1,0 +1,19 @@
+What is the $skip aggregation stage used for?
+
+???
+
+Which of the 2 examples below is a valid $skip stage?
+
+???
+
+// A
+{ $skip: 9.9 }
+// B
+{ $skip: 99 }
+
+To skip a specified number of documents to be aggregated starting from the first
+B  A
+To skip the number of stages the documents will go through
+
+> To skip a specified number of documents to be aggregated starting from the first
+> B
