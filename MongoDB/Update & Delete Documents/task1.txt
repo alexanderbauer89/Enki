@@ -1,0 +1,12 @@
+How would you change the name of a pokemon from "Tyran" to "Tyranitar"?
+
+db.pokemon.???(
+    { ??? : ??? }.
+    { ??? : { name:
+  "Tyranitar" }}
+)}
+
+> updateOne
+> name
+> "Tyran"
+> $set
