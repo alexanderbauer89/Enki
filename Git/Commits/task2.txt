@@ -1,0 +1,7 @@
+Commit the changes with the message "issue no.8 fixed":
+
+git ??? ??? ???
+
+> commit
+> -m
+> "issue no.8 fixed"
