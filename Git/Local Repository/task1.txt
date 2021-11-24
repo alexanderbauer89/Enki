@@ -1,0 +1,8 @@
+The area with the files you are working on is called the
+
+working tree
+GitHub
+working
+staging
+
+> working tree
