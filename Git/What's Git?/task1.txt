@@ -1,0 +1,9 @@
+Git is a ??? Version ??? System.
+
+Cloning
+Control
+Dynamic
+Distributed
+
+> Distributed
+> Control
