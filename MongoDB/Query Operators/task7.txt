@@ -1,0 +1,30 @@
+Complete each query.
+
+Find all pokemon whose age is exactly 41:
+
+db.pokemon.find({
+  ???: { ???:
+  41 }
+})
+
+Find all pokemon that don't have a type of either Mud or Flying:
+
+db.pokemon.find({
+  ???: {
+    ???: ["Mud", "Flying"]
+    }
+ })
+ 
+ Find all pokemon whose power does not equal 500:
+ 
+ db.pokemon.find({
+  ???: { ???:
+  500 }
+})
+
+> age
+> $eq
+> type
+> $nin
+> power
+> $ne
