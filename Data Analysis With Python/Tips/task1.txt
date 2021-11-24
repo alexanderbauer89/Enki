@@ -1,0 +1,47 @@
+Give the DataFrame:
+
+import pandas as pd
+
+df = pd.DataFrame({
+    'name': [
+              'Joe',
+              'Ana',
+              'Mariana',
+              'Ana-Maria',
+              'Magdalena',
+              'Aleksandra',
+              'Aleks',
+              'Sandra'
+              ],
+  })
+            
+If we did this:
+
+df[df['name']\
+  .str.contains('ana', case=False)]
+  
+What do you think the output would be?
+
+# Option A
+Index       Value
+0           False
+1           False
+2           False
+3           True
+4           False
+5           False
+6           False
+7           False
+8           False
+Name: name, dtype: bool
+
+# Option B
+            name
+2           Ana
+3           Mariana
+4           Ana-Maria
+
+# The output would be
+# Option ???
+
+> B
