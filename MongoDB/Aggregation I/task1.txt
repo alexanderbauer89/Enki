@@ -1,0 +1,5 @@
+Which aggregation pipeline stage is used to filter through and only aggregate fields matching a specified value?
+
+???
+
+> $match
