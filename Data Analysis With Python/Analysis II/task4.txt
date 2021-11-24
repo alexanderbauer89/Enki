@@ -1,0 +1,13 @@
+Finish the code to create alternating colors on a bar chart:
+
+df.plot(
+    x=x1,
+    y=x2,
+    ???="???",
+    ???=['red', 'green', 'blue']
+)
+plt.show()
+
+> kind
+> bar
+> color
