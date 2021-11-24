@@ -1,0 +1,21 @@
+Which of the following represents the correct way of selecting documents that fit within a defined range:
+
+// A
+db.collection.find({
+  field: {$lt: 100},
+  field: {$gt: 1}
+});
+
+// B
+db.collection.find({
+  field: {$lt: 100, $gt: 1}
+});
+
+// C
+db.collection.find({
+  field: { {$lt: 100}, {$gt: 1} }
+});
+
+C B A
+
+> B
