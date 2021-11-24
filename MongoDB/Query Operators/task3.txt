@@ -1,0 +1,9 @@
+Fill in the blanks to create a simple query that finds all "Mud" type pokemon in the pokemon collection.
+
+db.???.find({
+  ???: ???
+});
+
+> pokemon
+> type
+> "Mud"
