@@ -1,0 +1,16 @@
+Fill in the gaps to make the comments valid.
+
+humans
+  ???(columns={
+  ???:'People'})\
+  .sort_values('???')\
+  .reset_index(drop=???)
+  
+# Rename the second column of the humans df to "People"
+# Sort the values by the People column
+# reset the index but don't add a new column
+
+> .rename
+> 1
+> People
+> True
