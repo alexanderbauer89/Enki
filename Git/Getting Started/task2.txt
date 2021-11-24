@@ -1,0 +1,8 @@
+What will running git init do?
+
+link you project to GitHub
+upload your project to the Git server
+download a sample project from the web
+setup Git and bring your project under its Source Control
+
+> setup Git and bring your project under its Source Control
