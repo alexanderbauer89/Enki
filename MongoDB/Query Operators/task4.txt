@@ -1,0 +1,18 @@
+Find all the documents (pokemon) within the pokemon collection that have a type that's either "Water" or "Fire".
+
+db.pokemon.???({
+  type: {
+    ???: ???
+  }
+});
+
+$in
+["Water", "Fire"]
+$or
+find
+search
+[{type: "Water" }, {type: "Fire"}]
+
+> find
+> $in
+> ["Water", "Fire"]
