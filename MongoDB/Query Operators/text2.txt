@@ -1,0 +1,22 @@
+True or False?
+
+Why ObjectIds are better than manually inputted ones.
+
+Maintained by MongoDB: ???
+Auto-generated: ???
+Contain a time stamp in the form of an ISODate: ???
+Always unique: ???
+
+False
+True
+False
+False
+False
+True
+True
+True
+
+> True
+> True
+> True
+> True
