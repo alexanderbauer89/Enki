@@ -1,0 +1,17 @@
+Fill in the gaps to make the comments valid.
+
+df.set_index('???')\
+  ??????('-',expand=True)\
+  ???\
+  ???('name')
+  
+ # Set the Index to an existing column 'name'
+ # split the people column by the '-' delimiter
+ # stack each value into individual rows
+ # Reset the index to the previously selected column
+ 
+ > name
+ > .people
+ > .str.split
+ > .stack()
+ > .reset_index
