@@ -1,0 +1,9 @@
+Files that are not in the staging area and were not included in the last commit are:
+
+modified
+staged
+added
+tracked
+untracked
+
+> untracked
