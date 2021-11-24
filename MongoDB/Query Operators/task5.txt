@@ -1,0 +1,11 @@
+Which operator matches the description:
+
+??? // Less than
+??? // Less than or equal to
+??? // Greater than
+??? // Greater than or equal to
+
+> $lt
+> $lte
+> $gt
+> $gte
