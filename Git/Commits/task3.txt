@@ -1,0 +1,9 @@
+You can add a commit message template using:
+
+git ??? -- global
+  ???.???
+  ~/.template.txt
+  
+> config
+> commit
+> template
