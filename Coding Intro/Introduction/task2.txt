@@ -1,0 +1,10 @@
+Let's take a glimpse into the world of coding with Python! Can you figure out how to print a message to the screen?
+
+???("My first line of code!")
+
+print
+splash
+reveal
+manifest
+
+> print
