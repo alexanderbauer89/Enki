@@ -1,0 +1,17 @@
+What is the $count aggregation stage used for?
+
+???
+
+Which string can be used as the name of the output field for the $count aggregation stage?
+
+???
+{$count: "$totalNumber" }
+To count the number of remaining documents in the aggregation pipeline
+{ $count: "" }
+{ $count: "totalNumber" }
+To count the number of aggregation stages each document passes through
+To sort documents based on the specified number
+{ $count: "total.Number" }
+
+> To count the number of remaining documents in the aggregation pipeline
+> { $count: "totalNumber" }
