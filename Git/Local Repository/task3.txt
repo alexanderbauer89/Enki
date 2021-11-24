@@ -1,0 +1,6 @@
+What's the command that will add all the files in the current directory to the stagin area?
+
+git ??? ???
+
+> add
+> .
