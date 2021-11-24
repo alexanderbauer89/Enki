@@ -1,0 +1,7 @@
+Write the command to commit all tracked files:
+
+??? ??? ???
+
+> git
+> commit
+> -a
