@@ -1,0 +1,7 @@
+What is Git's versioning based on?
+
+Content of the file
+Name of the file
+Both
+
+> Content of the file
