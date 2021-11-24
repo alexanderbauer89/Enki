@@ -1,0 +1,39 @@
+Knowing that the pokemon collection has a total of 10 documents, choose the query that produces the correct output:
+
+// A
+db.pokemon.aggregate([
+  {
+    $skip: 5,
+    $limit: 5
+  },
+  { $count: "result" }
+]);
+
+// B
+db.pokemon.aggregate([
+  { $skip: 5 },
+  { $limit: 5},
+  { $count: "result" }
+]);
+
+// C
+db.pokemon.aggregate([
+  $limit: 5,
+  $skip: 5
+  },
+  { "count": "result" }
+]);
+
+// D
+db.pokemon.aggregate([
+  { $limit: 5 },
+  { $skip: 5 },
+  { $count: "result" }
+]);
+
+// Output:
+// {
+//    "result": 5
+// }
+
+> B
