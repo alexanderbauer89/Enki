@@ -1,0 +1,6 @@
+Complete the command below to force the delete of my-branch:
+
+git ??? ??? my-branch
+
+> branch
+> -D
