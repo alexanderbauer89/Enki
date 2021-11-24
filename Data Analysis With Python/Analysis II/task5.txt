@@ -1,0 +1,15 @@
+Fill in the gaps to plot a line-styled chart. The chart should have an x marker, a dotted line, and red color.
+
+import matplotlib.pyplot as plt
+
+plt.???(x1, x2, \
+  label="This is a label",\
+  ??? =':',\
+  marker='???',\
+  ???='???')
+  
+> plot
+> linestyle
+> x
+> color
+> red
