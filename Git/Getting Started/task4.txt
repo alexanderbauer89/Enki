@@ -1,0 +1,8 @@
+What other name does the staging area have?
+
+stage
+index
+Head
+tag
+
+> index
