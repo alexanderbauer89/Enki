@@ -1,0 +1,8 @@
+What status does a file have if it was previously committed, but it is not currently staged?
+
+Staged
+Modified
+Untracked
+Tracked
+
+> Tracked
