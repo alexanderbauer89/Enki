@@ -1,0 +1,7 @@
+The usual commit object contains a hash-code, author's name and email, date and
+
+description
+checksum
+SHA-1
+
+> description
