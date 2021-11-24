@@ -1,0 +1,8 @@
+Complete the command to change your username for all projects:
+
+git ??? ??? \
+  user.??? "My Name"
+  
+> config
+> --global
+> name
