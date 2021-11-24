@@ -1,0 +1,8 @@
+You can store a snapshot of the data in the local repository by
+
+doing nothing, Git saves them automatically
+tracking
+creating a Git repository
+committing
+
+> committing
