@@ -1,0 +1,8 @@
+Complete the code snippet below so it removes the most recent set of changes in the stash:
+
+git stash ??? 
+ ???@???
+ 
+> drop
+> stash
+> {0}
