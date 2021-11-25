@@ -1,0 +1,13 @@
+Extract the value for the color key using dot notation:
+
+my_dog = {
+  name: "Artemis",
+  age: 4,
+  color: "yellow"
+}
+
+my_dog???????
+// "yellow"
+
+> .
+> color
