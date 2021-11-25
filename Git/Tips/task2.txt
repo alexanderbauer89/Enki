@@ -1,0 +1,15 @@
+Configure your key to be 0A45226A then sign a commit with it:
+
+git config --global ???
+
+                    0A45226A
+                    
+git add .
+
+git commit ???
+???
+            "commit signed"
+            
+> user.signingkey
+> -S
+> -m
