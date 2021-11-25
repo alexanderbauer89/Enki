@@ -1,0 +1,8 @@
+What is a "metric" in Google Analytics?
+
+The numbers in a data set often paired with dimensions.
+A dimension that can help you analyze site performance.
+The dates in your date range.
+A segment of data separated out in a report for comparision.
+
+> The numbers in a data set often paired with dimensions.
