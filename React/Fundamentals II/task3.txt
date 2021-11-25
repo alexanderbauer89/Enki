@@ -1,0 +1,22 @@
+Complete the second code snippet such that it's equivalent to the first.
+
+First:
+
+class Test extend React.
+Component {
+  render() {
+    return <p>{this.props.test}
+</p>;
+  }
+}
+
+Second:
+
+??? Test(???) {
+  ??? <p>???</p>;
+}
+
+> function
+> props
+> return
+> {props.test}
