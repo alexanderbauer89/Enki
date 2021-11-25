@@ -1,0 +1,6 @@
+Every step of a sales process can be turned into a trackable metric.
+
+True
+False
+
+> True
