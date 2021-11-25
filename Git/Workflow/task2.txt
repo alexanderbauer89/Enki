@@ -1,0 +1,6 @@
+Create a new branch :
+
+git ??? ??? newFeature
+
+> checkout
+> -b
