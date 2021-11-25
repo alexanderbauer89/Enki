@@ -1,0 +1,5 @@
+*.png diff=exif should be added to which file?
+
+???
+
+> .gitattributes
