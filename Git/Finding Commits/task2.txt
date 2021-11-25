@@ -1,0 +1,7 @@
+Search for the commits made by "enki" or "Joe".
+
+git log ???="
+  ???\|Joe"
+  
+> --author
+> enki
