@@ -1,0 +1,10 @@
+What does Google Analytics call a URL that passes data parameters for reporting?
+
+A
+
+tag
+hit
+dimension
+metric
+
+> hit
