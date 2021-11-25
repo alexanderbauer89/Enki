@@ -1,0 +1,15 @@
+Run the command to find out the unique abbreviation of a checksum :
+
+git ??? ???
+      ???=???
+      
+show
+online
+--abbrev-commit
+--pretty
+log
+
+> log
+> --abbrev-commit
+> --pretty
+> oneline
