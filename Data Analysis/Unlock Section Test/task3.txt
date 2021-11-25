@@ -1,0 +1,8 @@
+What is a Pivot Table?
+
+A tool used to summarize data.
+A table containing only black, grey and white formatting.
+A table containing data that is organized horizontally.
+A table used to calculate financial pivot values.
+
+> A tool used to summarize data.
