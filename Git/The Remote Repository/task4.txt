@@ -1,0 +1,5 @@
+To check what files were not successfully merged automatically:
+
+git ???
+
+> status
