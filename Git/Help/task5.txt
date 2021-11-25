@@ -1,0 +1,7 @@
+Create a newBranch that has the ba23fe1 commit as the starting point:
+
+git ??? ???
+  ba23fe1
+  
+> branch
+> newBranch
