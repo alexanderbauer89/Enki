@@ -1,0 +1,8 @@
+Which of the following does not represent a React hook?
+
+custom hook
+lifecycle hook
+state hook
+effect hook
+
+> lifecycle hook
