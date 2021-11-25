@@ -1,0 +1,10 @@
+The $group aggregation stage is used ???
+The $sum accumulator is used ???
+
+to sum all numerical values by a specified expression.
+to sum all non-numerical and numerical values and output a combined result.
+to group aggregation stages as a single aggregation.
+to group documents by a specified expression.
+
+> to group documents by a specified expression.
+> to sum all numerical values by a specified expression.
