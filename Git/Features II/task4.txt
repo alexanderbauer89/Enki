@@ -1,0 +1,6 @@
+You can flag a commit as broken using :
+
+git ??? ???
+
+> bisect
+> bad
