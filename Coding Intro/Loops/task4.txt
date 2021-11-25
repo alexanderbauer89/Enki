@@ -1,0 +1,6 @@
+In a DO..WHILE loop, which happens first?
+
+The condition is checked.
+The code is run.
+
+> The code is run.
