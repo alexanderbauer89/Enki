@@ -1,0 +1,7 @@
+For complex projects, the best practice is to work on
+
+auxiliary branches
+a single other branch
+master branch
+
+> auxiliary branches
