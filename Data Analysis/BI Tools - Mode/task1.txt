@@ -1,0 +1,6 @@
+You can write Python code in Mode.
+
+True
+False
+
+> True
