@@ -1,0 +1,31 @@
+Complete the constructor of the following React Component so that you can use this keyword in myHandler():
+
+class Practice extends React.
+  Component {
+    constructor (props) {
+      super(props)
+      this.??? =
+        ???.???(???)
+   }
+   myHandler() {
+   
+   // "this" should be available here
+   
+    console.log('practice');
+  }
+  // render() ...
+}
+
+bind(this)
+this
+bind()
+this.myHandler
+myHandler()
+bind
+myHandler
+this.myHandler()
+
+> myHandler
+> this.myHandler
+> bind
+> this
