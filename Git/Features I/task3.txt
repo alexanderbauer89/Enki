@@ -1,0 +1,6 @@
+View the latest commit on master as of 3 days ago:
+
+git ??? ??? @{3.days.ago}
+
+> show
+> master
