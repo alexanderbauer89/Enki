@@ -1,0 +1,6 @@
+Show the last commit on each branch:
+
+git ??? ???
+
+> branch
+> -v
