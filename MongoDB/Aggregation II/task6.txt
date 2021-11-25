@@ -1,0 +1,18 @@
+Let's say we have a collection named students with 2000 documents. Each student has a name, studentId and averageGrade field. 
+Count all documents whose averageGrade is greater than 90 and sort them in descending order.
+
+db.students.???([
+  {
+    ???: {  ???:
+ { $gt: 90 }  }
+  },
+  {
+    $sortByCount:
+"$averageGrade"
+  }
+])
+
+> aggregate
+> $match
+> averageGrade
+> $sortByCount
