@@ -1,0 +1,13 @@
+What does this tell us about the file enki.md?
+
+git status --short
+M   enki.md
+ M  hello.md
+ 
+
+enki.md is a new staged file
+enki.md is modified and not staged
+enki.md is modified and staged
+enki.md is a new untracked file
+
+> enki.md is modified and staged
