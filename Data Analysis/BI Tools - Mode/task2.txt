@@ -1,0 +1,8 @@
+Mode's Notebook supports Python 2.7, Python 3 and
+
+SQL
+MySQL
+PostgreSQL
+R
+
+> R
