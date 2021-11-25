@@ -1,0 +1,5 @@
+How could you quickly check the number of rows and columns in a data set?
+
+data_set.???
+
+> shape
