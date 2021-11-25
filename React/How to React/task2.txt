@@ -1,0 +1,34 @@
+Complete the following component such that it will render "Hello, World":
+
+function A(props) {
+  const y = props.y;
+  if  (???) {
+    return null;
+  }
+  return (
+    <div>
+    {y ??? <h2>Hello, World
+ </h2>}
+    ???
+  );
+}
+
+ReactDOM.render(
+  <A x={true} y={true} />,
+  document.getElementById(
+ 'root')
+);
+
+<div>
+!x
+x
+&&
+</div>
+!props.x
+</h2>
+||
+props.x
+
+> !props.x
+> &&
+> </div>
