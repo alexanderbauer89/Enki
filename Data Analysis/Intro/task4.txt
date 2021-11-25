@@ -1,0 +1,6 @@
+Data Analysis focuses more on machine learning and predictive modelling.
+
+False
+True
+
+> False
