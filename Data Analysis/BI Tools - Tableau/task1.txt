@@ -1,0 +1,7 @@
+Which Tableau product can you use for sharing your reports?
+
+Tableau Prep
+Tableau Server
+Tableau Desktop
+
+> Tableau Server
