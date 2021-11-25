@@ -1,0 +1,8 @@
+Undo the last commit in the current branch:
+
+??? ???
+???
+
+> git
+> revert
+> HEAD
