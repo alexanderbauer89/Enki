@@ -1,0 +1,11 @@
+Which of the following is an integer?
+
+a = 1
+b = "1"
+c = "one"
+
+a
+b
+c
+
+> a
