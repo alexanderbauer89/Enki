@@ -1,0 +1,6 @@
+Google Analytics can tell you information about your users' demographics - age, gender, location, interests, etc.
+
+True
+False
+
+> True
