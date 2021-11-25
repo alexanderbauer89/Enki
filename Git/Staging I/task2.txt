@@ -1,0 +1,18 @@
+To stage enki.md, you would press
+
+What now > 2
+      staged     unstaged path
+  1: unchanged   +0/-1
+index.md
+  2: unchanged   +1/-1 enki.md
+Update > ???
+    staged        unstaged path
+ 1: unchanged     +0/-1
+index.md
+|*2: unchanged    +1/-1 enki.md
+
+enki.md
+stage
+2
+
+> 2
