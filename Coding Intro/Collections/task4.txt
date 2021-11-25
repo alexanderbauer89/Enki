@@ -1,0 +1,15 @@
+Complete the gaps such that the dictionary has age as a key and 33 for the value:
+
+person = {
+  ???: ???
+}
+
+value
+key
+33
+age
+age/33
+key/value
+
+> age
+> 33
