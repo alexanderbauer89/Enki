@@ -1,0 +1,8 @@
+Which of the following are examples of using the Conditional Formatting command?
+
+Turn text red if the number is above 1000.
+All of these are good examples.
+Change the fill color of a cell to yellow if the number is below 500.
+Turn the number to green if the number is in the bottom 10%.
+
+> All of these are good examples.
