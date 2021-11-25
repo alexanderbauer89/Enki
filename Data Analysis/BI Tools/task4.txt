@@ -1,0 +1,8 @@
+What type of language is LookML?
+
+Front-end
+High level
+General purpose
+Data modeling
+
+> Data modeling
