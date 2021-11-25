@@ -1,0 +1,6 @@
+YouTube and Netflix recommendation algorithms are powered by Big Data.
+
+False
+True
+
+> True
