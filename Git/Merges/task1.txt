@@ -1,0 +1,16 @@
+Solve this merge conflict.
+
+git ??? test
+# merge failed
+
+# open testing.js to resolve issues
+<<<<<<< HEAD
+console.log(a);
+=======
+console.log(b);
+>>>>>>> test
+
+git ??? testing.js
+
+> merge
+> add
