@@ -7,3 +7,5 @@ git merge @{u}
 myBranch
 origin/myBranch
 origin/master
+
+> origin/myBranch
