@@ -1,0 +1,13 @@
+Run the commands in the correct order such that the last commit from current branch is moved to branch bug-fix:
+
+???
+???
+
+git checkout bug-fix
+git add .
+git reset HEAD~
+git commit -m 'enki lesson'
+git branch bug-fix
+
+> git reset HEAD~
+> git branch bug-fix
