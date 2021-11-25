@@ -1,0 +1,7 @@
+Which of the following statements is false about React?
+
+The virtual DOM renders the whole UI on each change.
+It can create web and mobile applications.
+The syntax is declarative.
+
+> The virtual DOM renders the whole UI on each change.
