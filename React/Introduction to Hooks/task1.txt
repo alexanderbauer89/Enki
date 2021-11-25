@@ -1,0 +1,8 @@
+Which of the following does not represent a method of "attaching" reusable behavior to a component?
+
+high-order components
+render props
+hooks
+pure components
+
+> pure components
