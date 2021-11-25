@@ -1,0 +1,8 @@
+What is the process of viewing a Pivot Table report for a subset that meets the criterion only?
+
+Positioning
+Filtering
+Arranging
+Sorting
+
+> Filtering
