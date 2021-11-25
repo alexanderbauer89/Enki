@@ -1,0 +1,7 @@
+Add a v1.0 annotated tag to the commit ac32b10.
+
+git ??? ??? ??? ac32b10
+
+> tag
+> -a
+> v1.0
