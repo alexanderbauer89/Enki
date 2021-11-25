@@ -1,0 +1,6 @@
+To see a visual representation of the project's branching, you would use:
+
+git ??? ???
+
+> log
+> --graph
