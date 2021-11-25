@@ -1,0 +1,13 @@
+Render "Enki" under the root node:
+
+const element = <h2>Enki</h2>;
+
+???.render(
+  ???,
+  document.getElementById('
+ ???')
+);
+
+> ReactDOM
+> element
+> root
