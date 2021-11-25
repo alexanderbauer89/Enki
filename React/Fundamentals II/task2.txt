@@ -1,0 +1,10 @@
+How do you change the value of this.state.a?
+
+???
+
+this.setState({a: 'A'})
+this.setState({state: {a: 'A'}})
+constructor(state) {super({a: 'A'})}
+this.state.a = 'A'
+
+> this.setState({a: 'A'})
