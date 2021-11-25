@@ -1,0 +1,7 @@
+Remove references to deleted branches:
+
+git ??? origin
+???
+
+> fetch
+> --prune
