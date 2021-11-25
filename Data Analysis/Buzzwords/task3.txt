@@ -1,0 +1,6 @@
+What type of KPI is Daily Active Users?
+
+Absolute
+Relative
+
+> Absolute
