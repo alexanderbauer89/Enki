@@ -1,0 +1,10 @@
+master is used as ???,
+while origin as ???.
+
+new branches' default name
+local folder name
+default first branch name
+default remote repository name
+
+> default first branch name
+> default remote repository name
