@@ -1,0 +1,5 @@
+To just apply a commit without merging or rebase you can use:
+
+git ???
+
+> cherry-pick
