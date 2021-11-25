@@ -1,0 +1,7 @@
+Transfer all your tags to the remote origin server :
+
+git ??? ??? ???
+
+> push
+> origin
+> --tags
