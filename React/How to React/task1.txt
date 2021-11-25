@@ -1,0 +1,22 @@
+Complete the following snippet such that "B" is rendered on the screen:
+
+function A(props) {
+  return <p>A</p>;
+}
+
+function B(props) {
+  return <p>B</p>;
+}
+
+function C(props) {
+  const show = ???.
+  ???;
+  return show ??? <A
+/> : <B />;
+}
+
+ReactDOM.render(
+  <C show={???} />,
+  document.getElementById(
+ 'root')
+);
