@@ -1,0 +1,5 @@
+What flag is used to modify your last commit?
+
+git commit ???
+
+> --amend
