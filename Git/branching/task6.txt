@@ -1,0 +1,10 @@
+git rebase master 
+restores the current branch to the last ??? shared by the two branches, then ??? the changes made on top of master into the current branch.
+
+checkout
+deletes
+merges
+commit
+
+> commit
+> merges
