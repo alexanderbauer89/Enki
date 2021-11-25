@@ -1,0 +1,9 @@
+Which of these is a valid use case for $project?
+
+Include fields to pass to the next pipeline stage
+Add new fields
+All four of them
+Exclude fields to pass to the next pipeline stage
+Reset already existing fields
+
+> All four of them
