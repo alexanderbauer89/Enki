@@ -1,0 +1,8 @@
+What function can be used to calculate the sum of filtered data?
+
+SUMTOTAL
+SUBTOTAL
+SUM
+SUMIF
+
+> SUBTOTAL
