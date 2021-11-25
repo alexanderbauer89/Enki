@@ -1,0 +1,9 @@
+What type is the input variable?
+
+input = 0
+
+string
+list
+integer
+
+> integer
