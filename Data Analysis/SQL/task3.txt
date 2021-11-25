@@ -1,0 +1,16 @@
+Complete the following query to return all students that are born before the year 2000 and have a first name beginning with the letter 'A':
+
+SELECT
+  name
+FROM
+  students
+  ???
+  year_of_birth ???
+ 2000
+  ??? first_name
+ ??? 'A%'
+ 
+ > WHERE
+ > <
+ > AND
+ > =
