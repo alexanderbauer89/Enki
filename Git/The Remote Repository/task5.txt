@@ -1,0 +1,5 @@
+What flag is used to set the upstream tracking branch on your current branch?
+
+git push ??? origin feature
+
+> --set-upstream
