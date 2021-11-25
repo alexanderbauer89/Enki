@@ -1,0 +1,8 @@
+How can you check whether a particular event, such as orders reaching 1000 each day, using Looker?
+
+Sharing
+Notifiations
+Dashboards
+Alerts
+
+> Alerts
