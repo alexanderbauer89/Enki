@@ -1,0 +1,10 @@
+Which of the following methods is called after all but the first render?
+
+getSnapshotBeforeUpdate
+constructor
+getDerivedStateFromPops
+componentDidUpdate
+componentDidMount
+componentWillUnmount
+
+> componentDidUpdate
