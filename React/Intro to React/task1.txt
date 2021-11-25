@@ -1,0 +1,8 @@
+React manages to keep the DOM in sync with the data model by
+
+using JSX
+re-rendering the entire DOM on every change in data
+rendering necessary changes with the help of the Virtual DOM
+using function to update the DOM
+
+> rendering necessary changes with the help of the Virtual DOM
