@@ -1,0 +1,8 @@
+What can we use to pull information from one data set into another?
+
+Data Type
+Merged Cells
+Raw Data
+Vlookups
+
+> Vlookups
