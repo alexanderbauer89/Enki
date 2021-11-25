@@ -1,0 +1,15 @@
+Complete the loop so that it repeats five times:
+
+??? counter = 1 ??? ???
+  INSTRUCT wash_hands()
+???
+
+5
+ENDFOR
+TO
+FOR
+
+> FOR
+> TO
+> 5
+> ENDFOR
