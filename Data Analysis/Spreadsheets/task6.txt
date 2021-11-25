@@ -1,0 +1,8 @@
+What type of chart is best for displaying results that are continuous over time?
+
+Scorecard
+Line graph
+Scatter plot
+Pie chart
+
+> Line graph
