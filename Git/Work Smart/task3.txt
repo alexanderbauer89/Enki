@@ -1,0 +1,9 @@
+@{u} refers to ??? in the following snippet:
+
+git checkout myBranch
+git merge @{u}
+#upstream equivalent of myBranch
+
+myBranch
+origin/myBranch
+origin/master
