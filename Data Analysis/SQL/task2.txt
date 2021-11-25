@@ -1,0 +1,7 @@
+Complete this basic query to return the name and age of each student in the students table:
+
+??? name, age
+??? students
+
+> SELECT
+> FROM
