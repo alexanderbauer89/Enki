@@ -1,0 +1,19 @@
+A function is made out of three parts:
+
+1. the data given to the function
+2. the commands performed within the function
+3. the result sent out of a function
+
+Match the definitions with their name:
+
+1 ???
+2 ???
+3 ???
+
+body
+output
+input
+
+> input
+> body
+> output
