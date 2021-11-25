@@ -1,0 +1,6 @@
+How would you make git to recreate a history of commits if someone rebased shared commits?
+
+git ??? ???
+
+> pull
+> --rebase
