@@ -1,0 +1,9 @@
+How would you bundle the whole newFeature branch?
+
+git bundle ???
+    FeatureBranch ???
+ ???
+ 
+ > create
+ > HEAD
+ > newFeature
