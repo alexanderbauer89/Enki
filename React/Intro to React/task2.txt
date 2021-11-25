@@ -1,0 +1,15 @@
+What will the following JSX expression compile to?
+
+const el = <p>I love JSX</p>;
+
+Is compiled to:
+
+const el = React.createElement(
+  '???',
+  ???,
+  '???'
+);
+
+> p
+> null
+> I love JSX
