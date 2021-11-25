@@ -1,0 +1,7 @@
+Searching for the changes made to myFunction can be done using:
+
+git ??? ???
+      :myFunction:myFile.js
+      
+> log
+> -L
