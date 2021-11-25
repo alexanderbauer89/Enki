@@ -1,0 +1,8 @@
+A/B tests measure two versions of a webpage, a ??? and a challenger.
+
+redesigned
+stationary
+static
+control
+
+> control
