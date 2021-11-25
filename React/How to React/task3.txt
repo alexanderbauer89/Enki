@@ -1,0 +1,16 @@
+Complete the following render() function such that, after mounting, the <input /> element can be accessed via this.myInput:
+
+render() {
+  return (
+    <div>
+      <input ???={(in)
+=> {
+        this.??? =
+???)}} />
+  </div>
+  );
+}
+
+> ref
+> myInput
+> in
