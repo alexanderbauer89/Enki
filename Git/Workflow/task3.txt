@@ -1,0 +1,7 @@
+Squashing commits means
+
+commiting them
+deleting them
+combining them into one big commit
+
+> combining them into one big commit
