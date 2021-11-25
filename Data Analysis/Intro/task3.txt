@@ -1,0 +1,16 @@
+What are the key steps when doing data analysis?
+
+1. Question
+2. ???
+3. ???
+4. Conclude
+5. Communicate
+
+Download
+Scrape
+Explode
+Purchase
+Wrangle
+
+> Wrangle
+> Explore
