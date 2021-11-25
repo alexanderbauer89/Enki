@@ -1,0 +1,7 @@
+Share a branch test with the remote origin:
+
+git ??? ??? ???
+
+> push
+> origin
+> test
