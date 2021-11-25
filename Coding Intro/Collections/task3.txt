@@ -1,0 +1,15 @@
+Given the following list, access the second element:
+
+work_days = [
+  "Mon",
+  "Tue",
+  "Wed",
+  "Thu",
+  "Fri"
+]
+
+???[???]
+// "Tue"
+
+> work_days
+> 1
