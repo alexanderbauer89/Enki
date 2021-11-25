@@ -1,0 +1,40 @@
+Complete the following snippet such that the rendered controlled component works:
+
+class Control extends React.
+  Component {
+    constructor(props)  {
+      super(props);
+      this.state = { in: "" };
+     }
+     
+     handle(e) {
+      this.???({
+        in: e.traget.value
+       });
+      }
+      
+     render() {
+      return (
+        <input
+          type="text"
+          ???={this.
+state.in}
+          ???={
+??? => this.
+???(e)}
+    />
+  );
+ }
+}
+
+ReactDOM.render(
+  <Control />,
+  document.getElementById(
+"root")
+);
+
+> setState
+> value
+> onChange
+> e
+> handle
