@@ -1,0 +1,7 @@
+Dimensions are ???, and are blue in Tableau. Measures are ???, and are green in Tableau.
+
+continuous
+discrete
+
+> discrete
+> continuous
