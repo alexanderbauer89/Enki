@@ -1,0 +1,10 @@
+Complete the defintions.
+
+Checks the condition first: ???
+Runs the code first: ???
+
+DO..WHILE
+WHILE..DO
+
+> WHILE..DO
+> DO..WHILE
