@@ -1,0 +1,11 @@
+Search for all commits with 'enki' in their commit message :
+
+git ??? ???
+--grep
+--grep=enki
+-m
+log
+'enki'
+
+> log
+> --grep=enki
