@@ -1,0 +1,8 @@
+What type of chart is best for assessing the relationship between two variables?
+
+Scorecard
+Scatter plot
+Pie chart
+Line graph
+
+> Scatter plot
