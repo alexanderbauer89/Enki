@@ -1,0 +1,9 @@
+In React, your ??? modify the state, and the ??? modifies the ???.
+
+state
+UI
+actions
+
+> actions
+> state
+> UI
