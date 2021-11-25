@@ -1,0 +1,11 @@
+Which of the following represents a valid syntax?
+
+function Greet() {
+  return <p>Hey</p>;
+}
+
+function Enki() {
+  return <Greet />
+}
+
+> Both.
