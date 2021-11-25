@@ -1,0 +1,23 @@
+Let's practice function creation!
+
+Write a function called fill_glass that takes in glass and water, calls pour function to pour the watter into the glass and produce a glass_of_water as the result:
+
+??? ???
+  ??? glass, water
+  ??? glass_of_water = ??? (glass, water)
+  ??? glass_of_water
+ENDFUNCTION
+
+OUTPUT
+INSTRUCT
+pour
+fill_glass
+FUNCTION
+INPUT
+
+> FUNCTION
+> fill_glass
+> INPUT
+> INSTRUCT
+> pour
+> OUTPUT
