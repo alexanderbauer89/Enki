@@ -1,0 +1,10 @@
+Complete the following code that defines the age state with a value of 23:
+
+function Person() {
+  const[???, setAge] =
+  ???(???);
+}
+
+> age
+> useState
+> 23
