@@ -1,0 +1,9 @@
+Show the commits between 01/01/2016 and 05/01/2016 (DD/MM/YYYY) :
+
+git ???
+  --???="2016-01-01"
+  --???="2016-01-05"
+  
+> log
+> after
+> before
