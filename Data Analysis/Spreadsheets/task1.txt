@@ -1,0 +1,10 @@
+What is a useful spreadsheets formula to sum data that meets certain criteria?
+
+???
+
+SUM
+SUMPRODUCT
+SUMIF
+SUMWHEN
+
+> SUMIF
