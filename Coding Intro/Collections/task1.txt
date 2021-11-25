@@ -1,0 +1,8 @@
+A collection can hold ??? data types.
+
+one or two
+one or more
+only two
+a specific number of
+
+> one or more
