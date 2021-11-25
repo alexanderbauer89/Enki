@@ -1,0 +1,8 @@
+Complete the command such that it will show you the manpage of git branch command:
+
+??? ???-
+???
+
+> man
+> git
+> branch
