@@ -1,0 +1,6 @@
+A North Star Metric should be the only metric that a company cares about.
+
+False
+True
+
+> False
