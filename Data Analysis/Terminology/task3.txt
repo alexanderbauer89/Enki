@@ -1,0 +1,8 @@
+What language can be used to speak to a database?
+
+PostgreSQL
+BI
+MySQL
+SQL
+
+> SQL
