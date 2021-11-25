@@ -1,0 +1,16 @@
+Print the output where %ar represents the time since the commit has been pushed:
+
+git ??? ???:
+       "??? - %arr"
+fe21ab0 - 1 week ago
+cd4512a - 2 weeks ago
+
+--pretty=format
+oneline
+log
+--pretty
+%h
+
+> log
+> --pretty=format
+> %h
