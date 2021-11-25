@@ -1,0 +1,10 @@
+git log master...myBranch
+
+Would print commits that
+
+Are in myBranch, but not in master
+Are in either one of them, but not in both
+Are in master, but not in myBranch
+Are in both of them
+
+> Are in either one of them, but not in both
