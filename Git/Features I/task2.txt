@@ -1,0 +1,7 @@
+Can wildcards be used inside the .gitignore file?
+
+Only in newer versions of Git
+No
+Yes
+
+> Yes
