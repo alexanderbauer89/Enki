@@ -1,0 +1,7 @@
+The shorthand command to set up a new branch and track it is:
+
+git ??? --???
+    origin/sharefix
+    
+> s
+> d
