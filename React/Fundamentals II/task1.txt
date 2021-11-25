@@ -1,0 +1,26 @@
+Complete the missing gaps so that the rendered output is "Enki":
+
+class Enki extends React.
+  Component {
+    render() {
+      return <p>{this.props.
+   myValue}</p>;
+    }
+ }
+ 
+Enki.??? = {
+  ???: "Enki",
+}
+
+const element = <??? />;
+
+ReactDOM.render(
+  ???,
+  document.getElementById(
+ 'root')
+);
+
+> defaultPro
+> myValue
+> Enki
+> element
