@@ -1,0 +1,6 @@
+What's the command that will add all the files in the current directorty to the staging area?
+
+git ??? ???
+
+> add
+> .
