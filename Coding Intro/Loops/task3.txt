@@ -1,0 +1,21 @@
+Complete this loop such that it runs only if number is between 1 and 100 (inclusive):
+
+??? (
+  number ??? 1
+  AND ??? <= 100
+)
+  ...
+???
+
+FOR
+number
+ENDWHILE
+>=
+ENDFOR
+WHILE
+num
+
+> WHILE
+> >=
+> number
+> ENDWHILE
