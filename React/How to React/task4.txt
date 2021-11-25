@@ -1,0 +1,30 @@
+What will the value of test.props.x and test.props.y in the following snippt?
+
+function Test(props)  {
+  return (
+    <div>
+      <p>{props.x}</p>
+      <p>{props.y}</p>
+     </div>
+   );
+ }
+ 
+const props = {
+    x: 'dog',
+    y: 'dog',
+};
+
+const test = <Test {...props}
+  x="cat" />;
+  
+ // test.props.x = ???
+ // test.props.y = ???
+ 
+ 'cat'
+ 'dogcat'
+ error
+ 'catdog'
+ 'dog'
+  
+  > 'cat'
+  > 'dog'
