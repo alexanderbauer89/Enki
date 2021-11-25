@@ -1,0 +1,8 @@
+What's the default name Git provides to the server you clone from?
+
+remote
+GitHub
+origin
+master
+
+> origin
