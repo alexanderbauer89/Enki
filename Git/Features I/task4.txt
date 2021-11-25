@@ -1,0 +1,17 @@
+Enable sparse checkout then choose to checkout only the newFeature/subdirectory:
+
+git ???
+      ???.??? true
+echo ??? >>
+      .git/info/sparse-checkout
+      
+config
+.git/newFeature
+newFeature/
+sparsecheckout
+core
+
+> config
+> core
+> sparsecheckout
+> newFeature
