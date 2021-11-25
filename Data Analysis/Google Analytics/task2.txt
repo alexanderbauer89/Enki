@@ -1,0 +1,12 @@
+To collect data using Google Analytics, which steps must be completed?
+
+1. ???
+2. ???
+
+Download the Analytics app
+Add Analytics tracking code to each webpage
+Install Google Analytics desktop software
+Create an Analytics account
+
+> Create an Analytics account
+> Add Analytics tracking code to each webpage
