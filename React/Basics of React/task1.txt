@@ -1,0 +1,9 @@
+What lifecycle method is used to target the point in time after rendering?
+
+shouldComponentUpdate
+componentDidUpdate
+componentDidMount
+render
+componentWillUnmount
+
+> componentDidMount
