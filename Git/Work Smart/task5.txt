@@ -1,0 +1,7 @@
+You can enable autocorrect using:
+
+git config --global
+    ???.???
+    
+> help
+> autocorrect
