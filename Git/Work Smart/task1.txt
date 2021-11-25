@@ -1,0 +1,7 @@
+Some of the commands that run just fine while git is offline are
+
+pull, push, status
+commit, log, checkout
+commit, log, push
+
+> commit, log, checkout
