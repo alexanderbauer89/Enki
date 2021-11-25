@@ -1,0 +1,6 @@
+Remove the untracked files in your current directory :
+
+git ??? ???
+
+> clean
+> -f
