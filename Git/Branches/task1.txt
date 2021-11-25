@@ -1,0 +1,22 @@
+After running :
+
+git branch --vv
+  master  2bcd45a [
+origin/master]
+  Bug resolved
+* newfeature 12ac79d
+  [
+myServer /newFeature:ahead 2]
+    add new screen
+    
+It can be said that:
+master is ???
+newFeature is ???.
+
+ahead of the remote branch by 2 commits
+behind of the remove branch by 2 commits
+untracked
+up-to-date
+
+> up-to-date
+> ahead of the remote branch by 2 commits
