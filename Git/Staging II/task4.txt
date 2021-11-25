@@ -1,0 +1,8 @@
+You can stash code more than once on the same branch. To see all the existing stashes you have to run:
+
+??? ???
+???
+
+> git
+> stash
+> list
