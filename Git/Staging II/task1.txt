@@ -1,0 +1,9 @@
+Untrack the directory experiment:
+
+git ??? ???
+???
+  experiment
+  
+> rm
+> --cached
+> -r
