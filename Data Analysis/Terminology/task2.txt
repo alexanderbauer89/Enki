@@ -1,0 +1,10 @@
+Complete this equation:
+
+??? = √variance
+
+residual
+outlier
+error
+standard deviation
+
+> standard deviation
