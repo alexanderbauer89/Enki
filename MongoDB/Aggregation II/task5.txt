@@ -1,0 +1,16 @@
+What is the $sortByCount aggregation stage used for?
+
+???
+
+True or false?
+The syntax for the $sortByCount stage is { $sortByCount:  <expression> }.
+
+???
+
+To group, count and sort files in descending order by a specified expression
+True
+False
+To sort aggregation stages in ascending order and count the number of aggregation stages each document passed through
+
+> To group, count and sort files in descending order by a specified expression
+> True
