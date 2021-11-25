@@ -1,0 +1,10 @@
+What do these commands do?
+
+git add enki.md games.md
+git reset
+
+Delete enki.md and games.md
+Unstage enki.md and games.md
+Unstage games.md
+
+> Unstage enki.md and games.md
