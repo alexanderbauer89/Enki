@@ -1,0 +1,6 @@
+Is the concept of pull requests only used in GitHub?
+
+no
+yes
+
+> no
