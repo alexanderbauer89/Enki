@@ -1,0 +1,13 @@
+Select the git stash option that stashes:
+
+tracked and untracked files ???
+unstaged files ???
+interactively ???
+
+--patch
+-u
+--keep-index
+
+> -u
+> --keep-index
+> --patch
