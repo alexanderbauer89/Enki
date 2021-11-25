@@ -1,0 +1,14 @@
+Imagine that each student belongs to one university.
+
+Complete the following query to join the students table to the universities table:
+
+SELECT students.name, universities.name
+FROM students
+??? universities
+???
+students.university_id
+??? universities.id
+
+> JOIN
+> ON
+> =
