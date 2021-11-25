@@ -1,0 +1,8 @@
+Which of these is not a logical operator?
+
+IF
+OR
+AND
+NOT
+
+> IF
