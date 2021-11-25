@@ -1,0 +1,8 @@
+You can test stashed code using a new branch "testing":
+
+git ??? ???
+???
+
+> stash
+> branch
+> testing
