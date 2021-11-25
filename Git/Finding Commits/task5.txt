@@ -1,0 +1,10 @@
+In order to see the commits that are on awesomeFeature branch but not on master, you have to run:
+
+git ???
+      ??? ???
+???
+
+> log
+> master
+> ...
+> awesomeFeature
