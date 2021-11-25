@@ -1,0 +1,11 @@
+Complete the missing gaps such that component <MyComponent> is defined using class syntax:
+
+class MyComponent extends React
+ .??? {
+  ???() {
+    return <h1>Hello, World!</h1>;
+  }
+}
+
+> Component
+> render
