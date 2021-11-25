@@ -1,0 +1,9 @@
+What is the name of the identity attribute that must be included when creating collection of elements with map?
+
+ref
+identity
+index
+i
+key
+
+> key
