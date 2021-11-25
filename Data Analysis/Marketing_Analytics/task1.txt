@@ -1,0 +1,11 @@
+Customer Acquisition Cost can be measure using the following formula:
+
+??? + Time Spent / ???
+
+Number of customers acquired
+Number of years active
+Average revenue per customer
+Money
+
+> Money
+> Number of customers acquired
