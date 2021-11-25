@@ -1,0 +1,6 @@
+What type of databases can Mode connect to?
+
+NoSQL databases
+SQL databases
+
+> SQL databases
