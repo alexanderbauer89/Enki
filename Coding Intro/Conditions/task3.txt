@@ -1,0 +1,25 @@
+Complete the condition such that you only make a sandwich if you're hungry:
+
+hungry = ???
+
+IF (??? == true) THEN
+  INSTRUCT make_a_grill_cheese_sandwich(
+    cheese,
+    grater,
+    bowl,
+    bread,
+    butter,
+    pan,
+    plate
+  )
+???
+
+ENDIF
+true
+IF
+hungry
+
+> true
+> IF
+> hungry
+> ENDIF
