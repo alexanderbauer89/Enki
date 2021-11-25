@@ -1,0 +1,8 @@
+The useEffect() hook can be considered as a replacement of what when using function components?
+
+All of the methods mentioned.
+componentDidMount()
+componentDidUpdate()
+componentWillUnmount()
+
+> All of the methods mentioned.
