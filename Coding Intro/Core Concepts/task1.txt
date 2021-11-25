@@ -1,0 +1,7 @@
+# Who did you. meet today?
+# Note: One of the print statements has an error!
+name = "mike"
+age = 123
+
+print(age/2) # print age to the screen
+print(name) # print name to the screen
