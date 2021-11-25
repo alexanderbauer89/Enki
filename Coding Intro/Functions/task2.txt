@@ -1,0 +1,6 @@
+Functions can call other functions.
+
+false
+true
+
+> true
