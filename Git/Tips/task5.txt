@@ -1,0 +1,16 @@
+Change the colour for diff.meta to be blue foreground, black background and bold font:
+
+grit ??? ???
+      ???
+???
+
+"blue black bold"
+color.diff.meta
+"blue, black, bold"
+--global
+config
+
+> config
+> --global
+> color.diff.meta
+> "blue black bold"
