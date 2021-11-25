@@ -1,0 +1,12 @@
+Using the following formula:
+
+Retention rate = ( ( number of customers at the end - number of newly acquied customers) / number of customers at the start ) * 100
+
+If we start with 500 customers and we acquire 100 new customers in a week, and we end the week with 500 customers, then our retention rate is:
+
+80%
+90%
+20%
+100%
+
+> 80%
