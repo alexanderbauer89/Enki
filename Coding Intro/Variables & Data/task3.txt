@@ -1,0 +1,8 @@
+Strings commonly have to be enclosed with
+
+quotation marks
+square brackets
+commas
+parentheses
+
+> quotation marks
