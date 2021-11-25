@@ -1,0 +1,8 @@
+What are individual charts, graphs or tables called in Looker?
+
+Dashboards
+Views
+Looks
+Workspaces
+
+> Looks
