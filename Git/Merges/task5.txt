@@ -1,0 +1,11 @@
+Practice: The command to enable the Reuse Recorded Resolution tool is:
+
+??? ??? ???
+  ???.??? ???
+ 
+ > git
+ > config
+ > --global
+ > rerere
+ > enabled
+ > true
