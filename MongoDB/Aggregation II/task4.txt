@@ -1,0 +1,18 @@
+Group and calculate the average power of all pokemon within the pokemon collection. Return the resul in a field called "averagePower".
+
+db.???.???([
+  {
+    ???: {
+      ???: null,
+      ???: {
+    ???: "$power" }
+    }
+  }
+])
+
+> pokemon
+> aggregate
+> $group
+> _id
+> averagePow
+> $avg
