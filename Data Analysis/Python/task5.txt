@@ -1,0 +1,7 @@
+Complete the following code to remove the data_of_birth column from our students dataset:
+
+students.???(
+  'date_of_birth, axis: "columns",
+  inplace=True)
+  
+> drop
