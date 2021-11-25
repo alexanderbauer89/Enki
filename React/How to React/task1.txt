@@ -20,3 +20,8 @@ ReactDOM.render(
   document.getElementById(
  'root')
 );
+
+> props
+> show
+> ?
+> false
