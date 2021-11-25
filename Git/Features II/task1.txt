@@ -1,0 +1,9 @@
+Is the following statement true or false?
+
+Reverting a commit means deleting the entire history of commits between that commit and the newly added one.
+
+It depends on the case
+False
+True
+
+> False
