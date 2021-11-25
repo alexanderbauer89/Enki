@@ -1,0 +1,7 @@
+Show that you intend to track enki.md:
+
+git ??? ???
+  enki.md
+  
+> add
+> -N
