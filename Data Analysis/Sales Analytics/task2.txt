@@ -1,0 +1,9 @@
+Suppose we start with 100 leads. 20 of those reach the demo stage, and 5 of them convert. What is our demo-to-win conversion rate?
+
+???
+
+25%
+20%
+5%
+
+> 25%
