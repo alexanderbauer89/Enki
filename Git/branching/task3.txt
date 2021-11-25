@@ -1,0 +1,7 @@
+To fetch and merge master branch automatically you run :
+
+??? ??? ???
+
+> git
+> pull
+> origin
