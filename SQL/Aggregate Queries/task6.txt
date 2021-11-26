@@ -1,0 +1,21 @@
+Consider the following table item.
+
+id  cost  name
+1   0     master-ball
+2   1200  ultra-ball
+3   600   great-ball
+4   200   poke-ball
+
+This table has a field called cost, indicating how much each item costs. 
+We would like to know an average cost for all items in the table. 
+Fill the gaps accordingly:
+
+SELECT ???(???)
+??? item
+
+AVG SUM AS FROM
+cost LIKE AVERAGE
+
+> AVG
+> cost
+> FROM
