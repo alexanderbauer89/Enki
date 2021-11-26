@@ -1,0 +1,24 @@
+SELECT *
+FROM pokemon
+??? ??? ??? ???;
+
+name
+['Groudon', 'Snorlax', 'Wailord']
+WHERE
+IN
+SUCH THAT
+('Groudon', 'Snorlax', 'Wailord')
+IS ONE OF
+
+name
+['Groudon', 'Snorlax', 'Wailord']
+WHERE
+IN
+SUCH THAT
+('Groudon', 'Snorlax', 'Wailord')
+IS ONE OF
+
+> WHERE
+> name
+> IN
+> ('Groudon', 'Snorlax', 'Wailord')
