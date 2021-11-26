@@ -1,0 +1,19 @@
+Select all the columns from the pokemon table, keeping only the rows where the name equals either 'bulbasaur' or 'ivysaur'.
+
+SELECT *
+FROM pokemon
+??? ???
+???;
+
+'ivysaur'
+WHERE
+name IN
+'bulbasaur'
+name IS
+OR
+name = 'bulbasaur' OR
+name = 'ivysaur'
+
+> WHERE
+> name = 'bulbasaur' OR
+> name = 'ivysaur'
