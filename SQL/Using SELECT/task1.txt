@@ -1,0 +1,15 @@
+Complete the query to select the id and name columns from the pokemon table:
+
+??? id, ???
+??? pokemon
+
+pokemon
+RETURN
+SELECT
+FROM 
+id
+name
+
+> SELECT
+> name
+> FROM
