@@ -1,0 +1,10 @@
+Complete the following code to retrieve all the data from the fruits table.
+
+??? * FROM fruits;
+
+GET
+EXTRACT
+RETRIEVE
+SELECT
+
+> SELECT
