@@ -1,0 +1,23 @@
+The students table contains data about each student at an international school. Two of the columns in the table are represented by:
+
+- name, for the student's name
+- language_id to reflext the native language
+
+Select both columns from the table and sort your resulting set in descending order by the name column:
+
+SELECT name, ???
+FROM students
+??? name ???;
+
+language_id
+GROUP BY
+SORT BY
+AVG
+nature_name
+DESCENDING
+DESC
+ORDER BY
+
+> language_id
+> ORDER BY
+> DESC
