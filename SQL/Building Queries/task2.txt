@@ -1,0 +1,17 @@
+SELECT all the columns and rows from the pokemon table where the level is less than 10 and name is not 'Bugsy'.
+
+SELECT *
+FROM pokemon
+WHERE ??? 10 AND
+  ??? 'Bugsy';
+  
+level <=
+name IS NOT
+name <>
+name NOT EQUAL
+level LESS THAN
+level <
+level IS LESS THAN
+
+> level <
+> name <>
