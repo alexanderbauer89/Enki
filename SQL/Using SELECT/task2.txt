@@ -1,0 +1,9 @@
+Which of the following queries returns only the id and name columns from the move_names table?
+
+SELECT *, id, name FROM move_names
+SELECT id, SELECT name, FROM move_names
+SELECT ONLY id, name FROM move_names
+SELECT id, name FROM move_names
+SELECT id AND name FROM move_names
+
+> SELECT id, name FROM move_names
