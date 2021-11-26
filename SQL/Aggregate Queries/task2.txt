@@ -1,0 +1,21 @@
+Consider the move_effect_change table. We want to know the sum of all values contained in the move_effect column:
+
+id  move_effect   version_group_id
+1   8             11
+2   18            3
+3   29            3
+
+Construct a query to do so:
+
+SELECT ???(???)
+FROM move_effect_change;
+
+move_effect
+total
+SUM
+AVG
+TOTAL
+ADD
+
+> SUM
+> move_effect
