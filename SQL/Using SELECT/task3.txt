@@ -1,0 +1,7 @@
+The WHERE keyword is used to select ??? based on conditions.
+
+tables
+columns
+rows
+
+> rows
