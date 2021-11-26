@@ -1,0 +1,28 @@
+The employees table contains data about each employee at an international company. Two of the columns in the table are represented by:
+
+- name, for the employee's name
+- language_id to reflext the native language
+
+Select both columns from the table and sort your resulting set:
+
+- first in descending order by the name column
+- second in ascending order by the language_id column
+
+SELECT name, ???
+FROM employees
+??? name ???, ??? ASC;
+
+AVG
+DESC
+GROUP BY
+ORDER BY
+DESCENDING
+nature_name
+language_id
+SORT BY
+language_id
+
+> language_id
+> ORDER BY
+> DESC
+> language_id
