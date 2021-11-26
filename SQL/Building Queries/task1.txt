@@ -1,0 +1,18 @@
+Complete the following query to get the id and pw columns from the move table where:
+
+1. accuracy is more than 100;
+2. pw is renamed to 'Power'.
+
+SELECT id, pw ???
+FROM move
+???;
+
+AS 'Power'
+WHERE accuracy > 100
+IF accuracy > 100
+called 'Power
+AS 'pw'
+WHEN accuracy > 100
+
+> AS 'Power'
+> WHERE accuracy > 100
