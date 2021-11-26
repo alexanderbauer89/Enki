@@ -1,0 +1,25 @@
+Select all the columns from the pokemon table, keeping the rows where the total is greater than 350 or attack is between 5 and 15.
+
+SELECT *
+FROM pokemon
+??? (??? 350) ???
+  (??? 5 ??? ??? 15);
+  
+attack >
+attack GREATER THAN
+IS
+WHERE
+total GREATER THAN
+attack <
+AND
+total MORE THAN
+attack MORE THAN
+total >
+OR
+
+> WHERE
+> total >
+> OR
+> attack >
+> AND
+> attack <
