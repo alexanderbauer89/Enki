@@ -1,0 +1,30 @@
+We have a table called pokemon. In this table there are two fields:
+
+1. is_default - Boolean
+2. name - String (name of the pokemon)
+
+We want to count how many pokemon are not default. Fill in the blanks to complete this query:
+
+SELECT
+  ???(name),
+  ???
+FROM 
+  pokemon
+??
+  is_default;
+  
+Output:
+count is_default
+90    f
+721   t
+
+name
+AVG
+GROUP BY
+COUNT
+SUM
+is_default
+
+> COUNT
+> is_default
+> GROUP BY
