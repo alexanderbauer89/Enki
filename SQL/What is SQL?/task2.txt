@@ -1,0 +1,8 @@
+Learning SQL will not help you
+
+create your own reports
+extract your own data
+build a website
+understand databases better
+
+> build a website
