@@ -1,0 +1,8 @@
+What is the acronym of the company that maintains the SQL standard?
+
+ASNI
+ASIN
+AINS
+ANSI
+
+> ANSI
