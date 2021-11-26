@@ -1,0 +1,20 @@
+SELECT all columns from the pokemon table, that have an attack in the range 65-75.
+
+SELECT *
+FROM pokemon
+??? ??? ??? ???
+??? ???;
+
+75
+BETWEEN
+AND
+65
+WHERE
+attack
+
+> WHERE
+> attack
+> BETWEEN
+> 65
+> AND
+> 75
