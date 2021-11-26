@@ -1,0 +1,8 @@
+Which of the queries below give you all the rows and columns from the items table?
+
+SELECT EVERYTHING FROM items;
+SELECT * FROM items;
+SELECT * from users;
+GO GET ALL ITEMS;
+
+> SELECT * FROM items;
