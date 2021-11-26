@@ -1,0 +1,19 @@
+Select all the columns from the pokemon table, keeping only the rows where the name ends with the string 'saur'.
+
+SELECT *
+FROM pokemon
+??? ??? ??? ???;
+
+'saur%'
+'saur'
+name
+'%saur'
+LIKE
+NAME IS
+AND
+WHERE
+
+> WHERE
+> name
+> LIKE
+> '%saur'
