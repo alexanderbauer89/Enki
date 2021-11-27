@@ -1,0 +1,14 @@
+Complete the following codee snippet to print 'True' if letter is in my_string, and 'False' otherwise:
+
+letter = 'p'
+my_string = 'stop, collaborate and listen'
+
+if letter ??? my_string
+:
+  print('???')
+else:
+  print('???')
+  
+> in
+> True
+> False
