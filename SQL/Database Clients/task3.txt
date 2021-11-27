@@ -1,0 +1,16 @@
+If we consider psycopg2 library what's the correct order of connecting and then using it?
+
+1 - ???
+2 - ???
+3 - ???
+4 - ???
+
+import psycopg2
+establish a connection with the database
+initialize a cursor
+execute a query with the cursor
+
+> import psycopg2
+> establish a connection with the database
+> initialize a cursor
+> execute a query with the cursor
