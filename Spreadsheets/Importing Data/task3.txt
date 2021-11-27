@@ -1,0 +1,7 @@
+To import a file you should open the File tab and click
+
+Open
+Upload
+Import
+
+> Import
