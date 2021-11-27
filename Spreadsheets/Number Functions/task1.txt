@@ -1,0 +1,8 @@
+Create a function that will divide the text in cell A7 after every,.
+
+SPLIT(A7, ",")
+=SPLIT(A7, ",")
+=SPLIT(A7 - ",")
+SPLIT(A7 - ",")
+
+> =SPLIT(A7, ",")
