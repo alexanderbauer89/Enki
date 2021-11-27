@@ -1,0 +1,6 @@
+The =CONCATENATE() function is used to combine data from
+
+exactly two cells
+two or more cells
+
+> two or more cells
