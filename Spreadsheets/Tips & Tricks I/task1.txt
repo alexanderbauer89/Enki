@@ -1,0 +1,6 @@
+What happens if you click once on a populated cell and start writing?
+
+What you write is added to the end of the content of the cell
+The content of the cell is replaced with what you write
+
+> The content of the cell is replaced with what you write
