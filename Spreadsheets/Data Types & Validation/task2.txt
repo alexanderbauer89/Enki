@@ -1,0 +1,8 @@
+Data Validation is
+
+a feature used to separate different dates and validate them separately.
+just another name for analysis.
+a feature used to constrain a particular input into a cell.
+an external program used to create valid data.
+
+> a feature used to constrain a particular input into a cell.
