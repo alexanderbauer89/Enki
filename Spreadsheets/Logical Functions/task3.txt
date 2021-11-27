@@ -1,0 +1,14 @@
+OR is a ??? function that evaluates to ??? if one of its arguments is ??? and ??? if all of its arguments evaluate ???.
+
+TRUE
+FALSE
+false
+logical
+true
+statistical
+
+> logical
+> TRUE
+> true
+> FALSE
+> false
