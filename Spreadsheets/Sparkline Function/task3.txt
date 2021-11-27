@@ -1,0 +1,6 @@
+The Win-Loss charts are used
+
+for determining what percentage of a whole the data occupies similarly to a pie chart.
+to display a positive and negative outcome based on the selected range of data.
+
+> to display a positive and negative outcome based on the selected range of data.
