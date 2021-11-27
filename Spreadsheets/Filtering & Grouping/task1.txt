@@ -1,0 +1,8 @@
+What are filters used to do?
+
+Clean up functions.
+Filter between different sheets of data.
+Add different colors to your cells.
+Hide a portion of the data in a spreadsheet.
+
+> Hide a portion of the data in a spreadsheet.
