@@ -1,0 +1,6 @@
+To add new data to an existing chart you
+
+have to pick data from the sheet where the chart was created.
+can pick data from any cells and any sheet within the same spreadsheet.
+
+> can pick data from any cells and any sheet within the same spreadsheet.
