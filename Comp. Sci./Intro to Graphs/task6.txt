@@ -1,0 +1,17 @@
+What depth and height do the following nodes have?
+
+      A
+    /   \
+  B      C
+         |
+         D
+         
+A ???
+B ???
+C ???
+D ???
+
+> D0/H2
+> D1/H0
+> D1/H1
+> D2/H0
