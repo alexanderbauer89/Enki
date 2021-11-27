@@ -1,0 +1,13 @@
+In which order do you write the value, case, default case, and expression in the SWITCH() functions?
+
+SWITCH(
+  ???,
+  ???,
+  ???,
+  ???
+)
+
+> expression
+> case
+> value
+> default
