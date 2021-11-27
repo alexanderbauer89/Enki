@@ -1,0 +1,13 @@
+The GT() function and > operator are used to check if the first value is greater than the second value and output ??? if it is and ??? if it's not.
+
+THE GTE() function and >= operator are used to check if the first value is greater than or equal to the second value and output ??? if it is and ??? if it's not.
+
+FALSE
+TRUE
+FALSE
+TRUE
+
+> TRUE
+> FALSE
+> TRUE
+> FALSE
