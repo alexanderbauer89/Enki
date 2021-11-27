@@ -1,0 +1,14 @@
+Complete the code snippet so that both conditions must evaluate to True for the word 'yes' to be printed:
+
+x = 6
+a_string = 'python'
+
+if x == 6 ??? a_string
+== 'python':
+  print ('yes')
+else:
+  print('no')
+  
+# 'yes'
+
+> and
