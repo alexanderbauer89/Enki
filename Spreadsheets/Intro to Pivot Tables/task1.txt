@@ -1,0 +1,6 @@
+Pivot tables modify the data in the orignal table.
+
+True
+False
+
+> False
