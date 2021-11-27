@@ -1,0 +1,8 @@
+For any undirected graph represented as a matrix, you can be sure that the cells having the same value are (where n is the number of vertices):
+
+g[u][v] and g[v-1][u-1]
+g[0][0] and g[n-1][n-1]
+g[u][u] and g[v][v]
+g[u][v] and g[v][u]
+
+> g[u][v] and g[v][u]
