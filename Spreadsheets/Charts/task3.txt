@@ -1,0 +1,13 @@
+Match the description with the appropriate chart.
+
+Pie : ???
+Bar : ???
+Column : ???
+
+Used to represent data with vertical bars.
+Used to represent data with either horizontal or vertical bars.
+Circular and sliced into sections.
+
+> Circular and sliced into sections.
+> Used to represent data with either horizontal or vertical bars.
+> Used to represent data with vertical bars.
