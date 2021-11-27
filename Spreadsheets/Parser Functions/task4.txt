@@ -1,0 +1,12 @@
+Fill in the gaps to transform a number into 87%.
+
+=??? ???
+87%
+
+TOPERCENT
+(87)
+TO_PERCENT
+(0.87)
+
+> TO_PERCENT
+> (0.87)
