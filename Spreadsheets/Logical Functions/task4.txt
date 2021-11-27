@@ -1,0 +1,9 @@
+NOT is a ??? function that ???
+
+statistical
+Logical
+returns the opposite of a statistical value
+returns the opposite of a logical value
+
+> logical
+> returns the opposite of a logical value
