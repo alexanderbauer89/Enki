@@ -1,0 +1,13 @@
+Suppose we have the following connection string:
+
+psql "sslmode=require host=aws-us-east-1-portal.29.dblayer.com port=23336 dbname=pokemon user=ashketchum"
+
+The name of the database is: ???.
+
+The username is: ???.
+
+ashketchum
+pokemon
+
+> pokemon
+> ashketchum
