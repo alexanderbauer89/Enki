@@ -1,0 +1,18 @@
+Considering var conString ="pg://ashketchum:iwannabettheverybest@aws-us-east-1-portal.29.dblayer.com:23336/pokemon";, form a connection string:
+
+???://???:???
+@???:???/???
+
+URLaddress
+password
+port
+pg
+databaseName
+username
+
+> pg
+> username
+> password
+> URLaddress
+> port
+> databaseName
