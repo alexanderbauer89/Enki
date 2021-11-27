@@ -1,0 +1,10 @@
+Which of these commands will start the interactive Python interpreter?
+
+???
+
+-interactive_mode
+python
+pyt
+pythoni
+
+> python
