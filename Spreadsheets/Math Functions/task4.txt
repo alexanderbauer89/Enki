@@ -1,0 +1,12 @@
+Finish the code to raise 7 to the power of 4.
+
+=???(???,???)
+
+RAISE
+POWER
+7
+4
+
+> POWER
+> 7
+> 4
