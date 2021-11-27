@@ -1,0 +1,14 @@
+Considering the following spreadsheet:
+|   |A   |B|
+|---|----|--------|
+|1  |Week|Spending|
+|2  |1   |23  |
+|3  |2   |32  |
+|4  |3   |28  |
+|5  |4   |42  |
+
+What will be the formula = B2 + B4 output?
+
+???
+
+> 51
