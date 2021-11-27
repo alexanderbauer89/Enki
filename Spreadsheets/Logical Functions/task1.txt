@@ -1,0 +1,6 @@
+When providing values for an IF statement, you should
+
+make sure you provide the TRUE and FALSE values before the arguments.
+make sure your values for TRUE and FALSE are in the correct order
+
+>Make sure your values for TRUE and FALSE are in the correct order
