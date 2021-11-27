@@ -1,0 +1,9 @@
+The ??? function is used to insert an image into ???.
+
+a single cell
+=IMAGE()
+=PHOTO()
+a single or multiple cells depending on the options
+
+> IMAGE()
+> a single cell
