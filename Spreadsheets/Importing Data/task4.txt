@@ -1,0 +1,7 @@
+Which of the following isn't an option when importing a file in Google Sheets?
+
+Separator type
+Convert file
+Import location
+
+> Convert file
