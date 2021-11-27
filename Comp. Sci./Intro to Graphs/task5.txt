@@ -1,0 +1,8 @@
+Which of the following is true?
+
+A tree is an undirected graph.
+A tree is a subtype of graph without cycles.
+A graph is a subtype of a tree.
+A tree can have more than one root node.
+
+> A tree is a subtype of a graph without cycles.
