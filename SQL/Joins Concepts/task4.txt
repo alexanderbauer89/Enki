@@ -1,0 +1,9 @@
+What is usally best practice in relational databases?
+
+A. Fewer tables with duplicate data
+B. More tables with less duplicate data
+C. More tables with duplicate data
+
+B C A
+
+> B
