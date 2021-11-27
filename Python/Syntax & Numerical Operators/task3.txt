@@ -1,0 +1,9 @@
+Choose the correct result of the following expression:
+
+>>> 13 // 3
+# ???
+>>> 4.5 + 4.5
+# ???
+
+> 4
+> 9.0
