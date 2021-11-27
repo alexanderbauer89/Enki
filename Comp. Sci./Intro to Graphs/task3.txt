@@ -1,0 +1,6 @@
+Can a graph be a tree if it has more than one connected component?
+
+No
+Yes
+
+> No
