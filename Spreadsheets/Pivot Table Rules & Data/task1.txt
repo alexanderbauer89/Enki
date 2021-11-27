@@ -1,0 +1,6 @@
+How do you extract a table from a Pivot table?
+
+Right-clicking on the pivot table and selecting the extract to option.
+With copy and paste.
+
+> With copy and paste.
