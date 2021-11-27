@@ -1,0 +1,11 @@
+The EQ() function and = operator are used to compare ??? values and output ??? if they are equal and ??? if they are not.
+
+two or more
+FALSE
+two or less
+TRUE
+two
+
+> two
+> TRUE
+> FALSE
