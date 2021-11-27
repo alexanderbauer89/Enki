@@ -1,0 +1,15 @@
+How do you manually save a version of your spreadsheet?
+
+???
+???
+???
+
+Name current version
+History
+Version history
+File
+Edit
+
+> File
+> Version history
+> Name current version
