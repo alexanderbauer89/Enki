@@ -1,0 +1,5 @@
+The default file type when saving your spreadsheet is:
+
+???
+
+> .xlsx
