@@ -1,0 +1,7 @@
+In which order do you write the query, index, and url in the =IMPORTHTML() function?
+
+=IMPORTHTML(???, ???, ???)
+
+> url
+> query
+> index
