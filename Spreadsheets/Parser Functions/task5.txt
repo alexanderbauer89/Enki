@@ -1,0 +1,11 @@
+The TO_PURE_NUMBER function is used to convert a ??? to a pure number value ???
+
+without any formatting.
+numerical value of any data type
+a currency value
+with all the formatting it had.
+a date/time value
+a percentage value
+
+> numerical value of any data type
+> without any formatting.
