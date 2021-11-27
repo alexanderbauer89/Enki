@@ -1,0 +1,7 @@
+What are group rules used for in pivot tables?
+
+To group data for easier analysis.
+To remove data from the pivot table
+To edit source data
+
+> To group data for easier analysis.
