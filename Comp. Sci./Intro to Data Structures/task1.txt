@@ -1,0 +1,8 @@
+What is a data structure?
+
+A pattern for inserting information.
+A pattern for sorting information.
+A pattern for organizing information.
+An array of information.
+
+> A pattern for organizing information
