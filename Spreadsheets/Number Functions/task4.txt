@@ -1,0 +1,17 @@
+Count the values in cells A1:A6 only if they are lower than two.
+
+=???(
+  ???,
+    "???"
+)
+
+"<2"
+<2
+A1:A6
+AVERAGEIF
+COUNTIF
+"A1:A6"
+
+> COUNTIF
+> A1:A6
+> <2
