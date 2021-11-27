@@ -1,0 +1,8 @@
+Which of the following is considered best practice?
+
+When testing you should
+
+overwrite the original since you don't currently need it.
+create a duplicate in case you need the original again.
+
+> create a duplicate in case you need the original again.
