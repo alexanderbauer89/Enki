@@ -1,0 +1,9 @@
+What would the following conditional statement evaluate to?
+
+x = 21
+
+x >= 21
+
+???
+
+> True
