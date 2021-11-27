@@ -1,0 +1,6 @@
+What's the output of the following code:
+
+2 + 7 * 2 // 8
+???
+
+> 3
