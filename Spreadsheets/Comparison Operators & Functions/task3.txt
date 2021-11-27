@@ -1,0 +1,10 @@
+The NE() function and <> operator are used to compare ??? values and output ??? if they are equal and ??? if they are not.
+
+two or less
+TRUE
+two or more
+two FALSE
+
+> two
+> FALSE
+> TRUE
