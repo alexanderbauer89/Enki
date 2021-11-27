@@ -1,0 +1,8 @@
+To access an element in an array, you would use:
+
+an index
+promises
+data structures
+values
+
+> an index
