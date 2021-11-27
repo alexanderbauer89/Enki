@@ -1,0 +1,8 @@
+In which order do you write the headers, num_items, url and query in the IMPORTFEED() function?
+
+=IMPORTFEED(???,???,???,???)
+
+> url
+> query
+> headers
+> num_items
