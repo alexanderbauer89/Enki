@@ -1,0 +1,10 @@
+The XOR() function returns ??? only if an odd number of arguments evaluate to ???, otherwise it returns ???.
+
+TRUE
+FALSE
+FALSE
+TRUE
+
+> TRUE
+> TRUE
+> FALSE
