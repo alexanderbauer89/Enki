@@ -1,0 +1,7 @@
+The =IMPORTFEED() function is used to import an
+
+RSS or ATOM feed.
+SQL feed.
+XML document.
+
+> RSS or ATOM feed.
