@@ -1,0 +1,6 @@
+What are the possible outputs when using comparison operators or their equivalent functions?
+
+TRUE & FALSE
+TRUE, FALSE & a numerical result depending on the operator
+
+> TRUE & FALSE
