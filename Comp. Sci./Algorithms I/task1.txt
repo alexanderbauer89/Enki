@@ -1,0 +1,8 @@
+If an array, how many operations are required for the worst-case scenario deletion (removal of the element with index 0)?
+
+log n
+1
+n
+n*n
+
+> n
