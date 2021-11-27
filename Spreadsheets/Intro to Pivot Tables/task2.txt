@@ -1,0 +1,8 @@
+Creating pivot tables is done from which tab?
+
+Insert
+Data
+Format
+View
+
+> Data
