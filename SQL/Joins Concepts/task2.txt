@@ -1,0 +1,9 @@
+The ??? key of one table points to the ??? entries in another table.
+
+primary
+miscellaneous
+related
+foreign
+
+> foreign
+> related
