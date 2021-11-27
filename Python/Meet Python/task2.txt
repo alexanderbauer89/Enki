@@ -1,0 +1,19 @@
+Python is an easy-to-read language due to its similarity to English.
+
+Can you guess what this code will rpint if the user's answer is "Maybe"?
+
+answer = input(
+  "Are you excited to learn Python?"  )
+  
+if answer == "Yes":
+  print("That's the spirit! "
+)
+
+else:
+  print(
+"Don't give up, you're doing great! " )
+
+"That's the spirit! "
+"Don't give up, you're doing great! "
+
+> "That's the spirit! "
