@@ -1,0 +1,8 @@
+The =CONCAT() function is used to
+
+concatenate data from two cells
+combine data from two or more cells
+highlight text
+reformat text
+
+> concatenate data from two cells
