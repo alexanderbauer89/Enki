@@ -1,0 +1,8 @@
+Which of these are the 4 main data types?
+
+Number, Text, Logical, and Errors.
+Number, Date, String, and Error.
+Number, Date, String, and Text.
+Number, Double, String, and Logical.
+
+> Number, Text, Logical, and Errors
