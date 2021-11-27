@@ -1,0 +1,10 @@
+What is the syntax for =IMPORTXML()?
+
+IMPORTXML(???)
+
+url - xpath_query
+xpath_query - url
+url,xpath_query
+xpath_query, url
+
+> url, xpath_query
