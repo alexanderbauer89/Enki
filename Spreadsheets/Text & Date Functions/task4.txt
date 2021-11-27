@@ -1,0 +1,19 @@
+If you had a table like this one, what would the output of =UNIQUE(A1:C4) be?
+
+\   A   B   C
+1   13  1   1
+2   22  7   2
+3   11  9   3
+4   13  1   1
+
+???
+???
+???
+
+|13|1|1|
+|11|9|3|
+|22|7|2|
+
+> |13|1|1|
+> |22|7|2|
+> |11|9|3|
