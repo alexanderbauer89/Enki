@@ -1,0 +1,6 @@
+Can you insert text in the MIN or MAX functions?
+
+Yes
+No
+
+> No
