@@ -1,0 +1,6 @@
+A graph that represents flight routes between cities should be 
+
+undirected
+directed
+
+> directed
