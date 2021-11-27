@@ -1,0 +1,12 @@
+What's the output of the following code:
+
+x = 3
+x **= 2
+???
+
+6
+9
+9.0
+1
+
+> 9
