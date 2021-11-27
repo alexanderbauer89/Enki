@@ -1,0 +1,14 @@
+AND is a ??? function that evaluates to ??? if all of its arguments are ??? and ??? if only one of its arguments is ???.
+
+logical
+FALSE
+TRUE
+statistical
+false
+true
+
+> logical
+> TRUE
+> true
+> FALSE
+> false
