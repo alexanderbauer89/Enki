@@ -1,0 +1,7 @@
+In order to perform a JOIN on two tables, the tables must be
+
+unrelated
+unstructured
+related
+
+> related
