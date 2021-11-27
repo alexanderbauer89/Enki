@@ -1,0 +1,9 @@
+The ??? function is used to round a number ??? to a specified integer or decimal place.
+
+FLOOR()
+up
+CEILING()
+down
+
+> CEILING()
+> up
