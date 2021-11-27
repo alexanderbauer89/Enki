@@ -1,0 +1,10 @@
+The .csv type stands of ??? Separated Values.
+The .tsv type stands for ??? Separated Values.
+
+Criteria
+Comma
+Tab
+Space
+
+> Comma
+> Tab
