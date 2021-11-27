@@ -1,0 +1,8 @@
+Which type of data is not supported in the IFS() spreadsheet function?
+
+Number
+Array
+Boolean
+String
+
+> String
