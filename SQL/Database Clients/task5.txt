@@ -1,0 +1,20 @@
+Considering c =
+DriverManager.getConnection("jdbc
+:postgresql://aws-us-east-1-
+portal.29.dblayer.com:23336/
+pokemon", "ashketchum",
+"iwannabetheverybest"); form a 
+connection string:
+
+c = DriverManager.getConnection
+("???:???://
+???:???/???",
+"???","???");
+
+> jdbc
+> postgresql
+> URLaddress
+> port
+> databaseName
+> username
+> password
