@@ -1,0 +1,6 @@
+Newly created pivot tables are always empty.
+
+False
+True
+
+> True
