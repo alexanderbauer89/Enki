@@ -1,0 +1,19 @@
+Complete the following if statement to return 'You're at the start of a great journey!'.
+
+days_coding = 2
+
+if days-coding == 7:
+  print(
+"You've been coding for a week! )
+??? days_coding
+??? 7:
+  print(
+"More than a week - keep it up!"  )
+???:
+  print(
+"You're at the start of a great journey!"
+)
+
+> elif
+> >
+> else
