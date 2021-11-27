@@ -1,0 +1,8 @@
+Which of the following formulas is used to average values based on a criterion?
+
+=COUNT
+=AVERAGEIF
+=COUNTIF
+=AVERAGE
+
+> =AVERAGEIF
