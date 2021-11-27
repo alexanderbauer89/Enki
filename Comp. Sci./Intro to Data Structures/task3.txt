@@ -1,0 +1,8 @@
+What does a DoublyLinkedList node usually keep track of?
+
+Its element, the previous node and the next node.
+Its element and the next node.
+Its element, the previous node and the head of the list.
+The previous node and the next node.
+
+> It's element, the previous node and the next node.
