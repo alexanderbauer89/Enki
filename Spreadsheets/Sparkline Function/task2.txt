@@ -1,0 +1,8 @@
+What is the default chart for the =SPARKLINE() function?
+
+Column
+Line
+Win-Loss
+Bar
+
+> Line
