@@ -1,0 +1,24 @@
+Complete the following multiple join:
+
+???
+  employees.name AS "employee"
+  managers.name AS "manager"
+  subsidiaries.name AS
+ "locations"
+ ??? employees
+ ??? managers ON
+  employees.manager_id =
+ managers.id
+ LEFT JOIN subsidiaries ???
+  employees.subsidiary_id =
+subsidiaries.id
+
+ON
+FROM
+SELECT
+LEFT JOIN
+
+> SELECT
+> FROM
+> LEFT JOIN
+> ON
