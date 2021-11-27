@@ -1,0 +1,6 @@
+When converting numerical values with TO_TEXT the value's formatting is retained after the conversion?
+
+True
+False
+
+> True
