@@ -1,0 +1,10 @@
+Let's practice more Python! Which statement will display 'Enki'?
+
+???
+
+:'Enki'
+puts 'Enki'
+console.log('Enki')
+print('Enki')
+
+> print('Enki')
