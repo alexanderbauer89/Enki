@@ -1,0 +1,6 @@
+What class does the following return?
+
+>>> type('Learning Python')
+# <class '???'>
+
+> str
