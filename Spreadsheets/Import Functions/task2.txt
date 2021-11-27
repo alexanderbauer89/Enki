@@ -1,0 +1,6 @@
+When using =IMPORTRANGE() you should
+
+leave room for the imported data
+create a table so that you can import the data with no errors.
+
+> leave room for the imported data
