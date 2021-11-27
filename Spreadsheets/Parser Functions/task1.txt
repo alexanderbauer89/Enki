@@ -1,0 +1,13 @@
+Finish the code below to convert the number 7 to a date value.
+
+=???7???
+
+TO_DATE(
+]
+TODATE(
+TODATE[
+)
+TO_DATE[
+
+> TO_DATE(
+> )
