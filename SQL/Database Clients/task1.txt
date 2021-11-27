@@ -1,0 +1,25 @@
+Connect to a pokemon database, that is hosted on MySQL.
+
+Use the username gary, password rival, for the database on aws-us-west-1-portal.29.dblayer.com
+
+The port is 23336.
+
+???:///
+???:???
+@???
+:???
+/???
+
+aws-us-west-1-portal.29.dblayer.com
+pokemon
+mysql
+rival
+23336
+gary
+
+> mysql
+> gary
+> rival
+> aws-us-west-1-portal.29.dblayer.com
+> 23336
+> pokemon
