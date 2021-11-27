@@ -1,0 +1,8 @@
+What are functions?
+
+Functions are a type of grouping system.
+Functions are predefined ranges used for transferring data.
+Functions are user made formulas.
+Functions are predefined formulas.
+
+> Functions are predefined formulas.
