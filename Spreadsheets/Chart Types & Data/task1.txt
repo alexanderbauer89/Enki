@@ -1,0 +1,6 @@
+Can you change the type of the chart without creating a new one?
+
+Yes
+No
+
+> Yes
