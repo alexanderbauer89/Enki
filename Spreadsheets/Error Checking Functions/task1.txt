@@ -1,0 +1,10 @@
+Using this table:
+
+\   A
+1   #N/A
+
+What is the result of this function:
+
+=IFNA(A1, "error")
+
+> 'error'
