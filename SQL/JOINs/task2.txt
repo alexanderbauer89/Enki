@@ -1,0 +1,8 @@
+The difference between inner join (IJ) and left outer join (LOJ) is that
+
+the LOJ result contains all rows in the first table
+only their name differ
+the LOJ result contains all rows in the second table
+tables intersection can only be found as part of IJ result
+
+> the LOJ result contains all rows in the first table
