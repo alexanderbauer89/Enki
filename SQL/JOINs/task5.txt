@@ -1,0 +1,21 @@
+Retrieve the UNION of the region and region_Name tables:
+
+SELECT name
+??? region
+???
+SELECT ???
+FROM ???
+WHERE region_name.region_id = 2;
+
+region_name
+OUTER JOIN
+ON
+FROM
+name
+UNION
+*
+
+> FROM
+> UNION
+> name
+> region_name
