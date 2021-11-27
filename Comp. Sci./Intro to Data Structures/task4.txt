@@ -1,0 +1,7 @@
+What is the working principle behind a stack?
+
+First-in, first-out
+Last-in, last-out
+Last-in, first-out
+
+> Last-in, first-out
