@@ -1,0 +1,5 @@
+Relational databases are used to store data in tabular form. TRUE or FALSE?
+
+TRUE FALSE
+
+> TRUE
