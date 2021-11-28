@@ -1,0 +1,10 @@
+Complete the following snippet so that the variables are swapped using tuple assignment:
+
+d, e = 3, 4
+d, e = ???, ???
+print(d, e)
+
+# 4 3
+
+> e
+> d
