@@ -1,0 +1,13 @@
+Consider the following snippet. In what scope do you think z is in?
+
+def foo(x):
+  return x*x
+  
+z = foo(4)
+
+Enclosed
+Global
+Built-in
+Local
+
+> Global
