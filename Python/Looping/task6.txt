@@ -1,0 +1,15 @@
+Complete the code snippet to pair the sequences in order and loop over them both in parallel:
+
+list_a = ['a', 'b', 'c']
+list_one = ['one', 'two', 'three']
+
+for k, v in ???(list_a, list_one):
+  print(???)
+  
+// Expected output:
+// a one
+// b two
+// c three
+
+> zip
+> k, v
