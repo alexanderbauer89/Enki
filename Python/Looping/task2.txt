@@ -1,0 +1,17 @@
+Print the all numbers between 0 and 10 inclusive:
+
+x = 0
+while x < ???:
+  ???
+  ???
+  
+10
+x = x + 1
+print(x)
+11
+x++
+x + 1
+
+> 11
+> print(x)
+> x = x + 1
