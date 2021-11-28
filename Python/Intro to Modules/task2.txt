@@ -1,0 +1,28 @@
+Define the counter module that's supposed to increment its state with every function call.
+Fill in the gaps such that the module will be successfully imported and ran.
+
+# counter.py
+count = 0
+
+??? ???
+  global count
+  count += 1
+  print(count)
+  return count
+  
+# main.py
+??? ???
+
+counter.increment() # 1
+counter.increment() # 2
+
+> main.py
+??? ???
+
+counter.increment() # 1
+counter.increment() # 2
+
+> def
+> increment():
+> import
+> counter
