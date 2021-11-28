@@ -1,0 +1,13 @@
+Pretty print the following 2D array:
+
+import ???
+
+array = [(x, {y: y * y for y in
+  range(4)})
+    for x in range(8)]
+print(pprint.???(
+???, width=19))
+
+> pprint
+> pformat
+> array
