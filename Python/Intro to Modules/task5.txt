@@ -1,0 +1,13 @@
+Complete the missing code such that the Hotel package is imported and used properly:
+
+??? Hotel ???
+ total_rooms
+ 
+def foo(x):
+  capcity = ???.
+all_rooms(x)
+  return capacity
+  
+> from
+> import
+> total_rooms
