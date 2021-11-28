@@ -1,0 +1,5 @@
+Which keyword is used to skip one loop cycle, and to resume execution at the start of the next one?
+
+???
+
+> continue
