@@ -1,0 +1,11 @@
+How could you find the index for 'George' in the following tuple:
+
+beatles = ('John', 'Ringo', 'George', 'Paul')
+
+beatles.???('
+  ???')
+  
+# 2
+
+> index
+> George
