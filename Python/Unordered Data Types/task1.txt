@@ -1,0 +1,10 @@
+Sets are an ??? data type. Items inside a set can be of any data type, but each item must be ???.
+
+unordered
+ordered
+unique
+indexed
+non-unique
+
+> unordered
+> unique
