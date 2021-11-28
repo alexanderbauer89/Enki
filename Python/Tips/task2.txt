@@ -1,0 +1,11 @@
+What will the type of the n variable be when printed?
+
+n = 'hello'
+n = 9
+n = 5.9
+n = 4
+
+print(type(n))
+???
+
+> int
