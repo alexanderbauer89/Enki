@@ -1,0 +1,11 @@
+Complete the code snippet to return a sorted list of keyboard:
+
+keyboard = ['q', 'w', 'e', 'r',
+  't', 'y']
+  
+keyboard.???()
+
+# ['e', 'q', 'r', 't', 'w',
+  'y']
+  
+> sort
