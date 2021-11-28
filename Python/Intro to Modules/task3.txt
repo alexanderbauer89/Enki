@@ -1,0 +1,35 @@
+Consider the two files below - main and the subtractor module . Complete the missing gaps such that the code will execute with no problem when running main.py
+
+# subtractor.py
+
+def ???
+  result = a - b
+  print(f'{a} - {b} is: {result}')
+  return result
+  
+# main.py
+??? ??? ??? subtract
+      ??? ???
+     
+sub(20, 3)
+# 20 - 3 is: 17
+
+as
+subtract(a,b):
+subtract():
+from
+subtractor
+subtract
+subtract()
+import
+subtractor.py
+*
+subtract(a, b)
+sub
+
+> subtract(a, b):
+> from
+> subtractor
+> import
+> as
+> sub
