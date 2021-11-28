@@ -1,0 +1,17 @@
+Complete the code to define and call the mean function to get the arithmetic mean of x and y:
+
+x = 4
+y = 2
+??? mean (a, b):
+  print((a + b) / 2)
+
+???(???)
+
+(x, y)
+mean
+def
+x, y
+
+> def
+> mean
+> x, y
