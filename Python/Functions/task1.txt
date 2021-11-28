@@ -1,0 +1,28 @@
+Which of the following syntaxes is correct for defining Python functions:
+
+# 1
+def function1():
+    # function code...
+    
+# 2
+def function2() {
+    # function code...
+}
+
+# 3
+def function 3(
+    # function code...
+}
+
+# 4
+def function 4()
+    # function code...
+    
+# ???
+
+1
+4
+3
+2
+
+> 1
