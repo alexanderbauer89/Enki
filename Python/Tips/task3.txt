@@ -1,0 +1,11 @@
+Is the following syntax in accordance with PEP8 rules?
+
+def func():
+  new_element = 0
+  new_string  = 's'
+  
+yes
+not applicable
+no
+
+> no
