@@ -1,0 +1,16 @@
+Fill in the following snippet so that it will return the value of dog:
+
+animals = {
+    'cat': 'persian',
+    'dog': 'pug'
+}
+
+animals ???
+# pug
+
+['pug']
+{'pug'}
+['dog']
+('dog')
+
+> ['dog']
