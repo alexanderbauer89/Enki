@@ -1,0 +1,7 @@
+Fill in the snippet sucht that it will exit the interpreter:
+
+import ???
+sys.???
+
+> sys
+> exit()
