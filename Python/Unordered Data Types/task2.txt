@@ -1,0 +1,8 @@
+Which of the following are both valid set methods?
+
+update() and add()
+insert() and add()
+update() and insert()
+index() and update()
+
+> update() and add()
