@@ -1,0 +1,14 @@
+Complete the following to return teenagers:
+
+teenagers = list(???)
+
+print(teenagers)
+
+# [13, 14, 15, 16, 17, 18, 19]
+
+range(13, 19)
+range(13, 20)
+range(12, 20)
+range(12, 19)
+
+> range(13, 20)
