@@ -1,0 +1,6 @@
+Complete the code snippet to add a value to the list:
+
+new_list = []
+new_list.???(5)
+
+> append
