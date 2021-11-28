@@ -1,0 +1,10 @@
+What's the correct output for the following?
+
+text =
+  'Strings can be accessed via
+  indexes!'
+
+print(text[1])
+# '???'
+
+> t
