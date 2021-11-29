@@ -1,0 +1,26 @@
+Update the student's (id = 21) math_grade to 9 and physics_grade to 8.5:
+
+???
+  students
+???
+  ??? = 9,
+  ??? = 8.5
+???
+  id = 21;
+  
+UPGRADE
+EQUALS
+math_grade
+physics_grade
+FILTER
+UPDATE
+grade
+SET
+SELECT
+WHERE
+
+> UPDATE
+> SET
+> math_grade
+> physics_grade
+> WHERE
