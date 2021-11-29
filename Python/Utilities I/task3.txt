@@ -1,0 +1,26 @@
+Create a new scheduler and set it to enter print('second') with priority = 1 and delay = 4.
+
+import sched
+import time
+
+sc=???.scheduler(time.???,
+  time.???)
+  
+sc.enter(???,???,print,
+ ???)
+sc.run()
+
+sleep
+4
+sc
+sched
+1
+time
+argument=('second',)
+
+> sched
+> time
+> sleep
+> 4
+> 1
+> argument=('second',)
