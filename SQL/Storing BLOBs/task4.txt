@@ -1,0 +1,22 @@
+In SQL Server, insert a BLOB into image column:
+
+??? ??? sprite(image)
+VALUES((???
+FROM ???(??? ???,
+  SINGLE_BLOB)) ??? data);
+  
+INTO
+AS
+'pikachu.jpg'
+BULK
+SELECT *
+INSERT
+OPENROWSET
+
+> INSERT
+> INTO
+> SELECT *
+> OPENROWSET
+> BULK
+> 'pikachu.jpg'
+> AS
