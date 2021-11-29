@@ -1,0 +1,5 @@
+Which operator would you use in MongoDB to perform multiplication?
+
+???
+
+> $multiply
