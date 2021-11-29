@@ -1,0 +1,21 @@
+Querying the JSON pokemon field in a SQL Server database, select all Pokemon which have evolutions:
+
+??? pokemon
+??? poke_json ???
+???(???, ???) = ???;
+
+pokemon
+1
+FROM
+JSON_VALUE
+SELECT
+$.has_evolution
+WHERE
+
+> SELECT
+> FROM
+> WHERE
+> JSON_VALUE
+> pokemon
+> $.has_evolution
+> 1
