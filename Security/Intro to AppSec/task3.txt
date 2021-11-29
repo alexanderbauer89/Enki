@@ -1,0 +1,15 @@
+In order to improve application security, you should periodically ??? your ??? using ???.
+
+cowoker's email
+application
+sniff
+a packet sniffer
+crack
+attack
+an automated tool
+a password cracker
+scan
+
+> scan
+> application
+> an automated tool
