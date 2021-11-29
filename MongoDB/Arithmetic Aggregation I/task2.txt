@@ -1,0 +1,11 @@
+To subtract one expression from another you have to use the ??? operator which can only take ??? expression(s).
+
+3
+1
+$subtract
+$add
+2
+$deduct
+
+> $subtract
+> 2
