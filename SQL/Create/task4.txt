@@ -1,0 +1,39 @@
+Consider you have the following table called subsidiaries:
+
+id    name    email
+INT   VARCHAR VARCHAR
+
+How would you define the employees table such that there is a constraint named emp_subs that defines a relationship between these two tables?
+
+??? employees (
+  id INT,
+  first_name VARCHAR,
+  last_name VARCHAR,
+  subsidiary_id INT,
+  email VARCHAR,
+  ??? ???
+  ??? (???)
+  ??? subsidiaries(
+  ???)
+);
+
+REFERENCES
+MAKE TABLE
+name
+emp_subs
+FOREIGN KEY
+CONSTRAINT
+RELATES
+email
+CREATE TABLE
+PRIMARY KEY
+(subsidiary_id)
+id
+
+> CREATE TABLE
+> CONSTRAINT
+> emp_subs
+> FOREIGN KEY
+> (subsidiary_id)
+> REFERENCES
+> id
