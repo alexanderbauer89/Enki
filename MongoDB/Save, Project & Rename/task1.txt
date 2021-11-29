@@ -1,0 +1,36 @@
+Use the save() method to insert a new document that has 17 for its _id and is named "new document":
+
+db.pokemon.save({
+  ???: ???,
+  ???: "new document"
+})
+
+Use the save() method to replace an existing document whose _id is 3 and add a new type field which. takes "NewType" as a value.
+
+db.pokemon.save({
+  "_id": ???,
+  "name": "NewName",
+  ???: ???
+})
+
+Use the save() method to insert a new document without the _id field:
+
+???
+
+db.pokemon.save({"name": "NoName"})
+"name"
+17
+3
+"NewType"
+"type"
+db.pokemon.save({"_id":false, "name":
+"NoName"})
+"_id"
+
+> "_id"
+> 17
+> "name"
+> 3
+> "type"
+> "NewType"
+> db.pokemon.save({"name": "NoName"})
