@@ -1,0 +1,19 @@
+In a PostgreSQL database, insert a hex string into a bytea field:
+
+??? INTO sprite
+???(???(
+'\xBYTESOFPIKACHUSPRITE',
+  ???));
+  
+decode
+INSERT
+FROM
+hex
+'hex'
+encode
+VALUES
+
+> INSERT
+> VALUES
+> decode
+> 'hex'
