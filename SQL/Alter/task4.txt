@@ -1,0 +1,28 @@
+Complete the following syntax such that the trigger named 'integrity' prohibits deleting a record from the pokemon table if there are any matching records in the region table.
+
+CREATE TABLE region (
+  ...
+  ??? integrity
+  ??? (id)
+  ??? pokemon(region_id)
+  ??? RESTRICT
+  ??? RESTRICT,
+  ...
+);
+
+REFERENCES
+ON DELETE
+RELATES
+ON UPDATE
+FOREIGN KEY
+CONSTRAINT
+ON INSERT
+IF UPDATE
+IF DELETE
+PRIMARY KEY
+
+> CONSTRAINT
+> FOREIGN KEY
+> REFERENCES
+> ON UPDATE
+> ON DELETE
