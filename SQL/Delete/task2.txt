@@ -1,0 +1,14 @@
+Complete the query to delete all the records from the backup_logs table:
+
+???
+  ???
+  
+DELETE FROM
+DELETE
+backup_logs
+WHERE id >=1
+REMOVE
+DELETE backup_logs
+
+> DELETE FROM
+> backup_logs
