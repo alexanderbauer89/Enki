@@ -1,0 +1,8 @@
+Which of the following data types is not an approximate numeric type?
+
+REAL
+CHAR
+FLOAT(n)
+DOUBLE PRECISION
+
+> CHAR
