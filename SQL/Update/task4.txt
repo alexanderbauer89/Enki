@@ -1,0 +1,21 @@
+Write a query that moves all the managers' location from "New York" to "Washington DC":
+
+???
+  managers
+???
+  ??? = "Washington DC"
+???
+  location = ???;
+  
+"Washington DC"
+"New York"
+UPDATE
+SET
+WHERE
+location
+
+> UPDATE
+> SET
+> location
+> WHERE
+> "New York"
