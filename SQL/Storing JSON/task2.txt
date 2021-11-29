@@ -1,0 +1,22 @@
+Querying the JSON pokemon field in a PostgreSQL database, select all Pokemon which have evolutions:
+
+??? pokemon
+??? poke_json ???
+??? ???
+'{"has_evolution": ???}';
+
+pokemon
+WHERE
+@>
+FROM
+->>
+->
+true
+SELECT
+
+> SELECT
+> FROM
+> WHERE
+> pokemon
+> @>
+> true
