@@ -1,0 +1,8 @@
+Removing records from a table is done using which keyword?
+
+REMOVE
+SELECT
+DELETE
+UPDATE
+
+> DELETE
