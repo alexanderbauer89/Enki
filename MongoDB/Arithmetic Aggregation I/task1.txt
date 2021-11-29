@@ -1,0 +1,11 @@
+In MongoDB, we can use the ??? operator to perform addition. The minimum number of expressions that can be used is ???
+
+$addition
+3
+1
+$sum
+2
+$add
+
+> $add
+> 2
