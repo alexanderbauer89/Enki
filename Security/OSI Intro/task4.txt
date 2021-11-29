@@ -1,0 +1,11 @@
+What role does the Application Layer play in the OSI 7 Layer Model?
+
+Packaging data packets into data streams and vice versa for transport
+Routing and transmission over the physical topography of the Internet
+Providing computational power via electronic circuits
+Provide a user interface with high-level functions for interacting with the network
+Maintaining and ensuring a stable connection between two hosts over the Internet
+Opening, closing, and managing connections between applications
+Transmitting data between network nodes
+
+> Provide a user interface with high-level functions for interacting with the network
