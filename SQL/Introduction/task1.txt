@@ -1,0 +1,15 @@
+SQL is made out of three main parts:
+
+- querying or ???
+- manipulating or ???
+- defining or ???
+
+DQL
+DML
+DSL
+DAL
+DDL
+
+> DQL
+> DML
+> DDL
