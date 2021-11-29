@@ -1,0 +1,27 @@
+Create a table called students with the following columns:
+
+- id that is INTEGER
+- full_name that is VARCHAR
+- year_of_study that is INTEGER.
+
+??? ??? students(
+  id ???,
+  full_name ???,
+  year_of_study INTEGER
+);
+
+TEXT
+CREATE
+DATABASE
+UPDATE
+TABLE
+NUMBER
+INTEGER
+MAKE
+CHAR
+VARCHAR
+
+> CREATE
+> TABLE
+> INTEGER
+> VARCHAR
