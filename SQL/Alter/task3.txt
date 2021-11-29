@@ -1,0 +1,28 @@
+Look at region table below. How would you set 1 as the default value to all entries in the region_id column?
+
+id    region_id   name
+1     1           generation-i
+2     2           generation-ii
+3     3           generation-iii
+4     4           generation-iv
+5     5           generation-v
+6     6           generation-vi
+
+???
+  region
+ALTER
+  ??? ???
+  ??? 1;
+  
+COLUMN
+ALTER TABLE
+UPDATE
+SET DEFAULT
+region
+region_id
+ALTER COLUMN
+
+> ALTER TABLE
+> COLUMN
+> region_id
+> SET DEFAULT
