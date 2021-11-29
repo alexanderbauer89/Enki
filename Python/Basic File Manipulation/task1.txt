@@ -1,0 +1,9 @@
+WHat will be the type of the age variable?
+
+age = input('How old are you? ')
+print(age, type(age))
+
+How old are you? 23
+23 <class '???'>
+
+> str
