@@ -1,0 +1,16 @@
+Delete all the students that have graduated after "2020-10-28":
+
+???
+  students
+???
+  graduation_date > ???;
+  
+REMOVE
+DELETE
+"2020-10-28"
+DELETE FROM
+WHERE
+
+> DELETE FROM
+> WHERE
+> "2020-10-28"
