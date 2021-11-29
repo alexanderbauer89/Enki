@@ -1,0 +1,9 @@
+What role does the Physical Layer play in the OSI 7 Layer Model?
+
+Routing and transmission over the physical topography of the Internet
+Providing transmission between end devices via voltage or wavelengths.
+Transmitting data between network nodes
+Packaging data packets into data streams and vice versa for transport
+Providing a user interface
+
+> Providing transmission between end devices via voltage or wavelengths.
