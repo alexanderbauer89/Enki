@@ -1,0 +1,24 @@
+Which of the following JSON objects is valid?
+
+{
+  'id': 'A',
+  'name': 'John',
+  'age': 36,
+  'friends': ['Anna', 'Mike']
+},
+{
+  "id" = "B",
+  "name" = "Anna",
+  "age" = 33,
+  "friends" = ["John", "Mike"]
+},
+{
+  "id": "C",
+  "name": "Mike",
+  "age": 34,
+  "friends": ["John", "Anna"]
+}
+
+A C B
+
+> C
