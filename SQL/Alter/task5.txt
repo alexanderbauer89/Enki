@@ -1,0 +1,27 @@
+Create trigger such that each time we update something to the region table under the name column, it will insert the same entry to our region_backup table on the name_backup column:
+
+CREATE TABLE region_backup  (
+  name_backup VARCHAR,
+  ...
+  ??? bckup_cstr
+  ??? (name_backup)
+  ??? region(name)
+  ??? ???
+);
+
+FOREIGN KEY
+RESTRICT
+CASCADE
+SET DEFAULT
+ON UPDATE
+SET NULL
+NO ACTION
+CONSTRAINT
+ON DELETE
+REFERENCES
+
+> CONSTRAINT
+> FOREIGN KEY
+> REFERENCES
+> ON UPDATE
+> CASCADE
