@@ -1,0 +1,6 @@
+Complete the following command such that when used in the Python interactive shell it will show all modules installed on the machine:
+
+>>> ???('???')
+
+> help
+> modules
