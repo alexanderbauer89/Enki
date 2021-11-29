@@ -1,0 +1,17 @@
+What will the ouput look like?
+
+file = open('name.txt', 'w+')
+
+file.write("John")
+file.write("Chris")
+
+print(file.readline())
+
+file.close()
+
+Chris
+JohnChris
+Nothing will be generated
+John
+
+> Nothing will be generated
