@@ -1,0 +1,8 @@
+Which method is used to find the most common occurrence in a counter?
+
+most-common(n)
+common(n)
+common-item(n)
+most_common(n)
+
+> mos_common(n)
