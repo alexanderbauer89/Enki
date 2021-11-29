@@ -1,0 +1,8 @@
+What is the largest number we should divide n by to make sure we took into account all the possible divisors and also ensure optimality of the algorithm?
+
+√n
+n/2
+n
+log n
+
+> √n
