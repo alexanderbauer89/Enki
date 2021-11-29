@@ -1,0 +1,21 @@
+Querying the JSON pokemon field in a MySQL database, select all Pokemon which have evolutions:
+
+??? pokemon
+??? poke_json ???
+pokemon ??? ??? = ???;
+
+->
+->>
+"$.has_evolution"
+0
+WHERE
+SELECT
+FROM
+TRUE
+
+> SELECT
+> FROM
+> WHERE
+> ->
+> "$.has_evolution"
+> TRUE
