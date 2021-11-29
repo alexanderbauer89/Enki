@@ -1,0 +1,10 @@
+You can update all the records in a table by not including a condition or writing:
+
+WHERE ???
+
+TRUE
+ALL
+UPDATE ALL
+ALL
+
+> TRUE
