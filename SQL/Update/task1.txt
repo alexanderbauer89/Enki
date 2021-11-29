@@ -1,0 +1,18 @@
+Write a query that updates the location to "France" for the employee with 7 as id:
+
+???
+  employees
+???
+  location = ???
+WHERE
+  ??? = 7
+  
+SET
+id
+"France"
+UPDATE
+
+> UPDATE
+> SET
+> "France"
+> id
