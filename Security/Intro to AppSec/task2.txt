@@ -1,0 +1,8 @@
+A large part of application security involves:
+
+Checking in with the security guards regularly
+Monitoring aggregators and news sites for major vulnerabilities and mitigation strategies
+Working closely with the database administrator
+Doing exploit analysis on your company's hardware
+
+> Monitoring aggregators and news sites for major vulnerabilities and mitigation strategies
