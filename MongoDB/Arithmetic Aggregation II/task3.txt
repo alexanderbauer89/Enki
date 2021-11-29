@@ -1,0 +1,12 @@
+Which arithmetic operator matches the explanation.
+
+Used to round a positive or negative number up or down to the desired decimal point.
+
+???
+
+Used to truncate a positive or negative number to the desired decimal point.
+
+???
+
+> $round
+> $trunc
