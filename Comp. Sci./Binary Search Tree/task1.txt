@@ -1,0 +1,15 @@
+Which key prevents the following tree from being a Binary Search Tree?
+
+      10
+     /  \
+    9    15
+   / \    \
+  3  11    20
+  
+ 9
+ 3
+ 11
+ 15
+ 20
+ 
+ > 11
