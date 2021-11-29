@@ -1,0 +1,16 @@
+Delete all documents in the pokemon collection whose type equals "Water".
+
+db.pokemon.???(
+  { "???": "Water" }
+)
+
+Remove all documents within the pokemon collection.
+
+???.???.remove(
+???)
+
+> remove
+> type
+> db
+> pokemon
+> {}
