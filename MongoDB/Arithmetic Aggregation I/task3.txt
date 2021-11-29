@@ -1,0 +1,15 @@
+Can you use the $add and $subtract operators together in MongoDB?
+
+???
+
+The addition and subtraction operations in MongoDB can use ??? together with fields.
+
+literals
+symbols
+Yes.
+No.
+letters
+Maybe.
+
+> Yes.
+> literals
