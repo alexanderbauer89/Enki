@@ -1,0 +1,9 @@
+The OSI model is a ??? standard for various ??? configurations.
+
+hardware component
+flexible
+network
+hard
+
+> flexible
+> network
