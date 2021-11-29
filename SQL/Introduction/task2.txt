@@ -1,0 +1,10 @@
+Adding values to your table is done using the ??? keyboard.
+
+FROM
+ADD
+SELECT
+PUT
+INSERT
+UPDATE
+
+> INSERT
