@@ -1,0 +1,22 @@
+Create an index on the following table, on the region_id and name columns. It needs to be a non-clustered index:
+
+id  region_id   name
+1   1           generation-i
+2   2           generation-ii
+3   3           generation-iii
+4   4           generation-iv
+5   5           generation-v
+6   6           generation-vi
+
+??? ??? test_index
+ON region (???, name);
+
+UNIQUE
+CREATE
+INDEX
+region
+region_id
+
+> CREATE
+> INDEX
+> region_id
