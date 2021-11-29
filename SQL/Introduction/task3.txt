@@ -1,0 +1,8 @@
+Modifying the value of an existing column is done using the ??? keyword.
+
+SELECT
+INSERT
+FROM
+UPDATE
+
+> UPDATE
