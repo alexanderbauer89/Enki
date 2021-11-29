@@ -1,0 +1,13 @@
+The Network Layer (Layer ???) is responsible for ??? ???.
+
+packet
+3
+4
+packaging
+forwarding
+host
+2
+
+> 3
+> packet
+> forwarding
