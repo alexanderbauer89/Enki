@@ -1,0 +1,10 @@
+Search through the pokemon collection and delete the first document that has the type equal to "Water":
+
+db.pokemon.???({
+  ???: { ??? :
+ "Water" }
+});
+
+> findOneAndDelete
+> type
+> $eq
