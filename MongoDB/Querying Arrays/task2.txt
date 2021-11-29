@@ -1,0 +1,9 @@
+Find all documents in the pokedex collection that only have the "Poison" value in their spells array.
+
+db.pokedex???(
+  { ???: ??? }
+)
+
+> .find
+> spells
+> ["Poison"]
