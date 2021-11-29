@@ -1,0 +1,13 @@
+Match the description to the term it refers to:
+
+Used to group accented characters with their base character.
+???
+
+A function that maps bits to characters.
+???
+
+encoding
+collation
+
+> collation
+> encoding
