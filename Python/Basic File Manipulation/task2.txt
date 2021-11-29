@@ -1,0 +1,10 @@
+Suppose we want to append something to a file. Fill the gaps accordingly:
+
+file = ??? (
+  'practice.py', '???')
+file.write('Append this')
+file.???(0)
+
+> open
+> a+
+> seek
