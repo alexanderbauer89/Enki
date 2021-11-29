@@ -1,0 +1,21 @@
+Fill in the missing code to group all documents in the pokemon collection by their type, and find the min and max power level of each type and output them in fields
+called lowestPower and highestPower.
+
+db.pokemon.aggregate([
+  {
+    ???: {
+     _id: "???",
+     ???: {
+???: "$power" },
+  ???: { $max: "
+???" }
+  }
+ }
+]);
+
+> $group
+> $type
+> lowestPower
+> $min
+> highestPower
+> $power
