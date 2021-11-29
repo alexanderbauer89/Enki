@@ -1,0 +1,13 @@
+Create a new database called practice_qw.
+
+??? ??? ???;
+
+CREATE
+DROP
+DATABASE
+practice_qw
+TABLE
+
+> CREATE
+> DATABASE
+> practice_qw
