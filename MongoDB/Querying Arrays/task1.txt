@@ -1,0 +1,10 @@
+Find all documents in the pokedex collection that have a "Hydro-Pump" value in the spells array.
+
+db.pokedex???(
+  { ???: "???"
+ }
+)
+
+> .find
+> spells
+> Hydro-Pump
