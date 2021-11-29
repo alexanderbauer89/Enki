@@ -1,0 +1,19 @@
+Fill in the missing code to group all documents in the pokemon database by their type and calculate the total power of all pokemon within each group. 
+Output the result in a field called sumOfPowers.
+
+db.pokemon.aggregate([
+  {
+     ???: {
+      _id: "???",
+      ???: {
+        ???: { $add:
+"$power" }
+      }
+    }
+  }
+]);
+
+> $group
+> $type
+> sumOfPower
+> $sum
