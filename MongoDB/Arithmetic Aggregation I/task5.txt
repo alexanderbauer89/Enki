@@ -1,0 +1,5 @@
+What operator would you use in MongoDB to perform division?
+
+???
+
+> $divide
