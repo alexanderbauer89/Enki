@@ -1,0 +1,8 @@
+BLOBs are used to store
+
+strings
+raw bytes
+images
+bigints
+
+> raw bytes
