@@ -1,0 +1,33 @@
+Using the following flowers table:
+
+| id | name   | family    |
+| -- | ------ | --------- |
+| 1  | Lily   | Liliaceae |
+| 2  | Acacia | Fabaceae  |
+
+Complete the command such that the table looks like this:
+
+| id | name   | family    |
+| -- | ------ | --------- |
+| 1  | Lily   | Liliaceae |
+| 2  | Acacia | Fabaceae  |
+| 5  | Rose   | Rosaceae  |
+
+??? flowers ???
+(???, ???, "Rosaceae");
+
+3
+RECORDS
+INSERT INTO
+"5"
+INSERT
+"Rose"
+Rose
+5
+"3"
+VALUES
+
+> INSERT INTO
+> VALUES
+> 5
+> "Rose"
