@@ -1,0 +1,7 @@
+We want to open file.txt just for reading purposes. After we want to print it line by line and print the content.
+
+file = open('file.txt', '???')
+print(???.readline())
+
+> r
+> file
