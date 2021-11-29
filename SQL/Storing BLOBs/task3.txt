@@ -1,0 +1,17 @@
+In a MySQL database, store a BLOB by loading the contents of a file:
+
+??? ??? sprite(image)
+VALUES (???(???));
+
+pikachu.jpg
+'0xTHISISMYIMAGE'
+LOAD
+INSERT
+'pikachu.jpg'
+INTO
+LOAD_FILE
+
+> INSERT
+> INTO
+> LOAD_FILE
+> 'pikachu.jpg'
