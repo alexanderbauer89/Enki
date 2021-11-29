@@ -1,0 +1,23 @@
+Using the family table:
+
+| name     | age | nickname |
+| -------- | --- | -------- |
+| Samantha | 39  | Sam      |
+| William  | 45  | Bill     |
+
+Complete the INSERT command to get this table:
+
+| name     | age | nickname |
+| -------- | --- | -------- |
+| Samantha | 39  | Sam      |
+| William  | 45  | Bill     |
+| NULL     | 24  | John     |
+
+??? family
+???
+VALUES
+???;
+
+> INSERT INTO
+> (nickname, age)
+> ("John", 24)
