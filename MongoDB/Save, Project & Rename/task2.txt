@@ -1,0 +1,8 @@
+What is projection used for?
+
+Only to specify which fields will be omitted from the query
+To specify which fields will and which won't be displayed upon executing the query.
+Only to specify which fields will be displayed upon executing the query
+To create a new document with the combined fields from all documents in the executed query
+
+> To specify which fields will and which won't be displayed upon executing the query.
