@@ -1,0 +1,18 @@
+Find all documents in the pokedex collection that have "Poison" and "Growth" values in any order in their spells array.
+
+db.pokedex.find({
+  ???: {
+    ???: ???
+   }
+})
+
+["Poison", "Growth"]
+Spells
+spells
+.search
+"Poison", "Growth"
+$all
+
+> spells
+> $all
+> ["Poison", "Growth"]
