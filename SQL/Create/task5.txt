@@ -1,0 +1,21 @@
+Complete the following table definition to check that the year column is higher that 1970.
+
+??? ??? cars (
+  id INTEGER PRIMARY KEY,
+  name VARCHAR,
+  year INTEGER ??? (???)
+);
+
+year GT THAN 1970
+CREATE
+year > 1970
+MAKE
+TABLE
+CHECK
+VERIFY
+DATABASE
+
+> CREATE
+> TABLE
+> CHECK
+> year > 1970
