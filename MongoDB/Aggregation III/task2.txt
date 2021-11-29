@@ -1,0 +1,17 @@
+Fill in the code to find the name of the last document for each type group of pokemon, sort them by their type and output them in a field called "nameOfLast".
+
+db.pokemon.aggregat([
+  {
+    ???: {
+      _id: "???",
+      ???: {
+   ???: "$name" }
+  }
+ },
+ { $sort: { _id: 1 } }
+]);
+
+> $group
+> $type
+> nameOfLast
+> $first
