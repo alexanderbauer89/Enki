@@ -1,0 +1,8 @@
+What is the algorithm's memory complexity when an array is used to store up to n values?
+
+O(n*log n)
+O(n*n)
+O(n)
+O(log n)
+
+> O(n)
