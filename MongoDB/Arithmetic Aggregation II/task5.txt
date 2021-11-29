@@ -1,0 +1,31 @@
+Fill in the gaps below to transform the document into an array and output the converted object into an array with the same name. 
+Project the aggregation's result together with the power field.
+
+// document:
+{
+  "_id": ObjectId(
+    "5d9d8c330b24990f19398214"
+  ),
+  name: "Pikachu",
+  type: "Electric",
+  power: 501,
+  spells: {
+    Basic: "Lightning",
+    Strong: "Bolt"
+  }
+}
+
+// aggregation
+db.pokemon.aggregate([
+  {
+    $project: {
+      ???: 1,
+      ???: {
+    ???: "$spells" }
+      }
+    }
+ ]);
+ 
+> power
+> spells
+> $objectToArray
