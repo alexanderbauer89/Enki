@@ -1,0 +1,26 @@
+Fill in the blanks to find the first document with a type of "Water" and replace it with the document listed below:
+
+db.pokemon.???(
+  { "type": ???},
+  {
+    "name": "Charizard",
+    "type": "Fire",
+    "power": 999
+  }
+);
+
+Which command has to be added to our queries to display the updated/replaced document as opposed to the original one?
+
+???
+
+{ returnNew: true}
+findOneAndReplace
+update
+{ returnNewDocument: true }
+replace
+"Water"
+$dec
+
+> findOneAndReplace
+> "Water"
+> { returnNewDocument: true }
