@@ -1,0 +1,18 @@
+Create a new table named muscle_cars which has the id, name, and year columns. Define the id as a primary key.
+
+??? muscle_cars (
+  ??? INT ???,
+  name VARCHAR,
+  year INT
+);
+
+id
+PRIMARY KEY
+CREATE TABLE
+MAKE TABLE
+number
+FOREIGN KEY
+
+> CREATE TABLE
+> id
+> PRIMARY KEY
