@@ -1,0 +1,12 @@
+Which bound is defined as:
+
+g(n) is O(f(n))
+and
+g(n) is not 0(f(n))
+
+Little-o
+Big-Omega
+Big-O
+Big-Theta
+
+> Little-o
