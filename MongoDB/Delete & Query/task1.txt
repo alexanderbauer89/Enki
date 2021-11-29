@@ -1,0 +1,11 @@
+Find the first document within the pokemon collection with a power greater than 400 and decrease the power by 135.
+
+db.pokemon.???(
+  { "power": ???},
+  { ???: { "power": -
+ 135 } },
+)
+
+> findOneAnd
+> { $gt:
+> $inc
