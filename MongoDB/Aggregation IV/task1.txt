@@ -1,0 +1,18 @@
+Fill in the missing code to group all documents in the pokemon database by their type and push the names of each pokemon from the same type into a single array
+per type. Name the resulting array "namesPerGroup".
+
+db.pokemon.aggregate([
+  {
+    ???:  {
+       _id: "???".
+       ???: {
+        ???: { name:
+"$name" }
+     }
+   }
+]);
+
+> $group
+> $type
+> namesPerGroup
+> $push
