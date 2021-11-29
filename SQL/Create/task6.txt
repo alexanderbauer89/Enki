@@ -1,0 +1,17 @@
+What will the following code insert into the cars table?
+
+CREATE TABLE cars (
+  id INTEGER,
+  name VARCHAR DEFAULT 'unknown',
+  year INTEGER
+);
+--
+INSERT INTO cars (id, year)
+VALUES
+(1, 2004);
+
+(1, 'unknown', 2004)
+(1, DEFAULT, 2004)
+(1, NULL, 2004)
+
+> (1, 'unknown', 2004)
