@@ -1,0 +1,8 @@
+The Big-O of the binary search algorithm is:
+
+O(n*log n)
+O(log n)
+O(n^2)
+O(n)
+
+> O(log n)
