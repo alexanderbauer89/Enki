@@ -1,0 +1,8 @@
+As of now, the most recommended character encoding is
+
+UTF-8
+UTF-16
+UTF-32
+ASCII
+
+> UTF-8
