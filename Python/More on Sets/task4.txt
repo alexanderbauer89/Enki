@@ -1,0 +1,10 @@
+Will the following snippet work?
+
+s = frozenset('Frozen')
+s.add('set')
+
+no, because s is a frozenset
+yes
+no, because we add string not a char
+
+> no, because s is a frozenset
