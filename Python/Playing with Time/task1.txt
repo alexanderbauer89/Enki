@@ -1,0 +1,21 @@
+The following python script should print the current time in the following format:
+
+e.g. Thur Jun 22 00:00:00 2017
+
+Complete the gaps with the missing pieces of code.
+
+import ???
+
+time_in_seconds = time.
+???
+time_struct = time.???(
+time_in_seconds)
+formatted = time.???(
+time_struct)
+
+print(formatted)
+
+> time
+> time()
+> localtime
+> asctime
