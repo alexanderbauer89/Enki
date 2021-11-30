@@ -1,0 +1,8 @@
+Is datetime a module or a class?
+
+both
+a class
+a module
+neither
+
+> both
