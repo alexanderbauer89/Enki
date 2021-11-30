@@ -1,0 +1,9 @@
+An HTML page without CSS in a browser will appear as what?
+
+Web page opens without error, but only text is displayed.
+Only text, images, and links are displayed.
+HTML pages open, but no content is displayed.
+HTML pages are not viewable without CSS.
+A documents error occurs and nothing displays properly.
+
+> Only text, images, and links are displayed
