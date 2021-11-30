@@ -1,0 +1,10 @@
+Given the following stack (implemented using lists), remove the last element and add a new element with value 20:
+
+stack = [11, 15, 16, 18]
+
+stack.???
+???.???
+
+> pop()
+> stack
+> append(20)
