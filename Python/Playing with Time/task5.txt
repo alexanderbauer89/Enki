@@ -1,0 +1,32 @@
+Complete the following code snippet such that variable x will hold a date exactly 2 weeks from today:
+
+from datetime
+import datetime, timedelta
+
+today = ???.today()
+
+delta = ???(???=???)
+
+x = today ??? delta ???
+
+timedelta
+date
++
+time
+days
+months
+14
+/2
+%
+7
+* 2
+delta
+weeks
+datetime
+
+> datetime
+> timedelta
+> days
+> 7
+> + 
+> * 2
