@@ -1,0 +1,25 @@
+Identify the terms defining this HTML code:
+
+<a href="https://enki.com/">Enki
+ </a>
+
+element: ???
+opening tag: ???
+end tag: ???
+attribute: ???
+attribute's name: ???
+attribute's value: ???
+
+</a>
+"https://enki.com/"
+href
+<a href="https:/enki.com/">
+<a href="https:/enki.com/">Enki</a>
+href="https:/enki.com/"
+
+> <a href="https:/enki.com/">Enki</a>
+> <a href="https:/enki.com/">
+> </a>
+> href="https:/enki.com/"
+> href
+> "https://enki.com/"
