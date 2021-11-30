@@ -1,0 +1,15 @@
+Which command will iterate through the loops showing exactly what the loop is doing:
+
+???
+
+Which command executes statements, without showing everything that happened to evaluate the call.
+
+???
+
+Which command has optional arguments that must be two int values that define the range of lines the user wants.
+
+???
+
+> step
+> next
+> list()
