@@ -1,0 +1,14 @@
+Create a fraction, using the fractions module:
+
+a = ???.???(5,-2)
+print(a) #-5/2
+
+new
+frac
+fractions
+f
+new_fraction
+Fraction
+
+> fractions
+> Fraction
