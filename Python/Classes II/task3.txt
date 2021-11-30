@@ -1,0 +1,18 @@
+Store a method object of class Hello in the variable temp and call it afterwards:
+
+class Hello:
+  def greet(name):
+    print('Hello ' + name + '!'
+)
+
+temp = ???
+??? # Hello Enki !
+
+Hello.greet
+Hello.greet()
+temp.greet()
+temp('Enki')
+Hello('Enki')
+
+> Hello.greet
+> temp('Enki')
