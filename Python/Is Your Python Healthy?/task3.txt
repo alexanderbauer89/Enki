@@ -1,0 +1,8 @@
+If we use an undefined variable, what type of exception will the parser raise?
+
+UnboundLocalError
+SyntaxError
+NameError
+RuntimeError
+
+> NameError
