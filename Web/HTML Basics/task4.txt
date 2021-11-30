@@ -1,0 +1,6 @@
+Complete the following snippet such that it contains valid code:
+
+<img ???="
+images/puppy.jpg">
+
+> src
