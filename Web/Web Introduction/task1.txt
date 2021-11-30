@@ -1,0 +1,39 @@
+What does HTML stand for?
+
+H: ???
+T: ???
+M: ???
+L: ???
+
+What does CSS stand for?
+
+C: ???
+S: ???
+S: ???
+
+style
+tool
+custom
+home
+sheets
+simple
+cloud
+heading
+computer
+markup
+hyper
+language
+cascading
+server
+text
+hyperlink
+script
+listing
+
+> hyper
+> text
+> markup
+> language
+> cascading
+> style
+> sheets
