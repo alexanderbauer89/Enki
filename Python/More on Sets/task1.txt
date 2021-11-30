@@ -1,0 +1,7 @@
+Is there any difference between the outputs of x & y and y & x?
+
+Yes
+No
+Depending on the sets
+
+> No
