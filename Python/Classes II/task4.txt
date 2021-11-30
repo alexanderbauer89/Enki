@@ -1,0 +1,15 @@
+What is the output of the following snippet?
+
+class Test:
+  def __init__(self):
+     self.__x = "hey there"
+t = Test()
+print(t.__x)
+???
+
+hey there
+Private Error
+Hey there
+AttributeError
+
+> AttributeError
