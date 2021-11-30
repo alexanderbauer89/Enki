@@ -1,0 +1,9 @@
+Get the category of the specified character:
+
+>>> ???.???(
+u'L')
+'Lu'
+#Letter, uppercase
+
+> unicodedata
+> category
