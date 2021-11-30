@@ -1,0 +1,7 @@
+Can we define a single except clause that will catch all types of exceptions?
+
+depends on the exception
+no
+yes
+
+> yes
