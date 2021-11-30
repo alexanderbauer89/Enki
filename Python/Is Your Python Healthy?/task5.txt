@@ -1,0 +1,18 @@
+What is the error this snippet will throw?
+
+name = input(
+  'What\'s your name?\n')
+  
+def interaction()
+  print(name)
+  my_name = 'Seba'
+  if name is my_name:
+    print(
+"We have the same name!")
+
+The code will run with no errors
+EOFError
+ZeroDivisionError: division by 0
+SyntaxError: invalid syntax
+
+> SyntaxError: invalid syntax
