@@ -1,0 +1,12 @@
+Based on its description, what's the error the parser is most likely to throw?
+
+def sum():
+  return 1 + '10'
+  
+ZeroDivisionError: devision by 0
+TypeError: can't convert int to str implicitly
+The code works fine, there is no error
+RuntimeError: any other error that can't be categorised
+NameError: variable was not defined
+
+> TypeError: can't convert int to str implicitly
