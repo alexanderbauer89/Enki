@@ -1,0 +1,10 @@
+What does HTML work well for, and not?
+
+HTML works well for: ???
+HTML does not work well for: ???
+
+Displaying Text, Inserting Media, Creating Links, Creating Containers
+Creating Animations, Responsive Layouts, Database Storage, Math Expressions
+
+> Displaying Text, Inserting Media, Creating Links, Creating Containers
+> Creating Animations, Responsive Layouts, Database Storage, Math Expressions
