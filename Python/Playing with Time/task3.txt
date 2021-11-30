@@ -1,0 +1,23 @@
+Complete the following code snippet with the missing gaps such that, by running it, the output will match given comments:
+
+from ??? import date, time
+
+t = time()
+print(t == time.???)
+# True
+print(t.???(23,59,59,999999)
+
+              == time.
+???) # True
+
+d = ??? (1991, 12, 25)
+print(d.???) # 12
+print(d.???) # 727191
+
+> datetime
+> min
+> replace
+> max
+> date
+> month
+> toordinal()
