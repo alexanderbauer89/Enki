@@ -1,0 +1,24 @@
+Complete the gaps so that the following codeblock returns True:
+
+from datetime import datetime
+
+date_one = datetime(2019, 12, 1)
+date_two = datetime(2019, 1, 12)
+
+if ??? ??? ???:
+  print(True)
+else:
+  print(False)
+  
+# Output:
+# True
+
+=
+date_two
+==
+date_one
+>
+
+> date_one
+> >
+> date_two
