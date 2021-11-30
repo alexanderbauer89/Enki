@@ -1,0 +1,7 @@
+Using the decimal module, print the value of d's logarithm (base 10):
+
+import decimal
+d = decimal.Decimal("2.71")
+print(d.???())
+
+> log10
