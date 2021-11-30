@@ -1,0 +1,10 @@
+Complete the following code snippet such that it makes sense:
+
+string = "Hey there"
+??? 'Hey" ???
+  string:
+   print("found it")
+# found it
+
+> if
+> in
