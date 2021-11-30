@@ -1,0 +1,14 @@
+Complete the code recipe below such that the text is normalized:
+
+import unicodedate
+
+data = u'inventive'
+normal = unicodedata.
+ ???\
+    ('NFKD', data). \
+    ???('ASCII',
+'ignore')
+print(normal)
+
+> normalize
+> encode
