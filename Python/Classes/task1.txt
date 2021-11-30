@@ -1,0 +1,26 @@
+Which of the following is not a correct definition of a new class?
+
+# A
+class Car:
+  def __init__(self, model):
+    self.model = model
+    
+# B
+class Car:
+  def __init__(model):
+    self.model = model
+    
+# C
+class Car:
+  def start_car(self):
+    print("Starting engine!")
+ 
+ 
+???
+
+C
+B
+A
+all
+
+> B
