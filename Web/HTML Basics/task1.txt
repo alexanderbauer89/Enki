@@ -1,0 +1,8 @@
+The two main components of a HTML document are
+
+<head> and <body>
+<p> and <a>
+<h> and <body>
+<heading> and <body>
+
+> <head> and <body>
