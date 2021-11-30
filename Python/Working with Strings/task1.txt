@@ -1,0 +1,6 @@
+Complete the code snippet to return the number of occurrences of the letter p:
+
+testString = 'laptop'
+print(testString.???('p'))
+
+> count
