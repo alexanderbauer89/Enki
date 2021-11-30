@@ -1,0 +1,17 @@
+What elements are used in this code?
+
+<p>
+  Check out this
+    <a href="
+http://www.enkipro.com">
+  website</a>
+  .
+</p>
+
+Anchors and Headings
+Paragraphs and Anchors
+Images and Links
+Headings and Paragraphs
+Parameters and Anchors
+
+> Paragraphs and Anchors
