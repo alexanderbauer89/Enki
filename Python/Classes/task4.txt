@@ -1,0 +1,8 @@
+The concept of inheritance refers to a child class receiving parent's class
+
+attributes
+methods
+attributes and methods
+class name and attributes
+
+> attributes and methods
