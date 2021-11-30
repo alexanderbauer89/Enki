@@ -1,0 +1,8 @@
+Fill in the following code snippet such that it will concatenate all strings in the list:
+
+a = ["This", "is", "a", "list"]
+
+a = ???.???
+
+> ""
+> join(a)
