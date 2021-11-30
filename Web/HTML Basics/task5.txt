@@ -1,0 +1,7 @@
+Spans are seen as ??? elements.
+
+structural
+stylistic
+not
+
+> stylistic
