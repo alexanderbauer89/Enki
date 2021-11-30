@@ -1,0 +1,8 @@
+Truncate textto 17 characters max:
+
+???.???(text,
+??? =17)
+
+> textwrap
+> shorten
+> width
