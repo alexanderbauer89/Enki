@@ -1,0 +1,22 @@
+Which of these characters is used to represent an end tag?
+
+???
+
+HTML tags are recommended to be written in which case?
+
+???
+
+How many unique tags are used in this code? ???
+
+<h1>Large Text Heading</h1>
+<img src="photos/image.jpg">
+<p>I'm just a simple paragraph.</p>
+
+camelcase ^ 3
+lowercase < / 5
+uppercase > *
+4 2
+
+> /
+> lowercase
+> 3
