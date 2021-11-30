@@ -1,0 +1,17 @@
+Using the Queue module we defined before. We want to print out the 2017 number. Fill the gaps accordingly:
+
+import __
+
+my_queue = Queue()
+
+my_queue = enqueue(__)
+my_queue = enqueue(__)
+my_queue = enqueue(__)
+my_queue = enqueue(__)
+
+for n in __.items:
+  print(n)
+  
+Queue, 2, 0, 1, 7, my_queue
+Queue, 7, 1, 0, 2, my_queue
+queue, 2, 0, 1, 7, my_queue
