@@ -1,0 +1,21 @@
+Fill in the output of the counter() function:
+
+def counter(x):
+  print("Line 2:", x)
+  while x > 0:
+    print(x)
+    x -= 1
+  print("Line 6:", x)
+  
+counter(3)
+
+# Line 2: 3
+# ???
+# ???
+# ???
+# Line 6: ???
+
+> 3
+> 2
+> 1
+> 0
