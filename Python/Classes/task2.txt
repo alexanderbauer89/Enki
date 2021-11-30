@@ -1,0 +1,7 @@
+What do classes, variables, and lists have in common in Python?
+
+They are all:
+
+???
+
+> objects
