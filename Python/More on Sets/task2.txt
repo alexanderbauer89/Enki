@@ -1,0 +1,7 @@
+Create a shallow copy of the set:
+
+pq = ???("Practice")
+practice_shallow = pq.???()
+
+> set
+> copy
