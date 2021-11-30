@@ -1,0 +1,7 @@
+What complexity is required for a lookup on a list?
+
+O(n^2)
+O(n)
+O(1)
+
+> O(n)
