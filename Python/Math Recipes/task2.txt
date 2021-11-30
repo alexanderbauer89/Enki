@@ -1,0 +1,8 @@
+Check if var has the INF value:
+
+import math
+
+???.???(var)
+
+> math
+> isinf
