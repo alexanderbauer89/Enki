@@ -1,0 +1,5 @@
+What is the reserved keyword used to iterate over elements in an array, slice, map, and other data structure.
+
+???
+
+> range
