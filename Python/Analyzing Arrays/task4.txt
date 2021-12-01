@@ -1,0 +1,26 @@
+Let's say we have some queues of customers being served pizza. We want to know which queue will be the fastest.
+
+Queues are lists of groups of 1 or more people to be served.
+
+We need to consider size (number of groups of people in the queue), but also take into account the total number of people in the queue. 
+(I.E. we believe that a queue of 5 one-person groups, [1, 1, 1, 1, 1], will take much longer to serve than a queue of a 1 five-person group, [5].)
+
+Try to fill in the blanks to find the shortest queue by finding the maximum key, where the key is the sum of all people queueing divided by the lenght of the queue.
+
+queue1 = [3, 4, 6, 2, 4, 3]
+queue2 = [3, 2, 6, 9, 4, 2]
+print(???(queue1, 
+        queue2,
+        key=lambda x: ???/
+???))
+
+sum(x)
+map(x)
+max
+queue
+len(x)
+min(x)
+
+> max
+> sum(x)
+> len(x)
