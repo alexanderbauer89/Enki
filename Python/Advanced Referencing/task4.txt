@@ -1,0 +1,8 @@
+Which error is raised if the proxy is accessed after the reference object is deleted?
+
+ReferenceError
+ProxyError
+AccessError
+ObjectError
+
+> ReferenceError
