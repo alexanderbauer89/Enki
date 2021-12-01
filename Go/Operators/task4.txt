@@ -1,0 +1,6 @@
+Relational operators can
+
+evaluate to any number or boolean.
+only evaluate to true or false.
+
+> only evaluate to true or false.
