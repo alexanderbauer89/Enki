@@ -1,0 +1,8 @@
+What is the reverse polish notation equivalent of (2+10)/4+3?
+
+2 10 + 4 / 3 +
+2 10 + 4 3 + /
+2 10 4 3 + / +
+4 + 3 / 2 + 10
+
+> 2 10 + 4 / 3 +
