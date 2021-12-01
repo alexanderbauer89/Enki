@@ -1,0 +1,8 @@
+Travelling Salesman Problem can be seen as a/an
+
+reduction problem
+greedy problem
+recursive problem
+optimization problem
+
+> optimization problem
