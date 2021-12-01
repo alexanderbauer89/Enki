@@ -1,0 +1,22 @@
+Let's say we have a list, called promises. We want to make_good on all our promises, where make_good is a previously-defined function that takes a string.
+Fill in the blanks in the code below to apply make_good to all elements in promises.
+
+promises = ['learn css',
+  'learn js',
+    'buy milk',
+  'be excellent to each other']
+  
+promises = ???(???, ???
+)
+
+promises
+list
+make_good
+reduce
+map
+filter
+lambda x: x*2
+
+> map
+> make_good
+> promises
