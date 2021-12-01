@@ -1,0 +1,9 @@
+With the help of inheritance, create your custom exception:
+
+??? AuthenticatinError
+(???):
+  print(
+'Wrong username or password')
+
+> class
+> Exception
