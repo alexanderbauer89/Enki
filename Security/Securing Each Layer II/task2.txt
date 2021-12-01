@@ -1,0 +1,10 @@
+What is one control in the Presentation Layer of the OSI Model?
+
+Using managed switches prevent topographical loops
+Locks and secure enclosures
+Using a strong, unique password
+Strict use of ports as they are designed
+Input validation of network responses
+Use of a physical firewall
+
+> Input validation of network responses
