@@ -1,0 +1,9 @@
+Which of the following network types describes a local area network that uses wireless technologies to connect its devices?
+
+MAN
+WLAN
+PAN
+WAN
+LAN
+
+> WLAN
