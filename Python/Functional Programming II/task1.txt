@@ -1,0 +1,7 @@
+Is Python considered a functional language?
+
+Yes
+Sometimes
+No
+
+> No
