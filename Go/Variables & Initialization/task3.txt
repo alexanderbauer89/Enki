@@ -1,0 +1,11 @@
+Which of these variables are incorrectly initalized?
+
+var a = "Stefan"
+
+var b string = "Stefan"
+
+var c string = Stefan
+
+???
+
+> c
