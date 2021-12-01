@@ -1,0 +1,9 @@
+For insertion to take O(log n) time, the underlying structure used to implement a heap is a
+
+tree
+complete graph
+stack
+binary tree
+complete binary tree
+
+> complete binary tree
