@@ -1,0 +1,9 @@
+Which of the following terms refer to the physical, hard-coded address of a device on a network?
+
+IP
+Gateway
+Proxy
+VPN
+MAC
+
+> MAC
