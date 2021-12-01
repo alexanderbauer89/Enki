@@ -1,0 +1,11 @@
+What character(s) is/are used to specify the beginning of the query string in a URL?
+
+wwww
+&
+//
+?
+:
+://
+^
+
+> ?
