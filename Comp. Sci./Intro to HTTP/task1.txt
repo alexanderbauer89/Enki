@@ -1,0 +1,7 @@
+The client and the host are aware of each other during the time they're connected only, therefore HTTP is considered to be
+
+private
+consistent
+stateless
+
+> stateless
