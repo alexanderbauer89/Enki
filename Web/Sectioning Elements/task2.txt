@@ -1,0 +1,9 @@
+The header element is encouraged to do which of the following?
+
+display one or more heading (h1-h6) elements
+All four
+contain website navigation
+display authorship information
+hold a graphical logo
+
+> All four
