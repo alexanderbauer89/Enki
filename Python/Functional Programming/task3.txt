@@ -1,0 +1,8 @@
+A shared state is
+
+when the memory of a program is save in multiple states to be used at different times.
+is when a variable and an object can exist in different states at the same time.
+any program that can enter more than one state at a time.
+any kind of memory object (a variable, collection. of variables or an object) which is accessible from multiple scopes.
+
+> any kind of memory object (a variable, collection. of variables or an object) which is accessible from multiple scopes.
