@@ -1,0 +1,8 @@
+What is the equivalent of ifconfig on Windows?
+
+ifconfig
+netstat
+tracepath
+ipconfig
+
+> ipconfig
