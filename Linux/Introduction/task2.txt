@@ -1,0 +1,10 @@
+Linux is an ???-??? operating system.
+
+closed
+code
+open
+no
+source
+
+> open
+> source
