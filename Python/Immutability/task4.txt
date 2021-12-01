@@ -1,0 +1,23 @@
+What is the code snippet below an example of?
+
+class Connection(object):
+  ...
+  def post(self):
+    self.method = "POST"
+    
+ # ^ mutates the Connection object
+    self.httpconnection.
+request(
+      self.method, "/")
+    self.result =
+       self.httpconnection.
+getresponse()
+      conn.result.read()
+      return self.result
+      
+Atomicity of failure
+Identity mutation
+Side effects
+Temporal coupling
+
+> Side effects
