@@ -1,0 +1,9 @@
+What role does the Data Link Layer play in the OSI 7 Layer Model?
+
+Providing computationl power via electronic circuits
+Routing and transmission over the pysical topography of the internet
+Providing a user interface
+Packaging data packets into data streams and vice versa for transport
+Transmitting data between network nodes
+
+> Transmitting data between network nodes
