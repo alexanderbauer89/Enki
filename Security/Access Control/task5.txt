@@ -1,0 +1,7 @@
+Where should automated checks for access control go?
+
+Automated test suites
+Manual scans before release
+Alarms on anomalous access control patterns
+
+> Automated test suites
