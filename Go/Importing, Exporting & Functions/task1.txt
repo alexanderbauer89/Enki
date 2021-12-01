@@ -1,0 +1,20 @@
+Given the piece of code below, add any missing parts so the output would properly print the result shown in the comment.
+
+package main
+
+import "???"
+
+var x int
+var y int
+
+func main() {
+  x := 3
+  y := 4
+  ???(x + y)
+}
+
+// Output
+// 7
+
+> fmt
+> ftm.Printl
