@@ -1,0 +1,6 @@
+Print the value of the environmental variable LANG:
+
+??? ???
+
+> echo
+> $LANG
