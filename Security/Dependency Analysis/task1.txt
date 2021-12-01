@@ -1,0 +1,8 @@
+Where can you find the most comprehensive information on vulnerabilities in application dependencies?
+
+Common Vulnerabilities and Exposures Database (CVE)
+IRC
+Reddit
+Twitter
+
+> Common Vulnerabilities and Exposures Database (CVE)
