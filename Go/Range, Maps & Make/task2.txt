@@ -1,0 +1,7 @@
+What is append used for?
+
+To add elements at the eend of a slice.
+Append doesn't exist in golang
+To add elements at the beginning of a slice.
+
+> To add elements at the eend of a slice.
