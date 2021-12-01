@@ -1,0 +1,8 @@
+What step might not help you mitigate SQL injection attacks?
+
+Log SQL Injection attempts to detect hostile IPs
+Always escape and sanitize inputs
+Evaluate your ORM for SQL Injection vulnerability reports
+Block all user input
+
+> Block all user input
