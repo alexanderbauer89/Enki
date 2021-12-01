@@ -1,0 +1,22 @@
+We want to generate the first n perfect squares. Fill the gaps accordingly:
+
+def perfect_square():
+  x = 1
+  while ???:
+    yield x * x
+    x += 1
+def first_n(g,n):
+    for i in ???(n):
+      ??? next(g)
+      
+if 
+for
+yeild
+False
+yield
+True
+range
+
+> True
+> range
+> yield
