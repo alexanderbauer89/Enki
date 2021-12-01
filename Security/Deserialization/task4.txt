@@ -1,0 +1,15 @@
+What is one example of how you can build an integrity check to a token passed to the client?
+
+???
+
+What is one example of a server that can handle session storage?
+
+???
+
+JSON Web Tokens
+Apache
+XML DTDs
+Memcached
+
+> JSON Web Tokens
+> Memcached
