@@ -1,0 +1,7 @@
+Why does logging and monitoring access control help identify access control vulnerabilities?
+
+You will be able to prove you weren't involved
+You can prove who did what
+You will be able to identify anomalous use
+
+> You will be able to identify anomalous use
