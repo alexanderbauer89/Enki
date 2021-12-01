@@ -1,0 +1,9 @@
+What happens when an iterator reaches the end of the sequence being iterated on?
+
+Nothing
+FinishIteration exception
+StopIteration exception
+TypeError exception
+ReferenceError exception
+
+> StopIteration exception
