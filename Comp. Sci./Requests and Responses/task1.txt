@@ -1,0 +1,15 @@
+The usual syntax of a request line is:
+
+??? ??? ??? ???
+
+Host
+HTTP version
+URI
+Method
+CTRLF
+CRLF
+
+> Method
+> URI
+> HTTP version
+> CRLF
