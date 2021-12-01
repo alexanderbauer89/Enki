@@ -1,0 +1,8 @@
+Prim's algorithm can be applied for
+
+any weighted connected graphs
+connected, weighted undirected graphs
+any weighted graphs
+any weighted undirected graphs
+
+> connected, weighted undirected graphs
