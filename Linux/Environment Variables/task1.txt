@@ -1,0 +1,6 @@
+Complete the code so that "I'm getting good at Linux!" is printed:
+
+???
+"I'm getting good at Linux!"
+
+> echo
