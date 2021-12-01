@@ -1,0 +1,10 @@
+Which of the following protocols is an extenstion of SMTP?
+
+HTTP
+EMTP
+MIME
+STMP
+POP
+TELNET
+
+> MIME
