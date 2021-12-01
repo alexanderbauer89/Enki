@@ -1,0 +1,17 @@
+Fill in the following snippet such that the following generator will print consecutive numbers:
+
+def my_generator(n):
+  print('First print:')
+  ???
+  ???
+  print('Second print:')
+  yield n
+  
+yield my_generator
+yield n
+++n
+n++
+n = n+1
+
+> yield n
+> n = n+1
