@@ -1,0 +1,8 @@
+Which of the following commands will check connectivity between you and remote host using ICMP packets?
+
+ping
+tracert
+tracepath
+traceroute
+
+> ping
