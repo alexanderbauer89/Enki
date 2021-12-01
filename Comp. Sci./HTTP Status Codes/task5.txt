@@ -1,0 +1,7 @@
+In case of an unexpected factor preventing the server from completing the request, it will return
+
+504 Gateway Timeout
+500 Internal Server Error
+502 Bad Gateway
+
+> 500 Internal Server Error
