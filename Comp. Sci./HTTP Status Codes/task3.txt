@@ -1,0 +1,7 @@
+Which redirection status code indicates that the resource requested hasn't been modified and a cached version can be used instead?
+
+304
+303
+306
+
+> 304
