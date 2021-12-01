@@ -1,0 +1,20 @@
+Can you spot which of the following generators are recursive?
+
+def list_gen(l):
+    if l:
+      yield l[0]
+      yield from list_gen(l[1
+:])
+
+def cubic_generator(n):
+  for i in range(n):
+      yield i ** 3
+      
+???
+
+list_gen
+cubic_generator
+neither
+both
+
+> list_gen
