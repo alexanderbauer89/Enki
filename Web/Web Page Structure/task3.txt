@@ -1,0 +1,9 @@
+Which item should NOT be contained in the <head> element?
+
+Primary heading of a page
+Web page title
+Links to CSS and JS files
+Character encoding language
+Page descriptions for search engines
+
+> Primary heading of a page
