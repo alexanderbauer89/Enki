@@ -1,0 +1,14 @@
+As stated in the insight, dictionaries are also mutable. What would the output be of the following function?
+
+a = {'key': 'value'}
+b = a
+b['key'] = 'mutable'
+print(a)
+???
+
+{}
+{'key':'value'}
+{'key':'value', 'key':'mutable'}
+{'key': 'mutable'}
+
+> {'key': 'mutable'}
