@@ -1,0 +1,10 @@
+Which of the following HTTP response header fields contains a identifier used for cached resources?
+
+Tag
+Cached-Version
+*
+Cache-Version
+ETag
+Content-Encoding
+
+> ETag
