@@ -1,0 +1,27 @@
+Write the form code that creates a reset button.
+
+<???
+  ???="???"
+  ???="Reset"
+>
+
+Which line of code defines the button that sends the data when clicked?
+
+???
+
+<submit value="Send">
+value
+input
+<input type="submit" value="Send">
+type
+data
+reset
+send
+<input submit="Send">
+<input value="submit" type="Send">
+
+> input
+> type
+> reset
+> value
+> <input type="submit" value="Send">
