@@ -1,0 +1,7 @@
+What is a common sign of a memory leak in your python progam?
+
+if you get a compile time error
+if its memory usage grows steadily over time
+if you get a run time error
+
+> if its memory usage grows steadily over time
