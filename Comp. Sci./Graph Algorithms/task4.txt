@@ -1,0 +1,8 @@
+Bellman-Ford algorithm uses ??? approach.
+
+greedy
+binary search
+no specific
+dynamic
+
+> no specific
