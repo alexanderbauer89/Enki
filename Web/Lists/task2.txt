@@ -1,0 +1,13 @@
+Complete the HTML code to create a bulleted list.
+
+<A>
+  <B>Apples</B>
+  <B>Oranges</B>
+  <B>Strawberries</B>
+</A>
+
+A: ???
+B: ???
+
+> ul
+> li
