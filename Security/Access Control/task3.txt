@@ -1,0 +1,12 @@
+Fixing broken access control involves first ??? broken access control, then adding ??? for each ???.
+
+automated checks
+guards
+having
+identifying
+misconfigured resource
+entrance
+
+> identifying
+> automated checks
+> misconfigured resource
