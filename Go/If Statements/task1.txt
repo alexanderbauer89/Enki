@@ -1,0 +1,13 @@
+Fill in the gaps to make the function return "Correct" if it evaluates to true and "Incorrect" if it evaluates to false.
+
+func isItTrue(x flaot64) string
+  {
+    ??? 3 >= 2 {
+    ??? "Correct"
+  }
+  ??? "Incorrect"
+}
+
+> if
+> return
+> return
