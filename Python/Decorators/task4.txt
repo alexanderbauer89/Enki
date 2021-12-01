@@ -1,0 +1,23 @@
+When defining a decorator, the most general syntax you can use is:
+
+# A
+def deco(func):
+  def wrapper(*args, **kwargs)
+:
+  ...
+# B
+def deco(func):
+  def wrapper(**args, *kwargs)
+:
+  ...
+# C
+def deco(func):
+  def wrapper(self):
+    ...
+# D
+def deco(func):
+  def wrapper(self, args,
+ kwargs):
+    ...
+    
+ > A
