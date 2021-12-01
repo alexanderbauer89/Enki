@@ -1,0 +1,9 @@
+The Printf function ??? verbs and ??? a new line.
+
+doesn't append
+uses
+doesn't use
+appends
+
+> uses
+> doesn't append
