@@ -1,0 +1,16 @@
+Match the definitions with the proper terms:
+
+???: Form attribute used to specify where to send the data.
+???: Method used to send the form data encoded within the URL.
+???: Method used to encode the data within the message body of the HTTP request.
+
+path
+input
+post
+catch
+get
+action
+
+> action
+> get
+> post
