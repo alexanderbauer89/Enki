@@ -1,0 +1,14 @@
+Complete the following code snippet such to convert a number to its hexadecimal representation and then convert it back:
+
+>>> ???.???()
+0x1.800000000p+0
+
+>>> ???.???(
+???)
+1.5
+
+> (1.5)
+> hex
+> float
+> fromhex
+> 0x1.80000
