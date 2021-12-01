@@ -1,0 +1,8 @@
+A client error code will be returned in case of a request
+
+trying to access in invalid resource
+not reaching the server
+being processed successfully
+being queued for completion
+
+> trying to access in invalid resource
