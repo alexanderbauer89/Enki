@@ -1,0 +1,6 @@
+Go is a relatively small language compared to most others.
+
+True
+False
+
+> True
