@@ -1,0 +1,11 @@
+What role does the Presentation Layer play in the OSI 7 Layer Model?
+
+Data conversion and encryption/decryption
+Routing and transmission over the physical topography of the internet
+Maintaining and ensuring a stable connection between two hosts over the internet
+Packaging data packets into data streams and vice versa for transport
+Providing computational power via electronic circuits
+Transmitting data between network nodes
+Opening, closing, and managing connections between applications
+
+> Data conversion and encryption/decryption
