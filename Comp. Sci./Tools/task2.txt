@@ -1,0 +1,11 @@
+Which flag can you use to display the kernel routing table?
+
+netstat ???
+
+-u
+-i
+-x
+-r
+-t
+
+> -r
