@@ -1,0 +1,16 @@
+Assuming that the same Shade enum is declared, what do you think the following snippet will print?
+
+print(type(Shade.blue))
+???
+print(Shade.blue is Shade.green
+)
+???
+
+<class 'Shade'>
+False
+True
+<enum 'Shade'>
+<enum 'Shade.blue'>
+
+> <enum 'Shade'>
+> False
