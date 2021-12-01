@@ -1,0 +1,14 @@
+Is the following graph a valid one on which to apply Kruskal's algorithm?
+
+        5
+   A  C -- D
+ 3/        |2
+B     F -- E
+        6
+     
+???
+
+Yes
+No
+
+> No
