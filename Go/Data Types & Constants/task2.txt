@@ -1,0 +1,16 @@
+Fill in the gaps to convert the int variable to float64. Then, print the new variable.
+
+var someNumber int = 39
+
+func main() {
+ ??? newNumber
+??? = ???(
+someNumber)
+
+ fmt.Println(???)
+}
+
+> var
+> float64
+> float64
+> newNumber
