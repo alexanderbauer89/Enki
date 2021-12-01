@@ -1,0 +1,7 @@
+What does the garbage collector actually do?
+
+delets variables
+removes values from variables
+steps in and marks the memory address as free
+
+> steps in and marks the memory address as free
