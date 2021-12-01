@@ -1,0 +1,7 @@
+Check to see if a reference, e, exists:
+
+if e ??? not
+???
+
+> is
+> None
