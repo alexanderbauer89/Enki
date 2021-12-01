@@ -1,0 +1,11 @@
+Use slice to extract the substring 'spam' from 'spam-eggs-ham-chips' by filling in the gaps.
+
+ourString = 
+  'spam-eggs-ham-chips'
+  
+  sObject = ???(
+  ???)
+  print(ourString[sObject])
+  
+  > slice
+  > 4
