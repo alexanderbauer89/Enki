@@ -1,0 +1,10 @@
+Which of the objects below are iterable?
+
+Sequence types (list, str, tuple...)
+Collection types
+Iterators
+Any object with a defined __next__() method
+Any object
+Any custom classes
+
+> Sequence types (list, str, tuple...)
