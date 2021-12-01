@@ -1,0 +1,8 @@
+What is the average insertion time in a binary heap?
+
+O(sqrt(n)
+O(n)
+O(log log n)
+O(log n)
+
+> O(log n)
