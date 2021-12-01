@@ -1,0 +1,8 @@
+The root user is also called the
+
+best-user
+superuser
+extrauser
+super
+
+> superuser
