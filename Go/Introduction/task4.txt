@@ -1,0 +1,7 @@
+Files that contain Go Code have the .go extension.
+
+.go
+.gocode
+.golang
+
+> .go
