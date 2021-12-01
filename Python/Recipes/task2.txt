@@ -1,0 +1,7 @@
+Complete the following code snippet to select a random item from a list/tuple data structure:
+
+rand_item = ???.
+???(items)
+
+> random
+> choice
