@@ -4,3 +4,5 @@ bash
 .bashrc
 .bash
 bashrc
+
+> .bashrc
