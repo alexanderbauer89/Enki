@@ -1,0 +1,7 @@
+Complete the code snippet to create a deep copy:
+
+from copy ??? deepcopy
+x = ???(y)
+
+> import
+> deepcopy
