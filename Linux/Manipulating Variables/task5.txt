@@ -1,0 +1,8 @@
+What should be added to .bashrc to prepend /fun/enki to PATH?
+
+PATH=???
+# reload .bashrc
+??? ~/.bashrc
+
+> "/fun/
+> source
