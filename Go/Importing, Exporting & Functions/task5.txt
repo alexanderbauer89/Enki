@@ -1,0 +1,6 @@
+Functions in Go can return more than 1 result?
+
+True
+False
+
+> True
