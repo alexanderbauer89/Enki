@@ -1,0 +1,34 @@
+We have three lists, fnames, lnames, locations, which are ordered so that each index represents the same person, i.e. fnames[3], lnames[3] and locations[3]
+all refer to the same person. We want to create 2-tuples of the first and last name of each person and have these inside 2-tuples which match first+last name tuples
+with locations, such that the result looks like:
+
+[(('italo', 'calvino'), 'IT'),
+ (('jean', 'micheal'), 'FR'),
+ (('emily', 'rambert'), 'FR'),
+ (('katya', 'sokolov'), 'RU')]
+ 
+ Fill in the gaps in the code below to achieve this. 
+ 
+ location = ['IT',
+             'FR',
+             'FR',
+             'RU']
+fnames = ['italo',
+           'jean',
+           'emily',
+           'katya']
+lnames = ['calvino',
+          'micheal',
+          'rambert',
+          'sokolov']
+ 
+result = zip(???,
+???)
+result2 = zip(???,
+???)
+print(result2)
+
+> fnames
+> lnames
+> result
+> locations
