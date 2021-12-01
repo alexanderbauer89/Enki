@@ -1,0 +1,9 @@
+Which value should we move into the root position after removing the old root?
+
+      ???
+     /   \
+    20    38
+   / \    /  \
+  15  16 3    37
+  
+> 38
