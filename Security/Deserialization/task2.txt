@@ -1,0 +1,25 @@
+Given that you know this code is present on the server, place an order of item number 1, 2, and 3 for user id 14, and make their price 0.
+
+price = request.body['price']
+if (request.body['admin']) {
+  price = 0
+}
+db.insert(
+  "orders",
+  user=request.body["user_id"]
+  ,
+  price=price,
+  items=request.body['cart']
+)
+
+Response Body:
+
+{
+  admin: "???",
+  user_id: "???",
+  items: "???"
+}
+
+> true
+> 14
+> 1,2,3
