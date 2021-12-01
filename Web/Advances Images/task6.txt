@@ -1,0 +1,19 @@
+Assign the link path for every image on the webpage:
+
+<???>
+  <??? ???>
+<???>
+
+nav
+base
+href="http://www.enkipro.com/images/"
+head
+img
+src
+/head
+/nav
+
+> head
+> base
+> href="http://www.enkipro.com/imges/"
+> /head
