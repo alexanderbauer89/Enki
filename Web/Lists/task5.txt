@@ -1,0 +1,16 @@
+Complete the HTML code to create a descriptive list.
+
+<A>
+  <B>HTML</B>
+  <C>Content of web page</C>
+  <B>CSS</B>
+  <C>Styles of web page</C>
+</A>
+
+A: ???
+B: ???
+C: ???
+
+> dl
+> dt
+> dd
