@@ -1,0 +1,15 @@
+What's the best way to prevent XXE attacks?
+
+???
+
+What should you disable to prevent them?
+
+Code Execution
+XML Processors
+Use a library designed for the job
+XML
+Prevent unescaped user input
+External entities
+
+> Use a library designed for the job
+> External entities
