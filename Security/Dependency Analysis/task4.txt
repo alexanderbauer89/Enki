@@ -1,0 +1,18 @@
+What order should these steps be taken in?
+
+???
+??????
+???
+???
+
+Apply automatic patches where possible
+Schedule the upgrade of vulnerable components with the project lead
+Determine what data from your application must be immediately protected.
+Scan your application for vulnerabilities
+Check your local government's laws and requirements on data safety.
+
+> Check your local government's laws and requirements on data safety.
+> Determine what data from your application must be immediately protected.
+> Apply automatic patches where possible
+> Scan your application for vulnerabilities
+> Schedule the upgrade of vulnerable components with the project lead
