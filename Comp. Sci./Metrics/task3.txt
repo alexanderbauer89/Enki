@@ -1,0 +1,8 @@
+Packet loss is measured
+
+in milliseconds
+as a percentage
+as a number of packets
+in seconds
+
+> as a percentage
