@@ -1,0 +1,24 @@
+Which of the following is not a potential valid way of decorating the function foo?
+
+# A
+foo = decorator(foo)
+# B
+@decorator
+def foo():
+  ...
+# C
+def decorator():
+  def foo():
+    ...
+# D
+@decorator(param)
+def foo():
+  ...
+  
+B
+C
+D
+A
+they are all valid
+
+> C
