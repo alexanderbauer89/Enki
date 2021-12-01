@@ -1,0 +1,12 @@
+Complete the code that provides info for search engines to review and display within the results:
+
+<???
+  ???="???"
+  ???="
+This would be the write-up."
+>
+
+> meta
+> name
+> description
+> content
