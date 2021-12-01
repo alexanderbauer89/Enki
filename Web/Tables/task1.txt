@@ -1,0 +1,32 @@
+Arrange the HTML tags to properly create this table:
+
+<tag1>
+  <tag2>
+    <tag3>Matthew</tag3>
+    <tag3>Denver</tag3>
+    <tag3>Colorado</tag3>
+  </tag2>
+  <tag2>
+    <tag3>Liz</tag3>
+    <tag3>San Francisco</tag3>
+    <tag3>California</tag3>
+  </tag2>
+</tag1>
+
+tag1 = ???
+tag2 = ???
+tag3 = ???
+
+tr
+tc
+colspan
+col
+table
+th
+td
+rowspan
+row
+
+> table
+> tr
+> td
