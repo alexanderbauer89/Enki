@@ -1,0 +1,8 @@
+The is operator is used to match ??? instead of values.
+
+instances
+objects
+classes
+lists
+
+> instances
