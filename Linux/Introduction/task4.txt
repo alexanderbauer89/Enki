@@ -1,0 +1,7 @@
+In Linux, you type commands in the 
+
+search bar
+text editor app
+terminal
+
+> terminal
