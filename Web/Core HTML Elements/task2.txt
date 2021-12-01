@@ -1,0 +1,8 @@
+Which of these is not true about headings:
+
+There are 6 heading sizes ranging from <h1> to <h6>
+Every web page should have at least one <h1>.
+Headings are more important for page style than search engine ranking.
+By default, <h4> is the same size as a paragraph <p>.
+
+> Headings are more important for page style than search engine ranking.
