@@ -1,0 +1,8 @@
+Write the form code that creates a checkbox.
+
+<??? ???="
+???">
+
+> input
+> type
+> checkbox
