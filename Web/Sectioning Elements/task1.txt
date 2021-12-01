@@ -1,0 +1,9 @@
+Which of the following is a useful way of using a div container in a webpage?
+
+Generic content for stylistic purposes.
+Primary content of a document
+Sub-sections of content
+Contact information
+Forum posts
+
+> Generic content for stylistic purposes.
