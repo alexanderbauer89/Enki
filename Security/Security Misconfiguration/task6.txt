@@ -1,0 +1,8 @@
+Which is not a practice that will help mitigate cloud security configuration vulnerabilities:
+
+using a password manager
+allowing new cloud services to be used in development and only deployed to production after review
+rotating credentials
+prohibiting new cloud services without extensive review
+
+> prohibiting new cloud services without extensive review
