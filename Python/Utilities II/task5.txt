@@ -1,0 +1,15 @@
+Complete the SequenceMatcher constructor such that empty spaces are treated as junk:
+
+s = SequenceMatcher(??? x: x
+== ???,
+    " abcd", "abcd abcd")
+    
+ ()
+ " "
+ if
+ ?
+ null
+ lambda
+ 
+ > lambda
+ > " "
