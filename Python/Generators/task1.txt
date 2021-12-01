@@ -1,0 +1,5 @@
+What other statement is specific to generators instead of return?
+
+???
+
+> yield
