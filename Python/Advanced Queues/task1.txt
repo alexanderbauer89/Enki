@@ -1,0 +1,11 @@
+Complete the code snippet do declare a FIFO and LIFO queue and to see the values in both queues:
+
+import queue
+f = queue.???()
+l = queue.LifoQueue()
+
+f.queue
+l.???
+
+> Queue
+> queue
