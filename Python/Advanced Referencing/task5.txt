@@ -1,0 +1,7 @@
+Complete the following code snippet (supposing a callback function is defined):
+
+r = weakref.???(enki,
+???)
+
+> ref
+> callback
