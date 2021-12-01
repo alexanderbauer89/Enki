@@ -1,0 +1,13 @@
+Complete the following code in order to declare a class using type in the correct order:
+
+ExampleClass = type(???,???,???)
+
+Attributes
+SubClasses
+Instance
+Name
+SuperClasses
+
+> Name
+> SuperClasses
+> Attributes
