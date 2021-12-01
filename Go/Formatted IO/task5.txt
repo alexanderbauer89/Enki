@@ -1,0 +1,6 @@
+The fmt.Sprintf function formats to a string
+
+but does not print to the console
+and prints to the console
+
+> but does not print to the console
