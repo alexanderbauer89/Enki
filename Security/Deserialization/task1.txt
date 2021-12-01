@@ -1,0 +1,7 @@
+What's the best way to prevent a deserialization attack?
+
+Don't accept any inputs
+Sanitize your inputs
+Use XML instead of JSON
+
+> Sanitize your inputs
