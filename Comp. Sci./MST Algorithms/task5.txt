@@ -1,0 +1,10 @@
+If the sum of the previous weight and the current item's weight goes over the maximum allowed weigh, then the following statement is true:
+
+m[w][i] = ???
+
+m[w-1][i]
+m[w][i-1]
+m[w-1][i-1]
+m[w][i]
+
+> m[w][i-1]
