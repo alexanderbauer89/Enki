@@ -1,0 +1,22 @@
+Write the meta tag that auomatically redirects users from one webpage to another after 30 seconds.
+
+<???
+  ???="???"
+  ???="??? ???"
+>
+
+meta
+http-equiv
+http://redirectpage.html
+refresh
+content
+URL=redirectedpage.html
+redirect
+30;
+
+> meta
+> http-equiv
+> refresh
+> content
+> 30;
+> URL=redirectedpage.html
