@@ -1,0 +1,9 @@
+Is this initialization correct?
+
+var age int, isAdult bool = 28,
+  true
+  
+No
+Yes
+
+> No
