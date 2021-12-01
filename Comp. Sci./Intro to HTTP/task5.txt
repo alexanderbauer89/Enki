@@ -1,0 +1,10 @@
+What type of key is used for encryption and decryption over HTTPS?
+
+TLS
+symmetric
+asymmetric
+secure
+private
+certificate
+
+> symmetric
