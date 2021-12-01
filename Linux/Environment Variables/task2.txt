@@ -1,0 +1,9 @@
+Create a variable named good_dog that stores "Artemis", and then print it:
+
+???="???"
+echo ???
+# Artemis
+
+> good_dog
+> Artemis
+> $good_dog
