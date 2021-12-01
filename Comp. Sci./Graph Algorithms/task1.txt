@@ -1,0 +1,7 @@
+What does Dijkstra's algorithm compute?
+
+The number of connected components in a graph.
+The shortes path between nodes in an weighted graph.
+The negative cycles in an weighted graph.
+
+> The shortes path between nodes in an weighted graph.
