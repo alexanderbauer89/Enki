@@ -1,0 +1,8 @@
+The filetype that the server should return are specified in the ??? header field.
+
+User-Agent
+Accept-Encoding
+Accept
+Content-Type
+
+> Accept
