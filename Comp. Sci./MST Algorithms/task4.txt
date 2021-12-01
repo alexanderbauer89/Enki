@@ -1,0 +1,13 @@
+If the sorted edge container looks like this:
+
+[(AC, 5), (AB, 5), (CE, 5)]
+
+And the current nodes in the tree are:
+
+A, D, C, E
+
+The next edge to be picked is:
+
+AC AB CE
+
+> AB
