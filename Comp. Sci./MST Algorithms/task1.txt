@@ -1,0 +1,7 @@
+Kruskal's algorithm is used for finding
+
+the number of negative cycles in a weighted graph
+distance between the nodes in a weighted graph
+the minimum spanning tree in a weighted graph
+
+> the minimum spanning tree in a weighted graph
