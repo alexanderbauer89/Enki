@@ -1,0 +1,24 @@
+Fill the following code snippet such that it will sort elements added in the queue in descending order:
+
+class Order(object):
+  def __init__(self,
+ ???):
+    self.priority = priority
+  def ???(self, other)
+:
+    return self.priority
+??? other.priority
+
+temp = queue.???
+
+temp.put(Order(1))
+temp.put(Order(10))
+temp.put(Order(1000))
+
+# Order of elements in the queue
+# 1000 / 10 /1
+
+> priority
+> __lt__
+> >
+> PriorityQueue()
