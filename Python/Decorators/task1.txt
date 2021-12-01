@@ -1,0 +1,7 @@
+Alongside the function definition, a closure contains the function's
+
+class members
+scoped variables
+time capsule
+
+> scoped variables
