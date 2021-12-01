@@ -1,0 +1,7 @@
+Instantiate a double ended que with a maximum length of 5:
+
+e = ???(??? = 5
+)
+
+> deque
+> maxlen
