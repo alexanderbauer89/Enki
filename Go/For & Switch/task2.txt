@@ -1,0 +1,23 @@
+Which code block represents which loop type.
+
+// ???
+for sum := 1; sum < 3; {
+  sum += 1
+}
+
+// ???
+sum := 1
+
+for sum < 50 {
+  sum += sum
+}
+
+// ???
+sum := 1
+for i := 0; i++{
+  sum += 1
+}
+
+> for
+> while
+> infinite
