@@ -1,0 +1,8 @@
+What is one control in the Physical Layer?
+
+Locks and secure enclosures
+Encrypted password exchange and storage
+Use a physical firewall
+Using switches to branch off wired connections
+
+> Locks and secure enclosures
