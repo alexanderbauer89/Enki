@@ -1,0 +1,7 @@
+What are structs?
+
+Collections of pointers.
+A different name for pointers.
+Collections of fields.
+
+> Collections of fields.
