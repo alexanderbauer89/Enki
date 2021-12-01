@@ -1,0 +1,8 @@
+The main difference between Bellman-Ford and Dijkstra's algorithm is that
+
+Bellman-Ford is faster
+Bellman-Ford works for graphs with negative-weighted edges
+Dijkstra's outputs the distance between the source and every other node
+Bellman-Ford is slower
+
+> Bellman-Ford works for graphs with negative-weighted edges
