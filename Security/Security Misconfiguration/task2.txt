@@ -1,0 +1,8 @@
+What should you do once you have accounted for all of the credentials and configurations in an application stack?
+
+Forbid any new cloud services without extensive security review
+Close down each cloud service
+Ensure that the fewest number of sensitive credentials exist
+Migrate each component of the application stack to a secure location
+
+> Ensure that the fewest number of sensitive credentials exist
