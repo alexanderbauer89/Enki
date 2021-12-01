@@ -1,0 +1,10 @@
+How many bits of memory does an IPv4 address occupy?
+
+4
+36
+8
+32
+255
+16
+
+> 32
