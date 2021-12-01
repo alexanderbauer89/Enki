@@ -1,0 +1,12 @@
+Modify, then unset, the variable.
+
+echo $SOMETHING
+# foobar
+export SOMETHING="bar
+???"
+echo $SOMETHING
+# bar foobar
+??? SOMETHING
+
+> $SOMETHING
+> unset
