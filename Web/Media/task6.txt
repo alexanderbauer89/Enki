@@ -1,0 +1,10 @@
+Select the statement that is not true regarding the <embed> element:
+
+Plug-ins are supported on all mobile devices.
+No closing tag is used.
+used for embedding plug-ins
+used for embedding plug-ins
+used for embedding an external application
+Introduced in HTML5
+
+> Plug-ins are supported on all mobile devices.
