@@ -1,0 +1,24 @@
+What are the two attributes in the following snippet? ???
+
+<p>
+  This is a 
+  <a 
+  href="
+https://www.enkipro.com"
+  target="_blank">link
+  </a>
+</p>
+
+Attribute values should always be enclosed within what symbols? ???
+
+href and <p>
+Periods
+Commas
+Qutation marks
+href and target
+<p> and <a>
+https://www.enkipro.com and _blank
+Parenthesis
+
+> href and target
+> Quotation marks
