@@ -1,0 +1,10 @@
+Which of the following types are immutable?
+tuple, complex, set, dict, range, frozenset
+
+tuple, complex, set, range, frozenset
+tuple, complex, range, frozenset
+tuple, complex, set, dict, range, frozenset
+complex, range, set, frozenset
+complex, range, frozenset
+
+> tuple, complex, range, frozenset
