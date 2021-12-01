@@ -1,0 +1,14 @@
+Which node will be prioritized after B in a depth-first traversal?
+
+       A
+     /  \
+    B    C
+   / \    
+  D  E    
+  
+A
+D
+C
+E
+
+> D
