@@ -1,0 +1,15 @@
+Complete the code to make the for loop iterate 3 times.
+
+var sum = 0
+
+??? i := 0???
+??? ??? {
+  sum += 1
+  fmt.Println(
+ "The value of sum is: ", sum)
+}
+
+> for
+> ;
+> i < 3;
+> i++
