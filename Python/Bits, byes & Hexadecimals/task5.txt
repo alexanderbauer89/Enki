@@ -1,0 +1,6 @@
+Create a copy of the bytes 0 filled to a specified width:
+
+>>> (b"19").???(5)
+b'00019'
+
+> zfill
