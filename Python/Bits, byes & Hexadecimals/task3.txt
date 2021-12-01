@@ -1,0 +1,10 @@
+Complete the output of the command run in the Python interactive shell:
+
+>>> a = bytes(range(2))
+>>> a
+???'\???\
+???'
+
+> b
+> x00
+> x01
