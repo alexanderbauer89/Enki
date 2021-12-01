@@ -1,0 +1,8 @@
+An XXE attack affects what components of an application?
+
+HTML DOM
+HTTP Endpoints
+XML Processors
+Network Firewall
+
+> XML Processors
