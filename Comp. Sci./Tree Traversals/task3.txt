@@ -1,0 +1,14 @@
+Chose the sequence that simulates a pre-order traversal of the tree:
+
+      A
+     /  \
+    B    C
+   / \    \
+  D  F     E
+  
+A,B,D,F,C,E
+A,B,C,D,E,F
+D,B,F,A,C,E
+D,F,B,E,C,A
+
+> A,B,D,F,C,E
