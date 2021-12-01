@@ -1,0 +1,17 @@
+Disable doctype declarations in the following code:
+
+include xmlparser
+
+untrustedXML = request.body
+
+xmlparser.set("???",
+  true)
+  
+xmlparser.set("doctype", 
+"myDocType")
+xmlparser.set("schema",
+"mySchema")
+xmlparser.parse(???)
+
+> disallowDoctypeDec
+> untrustedXML
