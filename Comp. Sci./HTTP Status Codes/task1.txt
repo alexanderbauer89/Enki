@@ -1,0 +1,8 @@
+Informational status codes were introduced in:
+
+HTTP/1.0
+HTTP/2.0
+HTTP/0.0
+HTTP/1.1
+
+> HTTP/1.1
