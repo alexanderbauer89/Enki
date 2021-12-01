@@ -1,0 +1,6 @@
+What do you need to do to create a type for an interface?
+
+You need to create the type within the interface where the methods go.
+You need to assign it the method name defined in the interface.
+
+> You need to assign it the method name defined in the interface.
