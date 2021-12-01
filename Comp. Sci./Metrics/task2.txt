@@ -1,0 +1,9 @@
+We can talk about round-trip time only in:
+
+packet-switched networks
+complex networks
+networks with a firewall
+UDP networks
+simple networks
+
+> packet-switched networks
