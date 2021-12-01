@@ -1,0 +1,6 @@
+What are arrays?
+
+Elements that have different data types.
+Data structures that consist of a collection of elements.
+
+> Data structures that consist of a collection of elements.
