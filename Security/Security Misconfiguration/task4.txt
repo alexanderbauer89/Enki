@@ -1,0 +1,7 @@
+How do vulnerabilities get added to automated scanners?
+
+someone reports them and automates them
+vulnerability gnomes use their cybermagiks to pry them form the deep earth
+neural networks use evolutionary algorithms to generate exploits
+
+> someone reports them and automates them
