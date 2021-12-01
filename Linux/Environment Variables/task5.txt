@@ -1,0 +1,6 @@
+Which of these files should you edit to customize your environment?
+
+bash
+.bashrc
+.bash
+bashrc
