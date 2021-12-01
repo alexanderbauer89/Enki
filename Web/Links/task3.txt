@@ -1,0 +1,20 @@
+Select the absolute path from this list:
+
+???
+
+What is the biggest downfall to using absolute paths?
+
+???
+
+contact.html
+../services.html
+For downloadable files, absolute paths will not work.
+You don't have control over files on other domains and if they are moved, your links will break.
+http://www.enkipro.com/help/articles/how-do-i-set-up-a-webpage.html
+Relative paths will load the link faster.
+Those paths have lower search engine visibility.
+The paths tend to be longer and add to the filesize of a web page.
+travel/fiji/group-photo.html
+
+> http://www.enkipro.com/help/articles/how-do-i-set-up-a-webpage.html
+> You don't have control over files on other domains and if they are moved, your links will break.
