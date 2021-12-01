@@ -1,0 +1,16 @@
+Complete the code snippet to implement a context manager:
+
+class new_context_manager:
+  def ???(self):
+    # set up things
+    return thing
+  def ???(self, type,
+        value, traceback):
+      # deal with unmanged resources
+      
+ with new_context_manager as
+  custom_name
+  # work with resources
+  
+  > __enter__
+  > __exit__
