@@ -1,0 +1,8 @@
+Display a list of all the current environment variables:
+
+???
+# User=enki
+# HOME=/home/enki
+# ...
+
+> env
