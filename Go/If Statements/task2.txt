@@ -1,0 +1,22 @@
+Complete the code by adding a new variable in the if statement using the shorthand notation. Then, return the result in the form of a string.
+
+func ??? (x int) string {
+  if ??? ; x % y == ??? {
+    return "x is even"
+   }
+  return "x is odd"
+}
+
+evenOrOdd(71)
+// x is odd
+
+y:=2
+1
+var y = 2
+0
+oddOrEven
+evenOrOdd
+
+> evenOrOdd
+> y := 2
+> 0
