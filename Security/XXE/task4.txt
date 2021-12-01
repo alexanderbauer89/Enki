@@ -1,0 +1,15 @@
+Which categories of error do XXE vulnerabilites fall into?
+
+??? XML Documents: exploits vulnerabilities using not well formed documents.
+
+??? XML Documents: exploits vulnerabilities using documents that do not have the expected structure.
+
+Exception
+Malformed
+NonParseableDocument
+Broken
+Invalid
+NonWellFormed
+
+> Malformed
+> Invalid
