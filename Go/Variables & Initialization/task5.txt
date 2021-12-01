@@ -1,0 +1,6 @@
+The shorthand declaration can only be used on the ??? level.
+
+function
+package
+
+> function
