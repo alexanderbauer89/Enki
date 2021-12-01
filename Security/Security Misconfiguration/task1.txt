@@ -1,0 +1,8 @@
+Which is a security misconfiguration vulnerability?
+
+Keeping the default admin user and password active
+Shoulder-surfing at a coffee shop
+Improperly positioned security cameras
+Using an old XML library
+
+> Keeping the default admin user and password active
