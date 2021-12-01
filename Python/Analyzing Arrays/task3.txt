@@ -1,0 +1,58 @@
+The binary function supplied to reduce does not have to be a numerical operation. Let's say we've defined a custom class, Storage which describes a storage device,
+with an integer for its size in gigabytes and a string for its filesystem, such as NTFS, FAT32 or APFS.
+
+We want to find out how much storage space we effectively have across our whole collection of drives, with the caveat that we only want to consider drives formatted
+to work natively with, say, a Mac.
+
+To do this, we define a function, totalUsableSpace, which only adds the storage space if the filesystem string matches those that work natively with a Mac.
+
+Fill in the code gaps to achieve this.
+
+class Storage:
+  ... #truncated
+class StorageCollection:
+  ... #truncated
+  
+def totalUsableSpace(
+totalStorage,
+                      ):
+storage               
+  if storage.filesystem ==
+ "APFS" or
+    storage.filesystem ==
+ "HFS":
+    return ??? + ???
+  else:
+    return int(totalStorage)
+    
+drive1 = Storage(2000, "APFS")
+drive2 = Storge(2000, "NTFS")
+drive3 = Storage(1500, "exFAT"
+)
+drive4 = Storage(3000, "HFS")
+
+collection = StorageCollection
+()
+
+collection.add(drive1, drive2, 
+                drive3, drive4
+)
+
+print(???(???, ???))
+
+map
+int(totalStorage)
+storage.size
+collection
+totalStorage
+collection
+Storage.size
+reduce
+drive1
+totalUsableSpace
+
+> int(totalStorage)
+> storage.size
+> reduce
+> totalUsableSpace
+> collection
