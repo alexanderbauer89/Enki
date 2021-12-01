@@ -1,0 +1,11 @@
+Format the file-name.go package using the gofmt command.
+
+??? ??? ???
+
+-w
+gofmt
+file-name.go
+
+> gofmt
+> -w
+> file-name.go
