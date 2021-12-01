@@ -1,0 +1,8 @@
+Where can variables be created?
+
+At package and function level.
+At function level only.
+At package level only.
+At either the function or package, but not both.
+
+> At package and function level.
