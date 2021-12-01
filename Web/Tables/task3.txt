@@ -1,0 +1,31 @@
+Code the following table.
+
+<tag1>
+  <tag2>Employee List</tag2>
+  <tag3>
+    <tag4>Name</tag4>
+    <tag4>Start Date</tag4>
+  </tag3>
+  <tag3>
+    <tag4>Jimmy</tag4>
+    <tag4>Jan 11th</tag4>
+  </tag3>
+</tag1>
+
+tag1 = ???
+tag2 = ???
+tag3 = ???
+tag4 = ???
+
+td
+label
+tt
+tr
+caption
+table
+title
+
+> table
+> caption
+> tr
+> td
