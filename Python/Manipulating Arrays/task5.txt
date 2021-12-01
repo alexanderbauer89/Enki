@@ -1,0 +1,10 @@
+What is the result of the execution of the following code snippet?
+
+print(all([" ", 'abc', 12, 145]
+))
+
+False
+True
+TypeError
+
+> True
