@@ -1,0 +1,9 @@
+What two adjectives describe a function which causes no side-effects and has a valid output for every input?
+
+Partial & Total
+Pure & Total
+Immutable & Total
+Pure & Partial
+Partial & Pure
+
+> Pure & Total
