@@ -1,0 +1,8 @@
+Which of the following data structures is a type of maximally-unbalanced binary tree?
+
+Max-heap
+Weighted graph
+Ordered array
+Ordered linked list
+
+> Ordered linked list
