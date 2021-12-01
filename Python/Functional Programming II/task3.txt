@@ -1,0 +1,5 @@
+What keyword makes a function a generator?
+
+???
+
+> yield
