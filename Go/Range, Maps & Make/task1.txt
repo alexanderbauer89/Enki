@@ -1,0 +1,6 @@
+Slices can
+
+only contain an array
+contain any type.
+
+> contain any type.
