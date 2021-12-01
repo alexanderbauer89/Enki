@@ -1,0 +1,9 @@
+Checkboxes have three possible states, these are checked, unchecked and:
+
+intermidiate
+There is no third state
+off
+indeterminate
+on
+
+> indeterminate
