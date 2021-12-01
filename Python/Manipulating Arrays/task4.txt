@@ -1,0 +1,10 @@
+What is the output of the following sum operation?
+
+letters = ['a', 'b', 'c']
+print(sum(letters))
+
+TypeError: unspported operand type(s) for +: 'int' and 'str'
+['a', 'b', 'c']
+abc
+
+> TypeError: unspported operand type(s) for +: 'int' and 'str'
