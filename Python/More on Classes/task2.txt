@@ -1,0 +1,5 @@
+Get all writable attributes of your object:
+
+print(Enki.???)
+
+> __dict__
