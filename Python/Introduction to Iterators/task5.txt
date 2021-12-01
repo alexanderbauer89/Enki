@@ -1,0 +1,39 @@
+Let's say we have three lists. The first is a list of prices for items on an onine shop. The second is a list of proposed discounts, to be subtracted from those prices. 
+Finally, the third list is a list of booleans which indicate which products (assume one product per index) are included in the sale.
+
+Complete the code below to print a list of the original prices and a list of those same prices with the discount applied.
+
+import itertools;
+
+prices = [120, 300, 90, 200, 60]
+discounts = [-30, -100, -35, -85, -15]
+isInSale = [1, 0, 1, 1, 1]
+salePrices = []
+
+discountIterator =
+itertools.compress(prices,
+  isInSale)
+  
+def f(x):
+  price = x + next(
+discountIterator)
+  salePrices.append(price)
+  return(price <= 0)
+  
+print(
+  list(
+    itertools.???(
+      lambda x: f(x),
+fullPricesInSale)))
+
+print(
+  list(salePrices))
+  
+ chain
+ compress
+ izip
+ cycle
+ filterfalse
+ islice
+ 
+ > filterfalse
