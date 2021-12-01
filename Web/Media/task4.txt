@@ -1,0 +1,10 @@
+Finish the sentence:
+
+In order for videos to be supported on all major web browsers you should use the ??? format.
+
+.mp3 or .oog
+h.246 or codec
+.mp4 or .webm
+flash or .mp3
+
+> .mp4 or .webm
