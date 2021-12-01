@@ -1,0 +1,9 @@
+What is the first digit of the status code for a successfully processed request?
+
+5
+1
+4
+2
+3
+
+> 2
