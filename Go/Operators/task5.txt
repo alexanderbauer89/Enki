@@ -1,0 +1,6 @@
+Which group of operators do &&, || and ! fall into?
+
+Relational
+Logical
+
+> Logical
