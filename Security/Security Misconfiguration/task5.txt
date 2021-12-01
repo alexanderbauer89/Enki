@@ -1,0 +1,9 @@
+The right time to review security settings on a cloud service is 
+
+before developers decide on the tool
+before it lands in production
+before budget is allocated for a new tool
+anually
+quarterly
+
+> before it lands in production
