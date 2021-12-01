@@ -1,0 +1,14 @@
+Which node will be prioritized after B in a breadth-first traversal?
+
+       D
+     /  \
+    B    E
+   / \    
+  C  A    
+  
+A
+E
+D
+C
+
+> E
