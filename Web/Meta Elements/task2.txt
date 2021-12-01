@@ -20,3 +20,8 @@ char
 charset
 iso-8859-1
 meta
+
+> meta
+> charset
+> utf-8
+> First line of code within the <head> element.
