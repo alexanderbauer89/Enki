@@ -1,0 +1,8 @@
+The number of simliar looking functions that can be decorated using the same decorator is
+
+none
+as many as needed
+two
+one
+
+> as many as needed
