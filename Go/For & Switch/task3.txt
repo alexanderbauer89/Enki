@@ -1,0 +1,16 @@
+Finish the code to make the switch statement work.
+
+func main() {
+    
+    ??? x:= 0;  {
+    ??? x > 0:(
+      fmt.Print(x,
+    " is positive.")
+    ??? x < 0:
+      fmt.Print(x,
+    " is negative.")
+      ???:
+      fmt.Print(x,
+    " is neither positive nor negqtive")
+   }
+ }
