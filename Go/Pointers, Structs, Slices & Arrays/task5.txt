@@ -1,0 +1,8 @@
+Slices have
+
+a width and capacity
+a capacity and no length
+a length and capacity
+a length and width
+
+> a length and capacity
