@@ -1,0 +1,11 @@
+Within a computer network, what do we call devices that send, route, or receive data?
+
+gateways
+routers
+modems
+software
+nodes
+switches
+hardware
+
+> nodes
