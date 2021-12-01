@@ -1,0 +1,11 @@
+Fill the following snippet such that it will first convert 1024 to byres and then perform the reverse operation.
+
+>>> int.???(
+(1024).???((1024).
+???, byteorder='big'),
+???="big")
+
+> from_bytes
+> to_bytes
+> bit_length
+> byteorder
