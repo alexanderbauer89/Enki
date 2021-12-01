@@ -1,0 +1,21 @@
+Add map elements to create clickable areas within a single image.
+
+<map name="objects">
+  <area shape="???"
+coords="10,50,82,126"
+   alt="" href="object1.htm">
+ <area shape="???"
+coords="90,58,3"
+  alt="" href="object2.htm">
+ <area shape="???"
+  coords="
+14,24,12,32,25,41,34,33,32,25"
+  alt="" href="object3.htm">
+</map>
+
+<img usemap="#objects" src="#"
+ alt="">
+ 
+ > rect
+ > circle
+ > poly
