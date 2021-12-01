@@ -1,0 +1,9 @@
+if-else statements are ??? and used when you want to execute some code on ???.
+
+non-stackable
+two or more conditions
+stackable
+a single condition
+
+> stackable
+> two or more conditions
