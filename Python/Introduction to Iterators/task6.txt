@@ -1,0 +1,16 @@
+next() can actually be given a second argument, other than the iterator object from which to get the next element. Calling next(iterator, None) causes
+reaching the end of the collection to not trigger a StopIteration exception and instead just return a None object. We can define anything to be returned in this case.
+How could we use this in our 'instead of a for loop' example?
+
+list = ['a', 'b', 'c', 'd']
+it = iter(list)
+while True:
+  line = next(it, None)
+  ???
+  
+if line is None: break
+if None: break
+catch StopIteration:
+if Line is None: break
+
+> if line is None: break
