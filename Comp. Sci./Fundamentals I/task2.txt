@@ -1,0 +1,22 @@
+Data transmission over the Internet works in the following way:
+
+Original data is split into ??? at the ???.
+
+Data is tramsitted following protocol rules.
+
+Data is ??? at the ???.
+
+reassembled
+payload
+source
+IP
+header
+nodes
+packets
+destination
+datagrams
+
+> packets
+> source
+> reassembled
+> destination
