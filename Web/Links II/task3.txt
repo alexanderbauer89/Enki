@@ -1,0 +1,23 @@
+Create a text link that downloads a web file and renames it with a more user-friendly filename.
+
+<??? ???="???"
+  ???="???">
+  Download File
+<???>
+
+doc
+Friendly%20File.doc
+download
+a
+rename
+src
+file-324.doc
+href
+/a
+
+> a
+> href
+> file-324.doc
+> download
+> Friendly%20File.doc
+> /a
