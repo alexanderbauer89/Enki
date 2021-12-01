@@ -1,0 +1,11 @@
+What roles does the Session Layer play in the OSI 7 Layer Model?
+
+Providing a user interface
+Transmitting data between network nodes
+Packaging data packets into data streams and vice versa for transport
+Opening, closing, and managing connections between applications
+Routing and transmissions over the physical topography of the internet
+Maintaining and ensuring a stable connection between two hosts over the internet
+Providing computational power via electronic circuits
+
+> Opening, closing, and managing connections between applications
