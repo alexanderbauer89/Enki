@@ -1,0 +1,10 @@
+What roles does The Transport Layer play in the OSI 7 Layer Model?
+
+Routing and transmission over the physical topography of the Internet
+Transmitting data between network nodes
+Providing a user interface
+Providing computational power via electronic circuits
+Packaging data packets into data streams and vice versa for transport
+Maintaining and ensuring a stable connection between two hosts over the internet
+
+> Maintaining and ensuring a stable connection between two hosts over the internet
