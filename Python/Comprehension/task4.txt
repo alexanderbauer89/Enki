@@ -1,0 +1,10 @@
+Use list comprehension to modify a list of characters such that all its elements become uppercase:
+
+strings = ['a', 'e', 'i', 'o', 'u']
+
+lower_list = [word.???
+ \
+  for word in ???]
+ 
+> upper()
+> strings
