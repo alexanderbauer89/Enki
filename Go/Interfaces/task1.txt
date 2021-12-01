@@ -1,0 +1,13 @@
+What is the syntax for creating an interface?
+
+??? ??? ???{
+// Method signatures
+}
+
+type
+interface
+INTERFACE_NAME
+
+> type
+> INTERFACE_NAME
+> interface
