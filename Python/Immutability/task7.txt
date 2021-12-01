@@ -1,0 +1,8 @@
+How can we prevent a function we define with a mutable default argument from using the same default argument object each time?
+
+Replace the default with an immutable container and check in the function if it's empty, and if so, create the container.
+Replace the default with an immutable object and check in the function body if it's still there, and if so, create the container.
+Use a lambda function.
+Replace the default with an immutable container.
+
+> Replace the default with an immutable object and check in the function body if it's still there, and if so, create the container.
