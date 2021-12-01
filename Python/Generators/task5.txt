@@ -1,0 +1,21 @@
+What will the output of the following code snippet be?
+
+def my_gen(number):
+  number -= 1
+  yield number
+  yield number
+  number += 1
+  yield number
+  
+temp = my_gen(10)
+print(next(temp))
+print(next(temp))
+
+10 9
+9 9
+10 10
+9 8
+10 8
+9 10
+
+> 9 9
