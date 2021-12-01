@@ -1,0 +1,9 @@
+Which DOCTYPE is needed for viewing HTML5 webpages?
+
+<!DOCTYPE html5>
+<!DOCTYPE "html">
+<!DOCTYPE HTML5>
+<!DOCTYPE html en>
+<!DOCTYPE html>
+
+> <!DOCTYPE html>
