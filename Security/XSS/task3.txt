@@ -1,0 +1,8 @@
+What is the best way to prevent XSS attacks?
+
+Only store data on the client
+Only allow traffic from trusted locations
+Escape untrusted data before doing anything with it
+Prevent free-form entry fields
+
+> Escape untrusted data before doing anything with it
