@@ -1,0 +1,14 @@
+Complete the map syntax code:
+
+make(???[???]???)
+
+key
+map-type
+val-type
+val
+key-type
+map
+
+> map
+> key-type
+> val-type
