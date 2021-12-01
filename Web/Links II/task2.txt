@@ -1,0 +1,20 @@
+Create a text link that opens the user's default email program.
+
+<??? ???="??????">
+  Email Me
+<???>
+
+a
+href
+send:
+mail:
+src
+img
+mailto:
+heya@enkipro.com
+/a
+
+> a
+> href
+> mailto: heya@enkipro.com
+> /a
