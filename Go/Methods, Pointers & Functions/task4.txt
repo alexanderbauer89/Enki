@@ -1,0 +1,9 @@
+A method with a receiver can ???.
+
+A function with a receiver can ???.
+
+take either a value or pointer receiver
+only take a pointer receiver
+
+> take either a value or pointer receiver
+> only take a pointer receiver
