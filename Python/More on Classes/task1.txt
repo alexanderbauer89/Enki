@@ -1,0 +1,12 @@
+Create a new class of default type, instantiate it and print its type:
+
+class Enki???:
+  pass
+
+enki = ???
+print(???(???))
+
+> ()
+> Enki()
+> type
+> enki
