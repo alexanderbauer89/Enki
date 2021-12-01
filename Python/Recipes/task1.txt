@@ -1,0 +1,10 @@
+Consider the following:
+
+a = [0, 1, 2, 2, 2, 3]
+
+Fill in the output:
+
+print(bisect.bisect(a, 2))
+# ???
+
+> 5
