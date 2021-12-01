@@ -1,0 +1,15 @@
+Combine the following two lists into a list of tuples:
+
+a = [1,2,3,4,5]
+b = [0.1,0.2,0.3,0.4,0.5]
+
+temp = ???(???)
+
+concatenate
+a,b
+b
+zip
+a
+
+> zip
+> a,b
