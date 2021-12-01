@@ -1,0 +1,8 @@
+Cross Site Scripting can be used to steal ???-- a chunk of data used in authenticating a user.
+
+cupcakes
+usernames
+passwords
+cookies
+
+> cookies
