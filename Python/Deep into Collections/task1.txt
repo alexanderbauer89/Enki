@@ -1,0 +1,7 @@
+Which collections class is used as a faster implementation of a specialized dictionary?
+
+implementdict
+defaultdict
+specialdict
+
+> defaultdict
