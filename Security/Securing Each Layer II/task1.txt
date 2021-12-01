@@ -1,0 +1,9 @@
+What is one control in the Session Layer of the OSI Model?
+
+Use of a physical firewall
+Strict use of ports as they are designed
+Using a strong, unique password
+Using managed switches prevent topographical loops
+Locks and secure enclosures
+
+> Using a strong, unique password
