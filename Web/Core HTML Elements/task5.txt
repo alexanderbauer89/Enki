@@ -1,0 +1,17 @@
+Finish styling all paragraph elements within the document to have text color as gray:
+
+???
+  ??? {
+    ???: ???;
+   }
+???
+
+<p>
+  Random text
+</p>
+
+> <style>
+> p
+> color
+> gray
+> </style>
