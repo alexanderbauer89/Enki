@@ -1,0 +1,6 @@
+Complete the code to create a new environment variable called NEW_USER:
+
+??? ???="Enki"
+
+> export
+> NEW_USER
