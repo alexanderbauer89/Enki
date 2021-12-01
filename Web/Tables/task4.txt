@@ -1,0 +1,44 @@
+Write the code to create the following table:
+
+<table>
+  <tag1>
+    <tag2 span="2"
+      style="background-color:
+lightblue">
+    <tag2
+      style="background-color:
+ hotpink">
+    <tag2 span="3"
+     style="background-color:
+  mediumpurple">
+    </tag1>
+    <tr>
+      <td>col 1</td>
+      <td>col 2</td>
+      <td>col 3</td>
+      <td>col 4</td>
+      <td>col 5</td>
+      <td>col 6</td>
+    </tr>
+ </table>
+ 
+tag1 = ???
+tag2 = ???
+
+When using the <colgroup> element, which statements is not true?
+
+???
+
+must be placed after any <caption> elements
+must be placed before any <caption> elements
+colstyle
+column
+colgroup
+colspan
+must be used as a child of a <table> element.
+col
+must be placed before any <thead>, <tbody>, <tfoot>, and <tr> elements.
+
+> colgroup
+> col
+> must be placed before any <caption> elements
