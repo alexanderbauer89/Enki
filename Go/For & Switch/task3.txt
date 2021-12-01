@@ -14,3 +14,8 @@ func main() {
     " is neither positive nor negqtive")
    }
  }
+
+> switch
+> case
+> case
+> default
