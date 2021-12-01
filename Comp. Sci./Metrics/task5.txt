@@ -1,0 +1,8 @@
+Which of the following metric referes to the maximum theoretical speed data can move over a network link?
+
+throughput
+lag
+jitter
+bandwith
+
+> bandwith
