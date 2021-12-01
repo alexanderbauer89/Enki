@@ -1,0 +1,14 @@
+Chose the sequence that simulates an in-order traversal of the tree:
+
+        A
+       /  \
+     B     C
+      \     \
+       F     E
+       
+F,B,E,C,A
+A,B,F,C,E
+B,F,A,E,C
+B,F,A,C,E
+
+> B,F,A,C,E
