@@ -1,0 +1,16 @@
+If the PATH variable looks like this:
+
+echo $PATH
+# /usr/bin:/bin:/local/binaries
+
+In what order will the shell visit the folders in PATH to find a valid executable for somecommand?
+
+???
+
+???
+
+???
+
+> /usr/bin
+> /bin
+> /local/
