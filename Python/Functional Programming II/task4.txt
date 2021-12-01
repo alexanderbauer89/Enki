@@ -1,0 +1,17 @@
+Filter the following list such that all elements are > 0. Use lambda functions:
+
+l = [-1,-2,3,-4,5,6]
+
+new = filter(??? x: ???,
+  ???)
+  
+x > 0
+map
+lambda
+|
+list
+x < 0
+
+> lambda
+> x > 0
+> l
