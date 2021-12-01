@@ -1,0 +1,22 @@
+Write the meta tg for the necessary HTML5 character set.
+
+<???
+  ???="???"
+>
+
+As a best practice, where is the HTML5 charcater set best placed?
+
+???
+8-utf
+First line of code within the <head> element.
+metatag
+utf-8
+Anywhere before the first character in the document.
+Anywhere within the <head> element.
+First line of code in the document.
+Immediately after the DOCTYPE.
+Last line of code within the <head> element.
+char
+charset
+iso-8859-1
+meta
