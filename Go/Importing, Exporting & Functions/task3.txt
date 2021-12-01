@@ -1,0 +1,19 @@
+Create a function called powerOfThree that will calculate the power of 3 of an integer (x) and return the result.
+
+??? ??? (???) int {
+  ???
+}
+
+return x * x * x
+return x * x
+x int
+PowerOfThree
+powerOfThree
+Func
+func
+x INT
+
+> func
+> powerOfThree
+> x int
+> return x * x * x
