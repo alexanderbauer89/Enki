@@ -1,0 +1,8 @@
+In what order would an iteration over a regular dict produce its values?
+
+Ordered
+Arbitrary
+Descending
+Ascending
+
+> Arbitrary
