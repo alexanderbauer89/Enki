@@ -1,0 +1,11 @@
+Which form attribute is used to define items of a drop-down list within a select element?
+
+<select>
+  <__ value="apple">Apples</__>
+  <__ value="banana">Bananas</__>
+  <__ value="orange">Oranges</__>
+</select>
+
+__ = ???
+
+> option
