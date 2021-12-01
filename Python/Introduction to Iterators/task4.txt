@@ -1,0 +1,13 @@
+The cycle() method creates an ??? list from a ??? one.
+
+The repeat() method creates a list of length n, where each element is the ??? of the argument.
+
+new
+finite
+original
+duplicate
+infinite
+
+> infinite
+> finite
+> duplicate
