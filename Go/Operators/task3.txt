@@ -1,0 +1,19 @@
+Use assignment operators to make the equations true.
+
+var x = 18
+var y = 5
+
+y ??? y // y = 25
+
+y ??? x // y = 7
+
+x ??? y // x = 25
+
+%=
+*=
++=
+=
+
+> *=
+> %=
+> +=
