@@ -1,0 +1,14 @@
+Sort the following two lists in parrallel based on the values in the first one:
+
+heights=[8848,8611,8516,8481]
+names=['Everest','K2','Lhotse','Makalu']
+
+zipped = ???(
+  ???, ???)
+heights, names=zip(???(
+zipped))
+
+> zip
+> heights
+> names
+> *sorted
