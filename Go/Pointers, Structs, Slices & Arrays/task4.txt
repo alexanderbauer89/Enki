@@ -1,0 +1,6 @@
+What are slices?
+
+Dynamically-sized, flexible views of elements in an array.
+Statically-sized, non-flexible views of elements in a string
+
+> Dynamically-sized, flexible views of elements in an array.
