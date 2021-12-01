@@ -1,0 +1,17 @@
+Match the HTML elements with their descriptions:
+
+Used for adding a header to a table:
+
+<???>
+
+Used for adding a footer to a table:
+
+<???>
+
+Used for grouping table rows:
+
+<???>
+
+> thead
+> tfoot
+> tbody
