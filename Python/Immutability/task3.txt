@@ -1,0 +1,12 @@
+Which of the following is not a benefit of using immutable objects?
+
+1. Thread safety
+2. Easier to test
+3. Easier to reason about object lifecycle
+4. Fewer side-effects in usage
+5. Atomicity of failure
+6. Easier to cache
+7. Fewer lines of code to write
+8. Prevention of None references
+
+> 7
