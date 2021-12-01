@@ -1,0 +1,19 @@
+Which of these is the common practice way of importing packages in Go? A or B?
+
+// A) Multi-statement import
+import "fmt"
+import "math"
+import "zip"
+import "json"
+
+// B) Factored import
+import (
+  "fmt"
+  "math"
+  "zip"
+  "json"
+)
+
+???
+
+> B
