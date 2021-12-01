@@ -1,0 +1,14 @@
+The following binary expression tree evaluates to:
+
+        ÷
+      /   \
+     +     -
+   /  \    |
+  3    9   3
+  
+3
+4
+-3
+-4
+
+> -4     
