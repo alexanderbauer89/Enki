@@ -1,0 +1,13 @@
+Replace the smallest number of the heap h with 50:
+
+import heapq
+
+h = [1,2,3,4,5]
+heapq.???(h)
+
+???.???(h, 50)
+# 1
+
+> heapify
+> heapq
+> heapreplace
