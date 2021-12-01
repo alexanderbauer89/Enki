@@ -1,0 +1,11 @@
+Use Differ class to print the differences between texts a and b:
+
+import difflib
+a = "abc \n xyz"
+b = "abc \n plm"
+d = difflib.???()
+diff = d.???(a, b)
+print('\n'.join(diff))
+
+> Differ
+> compare
