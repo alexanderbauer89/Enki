@@ -1,0 +1,20 @@
+Fill in the gaps to create a function with two integer parameters and return their product.
+
+??? multiply(???) int {
+  ??? x * y
+}
+
+fmt.Println(multiply(7,1))
+// 7
+
+function
+x, y float64
+Return
+func
+x, y int
+Func
+return
+
+> func
+> x, y int
+> return
