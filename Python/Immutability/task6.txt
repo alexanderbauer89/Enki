@@ -1,0 +1,18 @@
+What is the code snippet below an example of?
+
+(Remember that the Connection class defaults to the last HTTP method used if one is not specified in request(). See the footnotes in the insight for more information.)
+
+conn = Connection(
+  http.client.HTTPConnection(
+              "httpbin.org", 80
+))
+r1 = conn.request("POST")
+r2 = conn.request("",
+"text=hello")
+
+Temporal coupling
+Side effects
+Identity mutation
+Atomicity of failure
+
+> Temporal coupling
