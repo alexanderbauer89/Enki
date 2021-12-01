@@ -1,0 +1,15 @@
+Which node in the left sub-tree would replace 10 in case of its removal?
+
+     [10]
+     /  \
+    5    15
+   / \   / \
+  1   6 13  20
+  
+  20
+  1
+  5
+  6
+  13
+  
+  > 6
