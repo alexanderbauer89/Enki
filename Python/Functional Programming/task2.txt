@@ -1,0 +1,8 @@
+Which of the below is a main concept of functional programming?
+
+Using pure functions
+Avoiding explicit dependencies
+Using lambda functions
+Using mutable data
+
+> Using pure functions
