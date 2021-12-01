@@ -1,0 +1,8 @@
+A method is a ??? with a special receiver argument.
+
+function
+assignment operator
+receiver argument
+class
+
+> function
