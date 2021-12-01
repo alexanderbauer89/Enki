@@ -1,0 +1,9 @@
+Which of the following HTTP verbs should be used only for debugging purposes?
+
+TRACE
+OPTIONS
+DELETE
+PUT
+GET
+
+> TRACE
