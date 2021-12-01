@@ -1,0 +1,28 @@
+Create a link that will open the linked page within a new tab or browser window.
+
+<??? ???="http://enki.com"
+  ???="???">
+<???>
+
+Which of these is not a valid target value?
+
+<a href="http://enki.com"
+  target="???">
+</a>
+
+_self
+_top
+target
+a
+_new
+href
+_blank
+/a
+_parent
+
+> a
+> href
+> trget
+> _blank
+> /a
+> _new
