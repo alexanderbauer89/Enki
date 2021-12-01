@@ -1,0 +1,8 @@
+Which of these is not a basic data type?
+
+Numbers
+Arrays
+Booleans
+Strings
+
+> Arrays
