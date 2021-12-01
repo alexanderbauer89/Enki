@@ -1,0 +1,15 @@
+Fill the gaps such that the code will run with no errors:
+
+sum = ??? x, y: x + y
+multiply = lambda a, b: a * b
+
+result = ???(sum(2, 3),
+4)
+???(result)
+
+# Output: ???
+
+> lambda
+> multiply
+> print
+> 20
