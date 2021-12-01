@@ -1,0 +1,7 @@
+Create a bytearray object from the hexadecimal string:
+
+>>> bytearray.???(
+  '2ef0f1f2')
+bytearray(b'.\xf0\xf1\xf2')
+
+> fromhex
