@@ -1,0 +1,9 @@
+The bitwise and ??? operators follow the right-to-left order of operations.
+
+Arithmetic
+Logical
+Micellaneous
+Relational
+Assignment
+
+> Assignment
