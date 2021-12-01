@@ -1,0 +1,8 @@
+Which of the following protocols is used solely for file transfer?
+
+HTTPS
+IP
+FTP
+SMTP
+
+> FTP
