@@ -1,0 +1,8 @@
+A 200 response to a GET request contains ??? as payload.
+
+the resource requested
+the new entity created
+the same initial headers
+the HTTP version
+
+> the resource requested
