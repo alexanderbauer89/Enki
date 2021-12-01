@@ -1,0 +1,6 @@
+Functions
+
+are considered values.
+are not values.
+
+> are considered values.
