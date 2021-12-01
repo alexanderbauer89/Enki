@@ -1,0 +1,17 @@
+Fill in the following code snippet. It creates a new set that contains elements of list l that are even and adds one and divides by two the odd numbers:
+
+l = [10, 11, 13, 14, 18, 19]
+new_set = {x ??? x % 2 == 0
+else/
+          ??? for x ??? l}
+          
+l
+if
+in
+(x + 1)/2
+else
+for
+
+> if
+> (x + 1)/2
+> in
