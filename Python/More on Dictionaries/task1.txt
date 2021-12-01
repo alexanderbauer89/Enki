@@ -1,0 +1,30 @@
+Fill in the gaps such as the commented states of the weather dictionary stand true:
+
+weather = ???
+
+???['barcelona'] = 23
+weather[???] = 30
+
+print(weather)
+# {'barcelona': 23,
+'bucharest': 30}
+??? weather['bucharest']
+
+print(weather)
+# {'barcelona': 23}
+
+weather
+'barcelona'
+add
+'bucharest'
+del weather
+del
+weather['bucharest']
+weather()
+clear
+{}
+
+> {}
+> weather
+> 'bucharest'
+> del
