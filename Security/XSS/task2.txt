@@ -1,0 +1,7 @@
+Which of these will produce a vulnerability to XSS?
+
+Storing unvalidated input
+Using JSON
+Using web forms
+
+> Storing unvalidated input
