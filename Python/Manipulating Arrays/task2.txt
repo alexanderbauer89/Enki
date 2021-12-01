@@ -1,0 +1,9 @@
+Fill in the blanks to reverse the order of the list ourList.
+
+ourList = [5, 4, 3, 2, 1]
+newList = ???(
+ ??? (???))
+ 
+ > list
+ > reversed
+ > ourList
