@@ -1,0 +1,13 @@
+A reverse queue can be implemented by using ??? instead of ??? for adding items, and by using ??? instead of ??? for removing items.
+
+pop
+popleft
+appendright
+append
+popright
+appendleft
+
+> appendleft
+> append
+> pop
+> popleft
