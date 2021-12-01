@@ -1,0 +1,16 @@
+Suppose we have the following lists. We want to know the temperature in UK. Fill the gaps accordingly:
+
+countries = ['USA', 'UK', 'SP']
+temp = ['28', '29', '30']
+
+new = ???(???(
+   countries,temp))
+new.???('USA')
+new.pop('SP')
+
+print(new)
+# {'UK': '29'}
+
+> dict
+> zip
+> pop
