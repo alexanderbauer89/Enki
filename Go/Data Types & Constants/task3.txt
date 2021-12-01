@@ -1,0 +1,9 @@
+Define a constant value called hasKids of type bool and initialize it with the value false.
+
+??? ???
+??? = ???
+
+> const
+> hasKids
+> bool
+> false
