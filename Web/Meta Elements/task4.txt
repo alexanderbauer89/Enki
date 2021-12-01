@@ -1,0 +1,6 @@
+Keywords are fairly pointless today in helping search engines to properly identify and rank your web page.
+
+False
+True
+
+> True
