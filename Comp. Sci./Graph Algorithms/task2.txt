@@ -1,0 +1,8 @@
+One of the intial steps in applying Dijkstra's algorithm is
+
+assigning a start node.
+calculating the final distances between nodes.
+marking all nodes as visited.
+assigning and end node.
+
+> assigning a start node.
