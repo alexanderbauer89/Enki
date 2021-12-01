@@ -1,0 +1,15 @@
+Define a method called Hello() on the given struct with a pointer receiver called t.
+
+type Person struct {
+  FirstName, LastName string
+}
+
+func (???) ???
+string {
+  return fmt.Sprintf(
+ "Dear %s %s, welcome!", t.
+ FirstName, t.LastName)
+}
+
+> t *Person
+> Hello()
