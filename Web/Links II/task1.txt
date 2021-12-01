@@ -1,0 +1,29 @@
+Create a linked image:
+
+<??? ???="???">
+  <???
+    ???="???"
+    ???="Click Here"
+  >
+<???>
+
+a
+src
+alt
+target
+href
+img
+http://enki.com
+_blank
+/a
+link
+icon.svg
+
+> a
+> href
+> http://enki.com
+> img
+> src
+> icon.svg
+> alt
+> /a
