@@ -1,0 +1,5 @@
+Which tool can be used to echo a packet to remote host?
+
+??? google.com
+
+> ping
