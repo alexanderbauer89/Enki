@@ -1,0 +1,8 @@
+A resource's specific cached version identifier can be found in the ??? header field.
+
+Location
+Age
+Cache-Control
+ETag
+
+> ETag
