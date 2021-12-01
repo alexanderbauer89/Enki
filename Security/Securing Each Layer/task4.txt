@@ -1,0 +1,9 @@
+What is one control in the Transport Layer of the OSI Model?
+
+Strict use of ports as they are designed
+Use of a physical firewall
+Locks and secure enclosures
+Encrypted password exchange and storage
+Using managed switches prevent topographical loops
+
+> Strict use of ports as they are designed
