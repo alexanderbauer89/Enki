@@ -1,0 +1,7 @@
+What information do I need to know about my application in order to create automated tests to ensure proper access control?
+
+The access control requirements for each resource
+The analytics data for each resource
+The contact information for the developer who implemented the initial system
+
+> The access control requirements for each resource
