@@ -1,0 +1,10 @@
+Check if queue e is full:
+
+print(e.???())
+
+complete
+max
+!space
+full
+
+> full
