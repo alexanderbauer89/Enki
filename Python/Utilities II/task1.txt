@@ -1,0 +1,8 @@
+Return the size of the struct given:
+
+>>> ???.???(
+  'hhl')
+8
+
+> struct
+> calcsize
