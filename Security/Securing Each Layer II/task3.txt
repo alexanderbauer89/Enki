@@ -1,0 +1,8 @@
+What is one control in the Application Layer of the OSI Model?
+
+Strict use of ports as they are designed
+Using managed switches prevent topographical loops
+Use of a physical firewall
+Utilizing a testing suite in software development
+
+> Utilizing a testing suite in software development
