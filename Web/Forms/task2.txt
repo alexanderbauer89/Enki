@@ -1,0 +1,5 @@
+Which input type creates a HTML form's input text field?
+
+<input type="???">
+
+> text
