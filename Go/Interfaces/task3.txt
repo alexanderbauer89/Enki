@@ -1,0 +1,6 @@
+Empty interfaces can
+
+only hold values of type "struct"
+hold values of any type
+
+> hold values of any type
