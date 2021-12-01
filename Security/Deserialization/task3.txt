@@ -1,0 +1,7 @@
+How can we pass serialized data to the client while making sure it has not been tampered with?
+
+Integrity Check
+Encryption
+Serialization
+
+> Integrity Check
