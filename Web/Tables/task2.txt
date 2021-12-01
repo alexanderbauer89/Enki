@@ -1,0 +1,40 @@
+Arrange the HTML tags to properly create this table:
+
+<tag1>
+  <tag2>
+    <tag3>
+      First name
+    </tag3>
+    <tag3>
+      Last name
+    </tag3>
+   </tag2>
+   <tag2>
+    <tag4>Nikolai</tag4>
+    <tag4>Tesla</tag4>
+   </tag2>
+   <tag2>
+    <tag4>Charles</tag4>
+    <tag4>Edison</tag4>
+   </tag2>
+</tag1>
+
+tag1 = ???
+tag2 = ???
+tag3 = ???
+tag4 = ???
+
+tr
+table
+col
+td
+row
+tc
+th
+rowspan
+colspan
+
+> table
+> tr
+> th
+> td
