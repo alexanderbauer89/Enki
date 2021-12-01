@@ -1,0 +1,8 @@
+The PATH environment variable is used by your shell to look for
+
+executables
+code
+directories
+paths
+
+> executables
