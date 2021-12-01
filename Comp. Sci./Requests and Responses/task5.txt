@@ -1,0 +1,8 @@
+??? and PATCH requests shouldn't be sent on a single TCP connection.
+
+OPTIONS
+GET
+POST
+HEAD
+
+> POST
