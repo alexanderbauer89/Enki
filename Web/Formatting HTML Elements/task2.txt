@@ -1,0 +1,10 @@
+Which of these CSS properties is not applied to the <hr> element by default?
+
+margin-top: 0.5em;
+display: inline;
+margin-left: auto;
+margin-right: auto;
+display: block;
+margin-bottom: 0.5em;
+
+> display: inline;
