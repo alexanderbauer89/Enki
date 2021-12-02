@@ -1,0 +1,8 @@
+The <footer> element is encouraged to contain which of the following?
+
+additional <footer> elements and to be added within <header> element.
+display one or more heading (h1-h6) elements be used only once in a page for validation.
+copyright or contact information, links to related or to the top of the page and sitemap
+hold a graphical logo or an image, passwords and/or other sensitive data
+
+> copyright or contact information, links to related or to the top of the page and sitemap
