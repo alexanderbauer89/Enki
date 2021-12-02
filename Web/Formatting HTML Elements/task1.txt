@@ -1,0 +1,8 @@
+Which of these options is not correct about spans?
+
+Provides no visual change to the content by itself.
+Is used to group HTML inline elements.
+Is used to group HTML block elements.
+Provides the ability where CSS styles can be assigned to change the selection.
+
+> Is used to group HTML block elements.
