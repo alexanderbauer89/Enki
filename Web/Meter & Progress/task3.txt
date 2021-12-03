@@ -1,0 +1,32 @@
+Match the answers with the corresponding text:
+
+Associate a <meter> with a <form>: ???
+Upper bound: ???
+Lower bound: ???
+Low value range: ???
+High value range: ???
+Most preferable value: ???
+Current value: ???
+
+high
+min
+form
+pref
+current
+minimum
+lowest
+max
+low
+maximum
+value
+optimum
+highest
+best
+
+> form
+> max
+> min
+> low
+> high
+> optimum
+> value
