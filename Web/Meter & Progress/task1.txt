@@ -1,0 +1,12 @@
+Create a meter element that displays data between 0 and 20 with a value of 15.
+
+<meter 
+  ???="15"
+  ???="0"
+  ???="20">
+  15 out of 20
+</meter>
+
+> value
+> min
+> max
