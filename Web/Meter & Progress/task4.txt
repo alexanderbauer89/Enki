@@ -1,0 +1,8 @@
+Create a progress element that displays the file size percentage downloaded at a given time.
+
+<progress ???="25"
+  ???="100">25%
+</progress>
+
+> value
+> max
