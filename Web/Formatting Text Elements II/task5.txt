@@ -1,0 +1,13 @@
+Mark the true statement regarding the <wbr> element.
+
+<p>
+  http://www.enkipro.com/
+  <wbr>path/filename.html
+</p>
+
+<wbr> refers to 'line break opportunity'
+<wbr> will force a line break.
+<wbr> works best with a very long sentence.
+<wbr> stands for 'Will Break Rows'.
+
+> <wbr> refers to 'line break opportunity'
