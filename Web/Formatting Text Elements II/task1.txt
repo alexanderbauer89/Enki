@@ -1,0 +1,20 @@
+Write the code that provides a full description of the abbreviation for search engines and visually impaired software.
+
+<p>
+  Learn all about
+    <??? ???=???>HTML<
+???>
+  using Enki.
+</p>
+
+title
+abbr
+"HyperText Markup Language"
+desc
+/abbr
+"HTML"
+
+> abbr
+> title
+> "HyperText Markup Language"
+> /abbr
