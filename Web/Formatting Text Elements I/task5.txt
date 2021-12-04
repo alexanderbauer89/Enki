@@ -1,0 +1,24 @@
+Which element would cross out the text "$100":
+
+<p>
+  Try and get flights under
+  <tag>$100</tag> $200!
+</p>
+
+tag = ???
+
+Display the first list item as deleted text. Then display the third and fourth items as inserted text.
+
+<ol>
+  <li><tag1>Book flights</tag1></li>
+  <li>Uber to airport</li>
+  <li><tag2>Redeye 11:30pm.</tag2></li>
+  <li>tag2>Sleep (if possible).</tag2></li>
+</ol>
+
+tag1 = ???
+tag2 = ???
+
+> s
+> del
+> ins
