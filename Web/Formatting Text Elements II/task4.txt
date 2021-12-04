@@ -1,0 +1,13 @@
+Write the code to properly declare the date:
+
+<p>WW2 ended
+  <??? ???="
+???">
+  September 2, 1945
+ <???>.
+</p>
+
+> time
+> datetime
+> 1945-09-02
+> /time
