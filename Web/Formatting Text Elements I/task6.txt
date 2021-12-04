@@ -1,0 +1,39 @@
+Underline the word "mispell":
+
+<p>
+  Try not to
+  <tag>mispell</tag>
+  the word "mispell".
+</p>
+
+tag = ???
+
+Hightlight "100 laps" within the blockquote:
+
+<blockquote>
+<p>
+  "I just run
+  <tag>100 laps</tag>
+  and I'm not even tired."
+</p>
+<cite>Bobby the Kid</cite>
+</blockquote>
+<p>
+  What Bobby the Kid doesn't share
+  is that a lap around that tree
+  is only 10 feet.
+</p>
+
+tag = ???
+
+out
+high
+u
+highlight
+under
+cross
+mark
+underline
+
+> u
+> mark
