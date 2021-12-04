@@ -1,0 +1,10 @@
+Select the statement that is false about the <br> element.
+
+Multiple line breaks are encouraged to create more gap between lines of text.
+Useful for writing addresses & peoms.
+Represents line breaks.
+In XHTML, line breaks are written as <br />
+Should never be used to separate paragrahs.
+In HTML5, line breaks are written as <br>
+
+> Multiple line breaks are encouraged to create more gap between lines of text.
