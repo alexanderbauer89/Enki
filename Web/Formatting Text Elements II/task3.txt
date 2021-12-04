@@ -1,0 +1,9 @@
+Select the false statement about the <small> element.
+
+Often referred to as "fine print".
+Changes the text font size on size smaller.
+Typical to mark up full 'Terms of Use' page.
+Useful around copyright notice
+Best to add to phrases or short block of text.
+
+> Typical to mark up full 'Terms of Use' page.
