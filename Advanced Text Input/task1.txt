@@ -1,0 +1,8 @@
+Which statement is true regarding placeholder?
+
+Does not work with. the following input types: url, tel, & password
+Works with all elements, input, button, header, etc.
+Numbers are not accepted as a placeholder.
+Provides a short hint within the input.
+
+> Provides a short hint within the input.
