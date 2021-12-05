@@ -1,0 +1,14 @@
+Mark the string that would NOT pass this pattern:
+
+<input
+  type="text" name="test"
+  pattern="[a-zA-Z0-9]{0,10}"
+  title="">
+
+12Num34
+Colorado
+enkiCode
+http://enki.com
+8675309
+
+> http://enki.com
