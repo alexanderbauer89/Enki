@@ -1,0 +1,32 @@
+Complete this code where the range slider is between 1 and 100 and starts in the middle at 50 with the appropriate ID.
+
+<input
+  type="???"
+  ???="1"
+  ???="100"
+  ???="50"
+  ???="myRange">
+<p>Value: <span id="demo"></
+span></p>
+
+<script>
+  var slider =
+   document.getElementById(
+"myRange");
+  var output =
+   document.getElementById(
+ "demo");
+  output.innerHTML = slider.
+ value;
+ 
+ slider.oninput = function() {
+  output.innerHTML = this.
+value;
+}
+</script>
+
+> range
+> min
+> max
+> value
+> id
