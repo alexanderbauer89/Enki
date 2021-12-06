@@ -1,0 +1,8 @@
+Which of these is not a value for the dropzone attribute?
+
+link
+auto
+copy
+move
+
+> auto
