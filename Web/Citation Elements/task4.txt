@@ -1,0 +1,10 @@
+Which statement about the <address> element is not correct?
+
+When placed in <article> represents information for that article
+Best for postal addresses
+Displayed as block element
+When placed in <body> represents information for the document
+Contact information for author
+Default font-style is italic
+
+> Best for postal addresses
