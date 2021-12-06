@@ -1,0 +1,8 @@
+In the context of a web page, CSS takes care of
+
+nothing
+styling
+structure
+behavior
+
+> styling
