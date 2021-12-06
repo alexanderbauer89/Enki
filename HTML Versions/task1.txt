@@ -1,0 +1,32 @@
+Which version of HTML is the oldest still in use today?
+
+???
+
+What does XHTML stand for?
+
+???
+
+What is the main difference between HTML4 and XHTML?
+
+??? 
+
+Which of these HTML elements was not removed in HTML5?
+
+???
+
+<strike>
+all tags, once opened, must be closed in HTML4, but not in XHTML
+all elements must be written in uppercase in XHTML, but not in HTML4
+<form>
+all tags, once opened, must be closed in XHTML, but not in HTML4
+eXtensible Hypertext Markup Language
+eXtensible Hypertext Markup Library
+HTML2
+HTML3
+<font>
+HTML4
+
+> HTML4
+> eXtensible Hypertext Markup Language
+> all tags, once opened, must be closed in XHTML, but not in HTML4
+> <form>
