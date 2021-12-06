@@ -1,0 +1,18 @@
+Attribute used to set the language of an element: ???
+Attribute used for translating an element's content to another language: ???
+Attribute used for setting the direction of text: ???
+Attribute used for autocapitalization: ???
+
+capitalize
+dir
+translate
+translatetext
+direction
+language
+autocapitalize
+lang
+
+> lang
+> translate
+> dir
+> autocapitalize
