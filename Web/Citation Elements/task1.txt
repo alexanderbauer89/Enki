@@ -1,0 +1,10 @@
+Which statement about the <cite> element is not correct?
+
+displays as a block element
+works such as movie, play, song, & TV show.
+default font style is italic
+works such as book, essay, poem, & script
+used for indicatting a citation
+displays as an inline element
+
+> displays as a block element
