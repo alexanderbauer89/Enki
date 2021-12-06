@@ -1,0 +1,8 @@
+Why can using "©" for a copyright symbol be easier to code?
+
+There is no good way to code the copyright symbol.
+&copy; is smaller in filesize, loading faster.
+Because © isn't available on your keyboard.
+Typing © on your keyboard is easier than using &copy;.
+
+> Because © isn't available on your keyboard.
