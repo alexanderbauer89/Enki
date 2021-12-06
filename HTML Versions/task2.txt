@@ -1,0 +1,8 @@
+Is this statement true?: HTML5 supports approx. 50% of the presentational attributes that were in HTML4?
+
+No because there are no presentational attributes from HTML4 that are supported in HTML5.
+No, because presentationl attributes only existed in HTML1.
+No, because all presentational attributes from HTML4 are supported in HTML5.
+Yes.
+
+> No because there are no presentational attributes from HTML4 that are supported in HTML5.
