@@ -1,0 +1,16 @@
+Which statement about the <blockquote> element is correct?
+
+<blockquote>
+  The best thing about a
+boolean
+  is even if you are wrong,
+  you are only off by a bit.
+</blockquote>
+
+used within non-quoted paragraphs
+used for indicating short quotations
+used for indicating long quotations
+displays as an inline element
+quotation marks usally added around text by browsers
+
+> used for indicating long quotations
