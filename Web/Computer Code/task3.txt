@@ -1,0 +1,9 @@
+When using the <samp> element, which statement is not true?
+
+when containing <kbd>, represents input echoed by the system.
+represents user input
+displayed in the browser's default monospace font
+when nested inside <kbd>, represents input based on system output.
+represents sample output from a computer program
+
+> represents user input
