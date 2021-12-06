@@ -1,0 +1,8 @@
+When was the ".html" extension considered acceptable over ".htm"?
+
+When Unix OS removed the 3 character limitation.
+When Mac OS switched to a 4 character limit.
+It was never considered acceptable.
+When the .html extension became deprecated.
+
+> When Unix OS removed the 3 character limitation.
