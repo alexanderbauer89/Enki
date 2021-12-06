@@ -1,0 +1,7 @@
+The div selector targets
+
+all div elements within a class
+all div elements
+all elements with class div
+
+> all div elements
