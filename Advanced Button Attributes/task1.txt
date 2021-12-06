@@ -1,0 +1,12 @@
+Write the form code that creates an image button.
+
+<???
+  ???="???"
+  ???="button.png"
+  alt="Send"
+>
+
+> input
+> type
+> image
+> src
