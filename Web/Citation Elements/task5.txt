@@ -1,0 +1,15 @@
+Write the code to display the word "backwards" backwards.
+
+<p>
+  This is such a 
+    <??? ???="
+ ???">
+      backwards
+    <???>
+  thing to do!
+</p>
+
+> bdo
+> dir
+> rtl
+> /bdo
