@@ -1,0 +1,7 @@
+Which statement is true regarding autocomplete?
+
+Items like credit card numbers should not be auto-completed.
+Can automatically complete fields based on the user's history
+The data is stored on the webpage.
+
+> Can automatically complete fields based on the user's history
