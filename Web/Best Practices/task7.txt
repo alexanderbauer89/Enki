@@ -1,0 +1,8 @@
+How are conditional comments written for versions of IE prior to IE10?
+
+<!-[if IE]> HTML CODE HERE <[endif]->
+<-[if IE]> HTML CODE HERE <![endif]-!>
+<!--[if IE]> HTML CODE HERE <![endif]-->
+<![if IE]> HTML CODE HERE <![endifIE]!>
+
+> <!--[if IE]> HTML CODE HERE <![endif]-->
