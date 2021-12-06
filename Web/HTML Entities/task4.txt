@@ -1,0 +1,11 @@
+What does the "&" character entity display in this line of code?
+
+<p> The symbol "&amp;" should be pretty easy to recognize.</p>
+
+^
+*
+'
+&
+@
+
+> &
