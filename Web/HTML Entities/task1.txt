@@ -1,0 +1,8 @@
+Which statement is true regarding a non-breaking space:
+
+They are easier to read than a space character.
+Useful for creating indented paragraphs.
+Long strings of them are good ways of creating gaps of space.
+Prevents an empty cell in a table from collapsing in some browsers.
+
+> Prevents an empty cell in a table from collapsing in some browsers.
