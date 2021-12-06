@@ -1,0 +1,16 @@
+Complete the code so that the second button links properly to the action_page2.php file.
+
+<form action="page1.php"
+  method="get">
+Name: <input type="text"
+  name="name"
+<button type="submit">
+  Submit
+</button>
+<button type="submit">
+  ???="page2.php">
+  Submit to Page2
+ </button>
+</form>
+
+> formaction
