@@ -1,0 +1,7 @@
+Which statement is true regarding formenctype?
+
+Can be used only if method="get".
+Specifies how the form-data should be encoded when submitted to a server.
+The values application /x-www-form-urlencoded and text/plain convert spaces into '-' symbols.
+
+> Specifies how the form-data should be encoded when submitted to a server.
