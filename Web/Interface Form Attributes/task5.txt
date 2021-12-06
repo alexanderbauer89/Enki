@@ -1,0 +1,13 @@
+Match the form attributes that are specific for the <output> element with their descriptions.
+
+for: ???
+form: ???
+name: ???
+
+Specifies an explicit relationship between the result of a calculation and the elements that represent the values.
+Associates the output with a form.
+Specifies the name of this element.
+
+> Specifies an explicit relationship between the result of a calculation and the elements that represent the values.
+> Associates the output with a form.
+> Specifies the name of this element.
