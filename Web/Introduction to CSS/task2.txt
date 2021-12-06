@@ -1,0 +1,18 @@
+Complete the following snippet with the general syntax for a CSS declartion:
+
+??? {
+  ??? ??? ???;
+}
+
+value
+background-decoration
+red
+property
+selector
+=
+:
+
+> selector
+> property
+> :
+> value
