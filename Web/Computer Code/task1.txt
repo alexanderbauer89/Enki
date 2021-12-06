@@ -1,0 +1,9 @@
+What content is best to style when using the <code> element?
+
+filenames
+HTML elements
+JS scripts
+CSS Rules
+All 4
+
+> All 4
