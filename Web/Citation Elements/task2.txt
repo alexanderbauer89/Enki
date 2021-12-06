@@ -1,0 +1,19 @@
+Which statement about the <q> element is not correct?
+
+<p>
+  <cite>
+    Carrie Bradshaw
+  </cite>
+  said
+  <q cite="#">
+    Shopping is my cardio
+  </q>
+  and that is pretty awesome.
+</p>
+
+quotation marks usually added around text by browsers
+displays as an inline element
+used when quotation spans mutiple lines
+used for indicating short quotations
+
+> used when quotation spans mutiple lines
