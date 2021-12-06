@@ -1,0 +1,8 @@
+Which statement about the <bdi> element is correct?
+
+displays the letters mirrored.
+helps search engiens understand the directory of text.
+preserveres unknown text direction
+displays the letters backwards.
+
+> preserveres unknown text direction
