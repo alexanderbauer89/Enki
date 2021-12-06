@@ -1,0 +1,14 @@
+Complete the code by adding the appropriate input form attributes to submit the data to a new window.
+
+<form
+  action="file.php">
+  Name:
+    <input type="text"
+      name="name">
+    <br />
+  <input type="submit"
+    ???="???">
+</form>
+
+> formtarget
+> _blank
