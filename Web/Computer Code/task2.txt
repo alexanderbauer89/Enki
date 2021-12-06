@@ -1,0 +1,8 @@
+When using the <kbd> element, which statement is true?
+
+represents sample output
+represents user input
+produces a block element
+represents preformatted text
+
+> represents user input
