@@ -1,0 +1,8 @@
+What declaration is always first in an HTML web page?
+
+<html>
+<body>
+<!HTML document>
+<!DOCTYPE html>
+
+> <!DOCTYPE html>
