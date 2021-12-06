@@ -1,0 +1,9 @@
+Which is true about the <pre> element?
+
+represents user input
+produces an inline element
+represents sample output
+whitespace is removed
+Shows the content exactly as it is formatted, including whitespace and line breaks
+
+> Shows the content exactly as it is formatted, including whitespace and line breaks
