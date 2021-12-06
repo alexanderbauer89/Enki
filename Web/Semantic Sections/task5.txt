@@ -1,0 +1,24 @@
+Match the code with the tags to properly define a caption for the photo.
+
+<tag1>
+  <img src="waterfall.jpg"
+  alt="
+Seljalandsfoss waterfall
+      in Iceland">
+  <tag2>
+    The Seljalandsfoss
+waterfal
+    in Iceland.
+  Original by
+    <a href="
+http://www.flickr.com
+            /photos/enki/">
+    </a>
+  </tag2>
+</tag1>
+
+tag1 = ???
+tag2 = ???
+
+> figure
+> figcaption
