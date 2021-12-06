@@ -1,0 +1,17 @@
+What is the final background-color of the <p> elements?
+
+p {
+ background-color: blue;
+ background-color: red;
+}
+
+p {
+  background-color: green;
+}
+
+the default one
+green
+red
+blue
+
+> green
