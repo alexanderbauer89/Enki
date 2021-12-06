@@ -1,0 +1,8 @@
+Which of the following selectors does always target a single element?
+
+ID
+Class
+A combination between type and class
+Type
+
+> ID
