@@ -1,0 +1,9 @@
+Which statement is not true about using the <var> element?
+
+represents user input
+represents a variable in a mathematical expression
+Default text style is both monospace & italic.
+represents a variable in a programming context
+produces an inline element
+
+> represents user input
