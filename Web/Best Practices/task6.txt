@@ -1,0 +1,10 @@
+Is an empty alt attribute considered appropriate?
+
+<img src="image.png" alt="">
+
+No, a value is always required.
+Yes, it is always appropriate.
+Yes, when the image is purely decorative.
+No, as the image will not display properly.
+
+> Yes, when the image is purely decorative.
