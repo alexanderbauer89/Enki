@@ -1,0 +1,9 @@
+The <article> element can contain which of the following?
+
+Blog post
+Forum post
+All 4
+News story
+Magazine
+
+> All 4
