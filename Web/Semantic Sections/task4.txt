@@ -1,0 +1,9 @@
+What content would be well placed within an aside?
+
+advertising
+groups of <nav> elements
+pull quotes
+sidebar
+all 4 of these choices
+
+> all 4 of these choices
