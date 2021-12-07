@@ -1,0 +1,5 @@
+Which selector is used to select every element of a page so styles can be applied?
+
+???
+
+> *
