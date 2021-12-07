@@ -1,0 +1,7 @@
+The CSS code with the highest rendering priority is
+
+external CSS
+internal CSS
+inline CSS
+
+> inline CSS
