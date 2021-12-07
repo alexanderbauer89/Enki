@@ -1,0 +1,12 @@
+What does the following piece of code do?
+
+body {
+  font-family: "Arial Narrow";
+}
+
+Sets the font family to Arial Narrow for the first element in the body,
+Sets the font family to Arial Narrow for all elements in the body.
+Sets the font family to Arial Narrow for all elements outside the body.
+It does nothing.
+
+> Sets the font family to Arial Narrow for all elements in the body.
