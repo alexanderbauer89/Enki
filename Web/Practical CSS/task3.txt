@@ -1,0 +1,11 @@
+??? takes an extra step to check if there are other properties which can be used in the cascade before using the ??? value which was set.
+
+use
+initial
+extend
+inherit
+preliminary
+primary
+
+> inherit
+> initial
