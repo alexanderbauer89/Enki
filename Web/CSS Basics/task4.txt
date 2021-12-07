@@ -1,0 +1,8 @@
+If purple is the combination of red and blue, which of. the following is not representing purple?
+
+rgb(255,0,255)
+#00ffff
+purple
+#ff00ff
+
+> #00ffff
