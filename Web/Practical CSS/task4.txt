@@ -1,0 +1,7 @@
+Which of those properties won't preserve the space allocated for the element?
+
+display: none
+visibility: hidden
+neither
+
+> display: none
