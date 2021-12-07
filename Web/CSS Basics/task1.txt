@@ -1,0 +1,12 @@
+Complete the HTML snippet to import an external CSS file:
+
+<head>
+  <??? ???="
+stylesheet"
+  ???="
+index.css" >
+</head>
+
+> link
+> rel
+> href
