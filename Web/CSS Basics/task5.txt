@@ -1,0 +1,21 @@
+For the following CSS code:
+
+.container{
+  font-size: 20px;
+  width: 500px;
+  height: 300px;
+}
+
+And HTML:
+<div class="container">
+  <div></div>
+</div>
+
+Which of the following values is not equivalent to a width of 200px for the inner div?
+
+width: 200px:
+width: 10em;
+width: 20em;
+width: 40%;
+
+> width: 20em;
