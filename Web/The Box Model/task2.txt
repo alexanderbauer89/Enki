@@ -1,0 +1,9 @@
+In the shorthand declaration:
+
+border: 1 2 3;
+
+Which number represents the style of the border?
+
+???
+
+> 2
