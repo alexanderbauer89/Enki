@@ -1,0 +1,13 @@
+What does the following piece of CSS code do?
+
+#id {
+   width: 960px;
+   margin: 0 auto;
+}
+
+Horizontally centres a block element with a known width.
+Vertically centres a block element with a known width.
+Gets rid of the margin.
+Horizontally centres a block element with an unknown width.
+
+> Horizontally centres a block element with a known width.
