@@ -1,0 +1,8 @@
+An element with position: absolute is positioned in relation to
+
+its first relaative positioned ancestor.
+its parent.
+its first absolute positioned ancestor.
+its first non-static ancestor.
+
+> its first non-static ancestor.
