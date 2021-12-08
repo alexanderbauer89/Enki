@@ -1,0 +1,11 @@
+Complete the following code snippet to let box-sizing be inherited from html:
+
+html  {
+  box-sizing: border-box;
+}
+
+p   {
+  box-sizing: ???;
+}
+
+> inherit
