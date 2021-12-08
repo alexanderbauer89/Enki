@@ -1,0 +1,15 @@
+What does the following CSS code snippet do?
+
+#class  {
+  position: absolute;
+  top: 50%;
+  height: 400px;
+  margin-top: -200px;
+}
+
+Vertically centres a block element with a known height.
+Horizontally centres a block element with a known height.
+Vertically centres a block element with unknown height.
+Horizontally centres a block element with unknown height.
+
+> Vertically centres a block element with a known height.
