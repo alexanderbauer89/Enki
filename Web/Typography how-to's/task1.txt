@@ -1,0 +1,11 @@
+Once you've chosen a font, add the ??? to your HTML and the ??? to your element in CSS.
+
+Google font API
+font description
+font name
+Google font database
+font-family
+stylesheet link
+
+> stylesheet link
+> font-family
