@@ -1,0 +1,14 @@
+Apply a cellpadding of 15px to a table:
+
+??? {
+  ??? : 15px;
+}
+
+table
+cell-padding
+td
+padding
+tr
+
+> td
+> padding
