@@ -1,0 +1,14 @@
+What does the following CSS code snippet do?
+
+#class  {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+Sets a blocks top side to be 50% of the way up the document.
+Vertically centres a fluid block.
+Sets the blocks position to absolute and flips it vertically.
+Vertically flips a fluid block.
+
+> Vertically centres a fluid block.
