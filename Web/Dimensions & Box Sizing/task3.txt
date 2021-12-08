@@ -1,0 +1,5 @@
+Which properties default value is content-box?
+
+???
+
+> box-sizing
