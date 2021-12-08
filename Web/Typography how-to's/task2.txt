@@ -1,0 +1,8 @@
+Change the letter spacing of all paragraphs to be 2px:
+
+p {
+  ??? : ???;
+}
+
+> letter-spacing
+> 2px
