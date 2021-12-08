@@ -1,0 +1,9 @@
+In the following example, what is the distance between the first and the second line, if the text spreads on two lines?
+
+.vertical-center-text{
+  height: 50px;
+  line-height: 50px;
+  
+???
+
+> 50px
