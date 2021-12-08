@@ -1,0 +1,9 @@
+Can you make the .enki class sticky?
+
+.enki {
+  ???:  ???;
+  top: 33px;
+}
+
+> position
+> sticky
