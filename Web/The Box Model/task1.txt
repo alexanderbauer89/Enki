@@ -1,0 +1,8 @@
+Which is the inside-out for the box model components?
+
+Padding/Content/Border/Margin
+Content/Padding/Margin/Border
+Content/Padding/Border/Margin
+Content/Border/Padding/Margin
+
+> Content/Padding/Border/Margin
