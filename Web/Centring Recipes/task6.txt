@@ -1,0 +1,9 @@
+You can vertically-center elements inside a flex container width:
+
+.container{
+  display: flex;
+  ??? : ???;
+}
+
+> align-item
+> center
