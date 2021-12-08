@@ -1,0 +1,17 @@
+What does the following code do?
+
+label {
+    border:
+  2px dotted transparent;
+}
+
+label:hover {
+  border-color: black
+}
+
+Makes the label solid instead of transparent when hovered over.
+Makes the label disappear when hovered over.
+Makes the border black instead of transparent when the label is hovered over.
+Makes the border transparent instead of block when the label is hovered over.
+
+> Makes the border black instead of transparent when the label is hovered over.
