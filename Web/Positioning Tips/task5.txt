@@ -1,0 +1,9 @@
+What does the following CSS property do?
+
+table-layout: fixed;
+
+Maintains table cells at an equal width.
+Stops the table layout from being altered.
+Stops the table size from being altered.
+
+> Maintains table cells at an equal width
