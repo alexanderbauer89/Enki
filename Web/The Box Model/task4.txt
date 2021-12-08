@@ -1,0 +1,5 @@
+For which box-sizing value, the width property contains both the content and the padding?
+
+box-sizing: ???;
+
+> padding-box
