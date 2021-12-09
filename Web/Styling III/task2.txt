@@ -1,0 +1,7 @@
+What syntax can be used with the border-radius property for setting the horizontal and vertical radius?
+
+double slash syntax (//)
+slash syntax (/)
+equal syntax (=)
+
+> slash syntax(/)
