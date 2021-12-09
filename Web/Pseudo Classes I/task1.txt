@@ -1,0 +1,5 @@
+What symbol must a pseudo-class be preceded by?
+
+???
+
+> :
