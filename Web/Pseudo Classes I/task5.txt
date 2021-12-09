@@ -1,0 +1,17 @@
+What does the following CSS code do?
+
+:required {
+  border: 2px solid black;
+}
+
+:optional {
+  border: 2px dotted blue;
+}
+
+Makes the border of all fields dotted and blue.
+Makes the border of all fields solid and black.
+Returns an error.
+Sets the border of compulsory fields solid and black. Sets the border of optional fields dotted and blue.
+Sets the border of compulsory fields dotted and blue. Sets the border of optional fields solid and black.
+
+> Sets the border of compulsory fields solid and black. Sets the border of optional fields dotted and blue.
