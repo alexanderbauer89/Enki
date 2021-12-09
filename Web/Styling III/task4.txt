@@ -1,0 +1,7 @@
+The first two parameters in the following code snippet are the ??? of the shadow.
+
+div {
+  box-shadow: 4px 4px 2px red;
+}
+
+> offset
