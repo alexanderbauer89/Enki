@@ -1,0 +1,10 @@
+Complete the snippet to target every list item's after element, but the last one:
+
+ul > ???  :not(
+???)
+    ::after{
+ /* code */
+}
+
+> li
+> :last-
