@@ -1,0 +1,12 @@
+Complete the code snippet:
+
+.nav li???(:last-child) {
+  border-left: 5px dashed #FFF;
+}
+
+:not
+not
+::not
+.not
+
+> :not
