@@ -1,0 +1,7 @@
+Which of the following disables the resizing behavior of an element?
+
+resize: none
+size-alter: false
+resizable: false
+
+> resize: none
