@@ -1,0 +1,11 @@
+Complete the following snippet to change the default list marker:
+
+ul.specialist {
+  ???-???-
+ ???:
+   url('img.jpg');
+}
+
+> list
+> style
+> image
