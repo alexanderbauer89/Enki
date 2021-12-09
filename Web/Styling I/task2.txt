@@ -1,0 +1,14 @@
+Consider the snippet:
+
+#element  {
+  border-radius: 22px 15px;
+}
+
+The first number in the two-values syntax of the border-radius will shape
+
+top-right and bottom-left corners
+top-right and bottom-right corners
+top-left and bottom-left corners
+top-left and bottom-right corners
+
+> top-left and bottom-right corners
