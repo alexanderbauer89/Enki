@@ -1,0 +1,8 @@
+What does the border-radius property do to elements?
+
+Defines how far the border surrounding the element is from the acutal element.
+Gives the element square corners.
+Gives the element rounded corners.
+Makes a circular shadow for the element.
+
+> Gives the element rounded corners.
