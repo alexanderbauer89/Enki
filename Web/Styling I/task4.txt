@@ -1,0 +1,8 @@
+Which CSS property is used to determine the type of bullet points for an unordered list?
+
+bullets-style
+list-type
+bullets-type
+list-style-type
+
+> list-style-type
