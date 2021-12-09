@@ -4,5 +4,5 @@ a {
   ??? : ???;
 }
 
-> text-
+> text-decoration
 > none
