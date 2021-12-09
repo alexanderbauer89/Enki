@@ -1,0 +1,9 @@
+Is the following statement true?
+
+The :hover pseudo-class can only be applied to <a> (link) elements.
+
+Partially true, applicable to some browsers
+False
+True
+
+> False
