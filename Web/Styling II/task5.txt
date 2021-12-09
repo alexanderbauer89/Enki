@@ -1,0 +1,5 @@
+Which method is used to modify the width of an image?
+
+???
+
+> scaleX
