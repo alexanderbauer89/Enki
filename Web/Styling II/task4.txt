@@ -1,0 +1,10 @@
+Complete the code snippet to repeat an image vertically:
+
+body  {
+  background-image: url(
+      'image.jpg');
+  background-repeat:
+???;
+}
+
+> repeat-y
