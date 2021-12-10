@@ -1,0 +1,8 @@
+Which of the following is NOT a pseudo-element?
+
+::first-letter
+::first-line
+::first-paragraph
+::before
+
+> ::first-paragraph
