@@ -1,0 +1,7 @@
+What does the :focus pseudo class allow?
+
+Input forms to be created.
+The clicked on form element to be targeted.
+Creates a focus point within a page.
+
+> The clicked on form element to be targeted.
