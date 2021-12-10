@@ -1,0 +1,8 @@
+JSON standards require strings to be ??? quoted. However some modern linters recommend using ??? quotes only in JavaScript.
+
+double
+no
+single
+
+> double
+> single
