@@ -1,0 +1,6 @@
+Which of the following two selectors is an adjacent selector?
+
+~
++
+
+> +
