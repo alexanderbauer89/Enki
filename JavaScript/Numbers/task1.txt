@@ -1,0 +1,14 @@
+Complete the following code snippet:
+
+// convert 1423 to base 2
+(1423).???(???)
+
+// convert "ad23e1" from base
+16 to base 10
+???("ad23e1",
+???)
+
+> toString
+> 2
+> parseInt
+> 16
