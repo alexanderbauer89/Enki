@@ -1,0 +1,16 @@
+Consider the following object:
+
+let car = {
+  model: "AwesomeCar",
+  color: "blue",
+  noDoors: 4
+};
+
+let test = "model"
+
+Would the following line print "model"?
+
+console.log(car.test);
+// ???
+
+> no
