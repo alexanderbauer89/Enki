@@ -1,0 +1,8 @@
+Complete the code snippet to hide all scrollbars on a webkit browser page:
+
+??? {
+  display: ???;
+}
+
+> ::webkit-scrollbar
+> none
