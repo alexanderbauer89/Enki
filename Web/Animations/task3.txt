@@ -1,0 +1,12 @@
+Pause the animation at second 4:
+
+.debugAnimation{
+  animation: animate 6s
+             linear infinte;
+  ???: ???;
+  ???: ???;
+
+> animation-play-state
+> paused
+> animation-delay
+> -4
