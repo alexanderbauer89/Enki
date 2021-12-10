@@ -1,0 +1,7 @@
+The value of 0 is
+
+truthy
+neither falsy nor truthy.
+falsy
+
+> falsy
