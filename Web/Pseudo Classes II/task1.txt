@@ -1,0 +1,16 @@
+What will the following CSS code do whilst dragging and not dragging?
+
+.bg {
+  background-color: white;
+}
+
+.bg:drop  {
+  background-color: red;
+}
+
+Whilst dragging, the background colour is red. Whilst not dragging, the background colour is white.
+Whilst dragging, the background colour is white. Whilst not dragging, the background colour is red.
+The background colour is always white.
+The background colour is always red.
+
+> Whilst dragging, the background colour is red. Whilst not dragging, the background colour is white.
