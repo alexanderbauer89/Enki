@@ -1,0 +1,7 @@
+Are semicolons required in JavaScript?
+
+Sometimes
+Yes
+No
+
+> No
