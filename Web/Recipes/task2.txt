@@ -1,0 +1,8 @@
+A CSS selector that targets links which resolve to a pdf file is:
+
+[href="pdf"]
+a[href$=".pdf"]
+a.pdf
+a[after=".pdf"]
+
+> a[href$=".pdf"]
