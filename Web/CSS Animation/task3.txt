@@ -1,0 +1,20 @@
+What shape would the following CSS produce?
+
+#shape {
+  width: 0;
+  height: 0;
+  border-left:
+ 80px solid transparent;
+  border-right:
+ 80px solid transparent;
+  border-top: 80px solid red;
+  border-bottom:
+ 80px solid transparent;
+}
+
+A rectangle.
+A circle.
+A square.
+A triangle.
+
+> A triangle.
