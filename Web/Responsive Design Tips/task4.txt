@@ -1,0 +1,16 @@
+Complete the following snippets such that the max-width of your imgs is set to 50% on devices with a screen size at least 450px:
+
+img {
+  max-width: 70%;
+}
+
+??? (min-width:
+???) {
+  img {
+   ???: 50%
+  }
+}
+
+> @media
+> 450px
+> max-width
