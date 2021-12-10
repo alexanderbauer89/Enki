@@ -1,0 +1,8 @@
+Which of the following is the correct method for outputting information to the console?
+
+console.println();
+console.log();
+console.write();
+console.print();
+
+> console.log();
