@@ -1,0 +1,8 @@
+Which CSS property is mandatory to display ::before and ::after pseudo-elements but can be empty?
+
+div
+class
+content
+element
+
+> content
