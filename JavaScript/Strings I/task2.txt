@@ -1,0 +1,7 @@
+What special character is used to add a new line to strings denoted with quotes?
+
+let myString = 'this will
+???
+ be displayed on two lines';
+ 
+ > \n
