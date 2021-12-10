@@ -1,0 +1,5 @@
+What property is used to chain animations?
+
+???
+
+> animation-delay
