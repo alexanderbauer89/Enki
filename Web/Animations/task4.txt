@@ -1,0 +1,17 @@
+Which of the following examples are using the CSS transition property with the transition values in the correct order?
+
+// Option A
+transition:
+  background .2s linear;
+
+// Option B
+transition:
+  .2s linear background;
+  
+// Option C
+transition:
+  linear background .2s;
+  
+ Option ???
+ 
+ > A
