@@ -1,0 +1,9 @@
+The shape-outside property only works on elements with the property of ??? applied onto it.
+
+alter
+float
+clear
+fixed
+shape
+
+> float
