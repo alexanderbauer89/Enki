@@ -1,0 +1,11 @@
+What will be the output of the following function call?
+
+console.log(parseInt("abc",10))
+;
+// ???
+
+Error
+10
+NaN
+
+> NaN
