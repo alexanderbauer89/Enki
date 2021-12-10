@@ -1,0 +1,8 @@
+Complete the following code snippet to set the color of the chosen selectors text blue:
+
+p???(s1, s2, s3){
+  ???:blue;
+}
+
+> :is
+> color
