@@ -1,0 +1,7 @@
+Remove the 4th and 5th elements from the array:
+
+myArray.???(3,
+???)
+
+> splice
+> 2
