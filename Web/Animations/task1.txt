@@ -1,0 +1,5 @@
+Which keyword determines the actions an element should follow during the animation?
+
+???
+
+> keyframes
