@@ -1,0 +1,19 @@
+On which devices will the images be bigger?
+
+img {
+  height: 200px;
+  width: 250px;
+}
+@media(max-width: 720px){
+img {
+  height: 350px;
+  width: 500px;
+ }
+}
+
+Devices with width larger than 720px.
+They will look the same.
+Devices with width smaller than 720px.
+Devices with height smaller than 720px.
+
+> Devices with width smaller than 720px.
