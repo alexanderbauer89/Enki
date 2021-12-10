@@ -1,0 +1,7 @@
+Not initializing a variable sets its value to
+
+null
+undefined
+the default one
+
+> undefined
