@@ -1,0 +1,6 @@
+Can we use JavaScript for Machine Learning?
+
+yes
+no
+
+> yes
