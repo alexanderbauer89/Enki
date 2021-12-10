@@ -1,0 +1,12 @@
+Fill the gaps such that font will be equal to the division of font-size and line-height:
+
+p {
+  $font-size: 12px;
+  $line-height: 30px;
+  font: #{???}
+???#{???};
+}
+
+> $font-size
+> /
+> $line-height
