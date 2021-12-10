@@ -1,0 +1,9 @@
+"Short circuit" the following code:
+
+function shortCir(name){
+  return ???
+  ??? 'John Doe';
+}
+
+> name
+> ||
