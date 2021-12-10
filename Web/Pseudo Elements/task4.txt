@@ -1,0 +1,9 @@
+Complete the code snippet to display links when the <a> element has no text value yet the href attribute has an external link:
+
+a[???
+="http"]:empty::before  {
+   content: ???(href);
+}
+
+> href^
+> attr
