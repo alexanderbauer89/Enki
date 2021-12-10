@@ -1,0 +1,6 @@
+What will the following snippet evaluate to?
+
+null == undefined
+// ???
+
+> true
