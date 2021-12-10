@@ -1,0 +1,6 @@
+How can you launch SassScript interactive shell?
+
+??? ???
+
+> saass
+> --interactive
