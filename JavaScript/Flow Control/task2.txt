@@ -1,0 +1,16 @@
+Complete the basic syntax of the following switch statement:
+
+switch (checker)  {
+  ??? "1":
+    // ...
+    break;
+   ??? "2":
+   // ...
+   break;
+   ???:
+   // ...
+}
+
+> case
+> case
+> default
