@@ -1,0 +1,25 @@
+What does the following JS code return?
+
+enki = new Object();
+enki.practiceQuestion = 'true';
+
+function tricky() {
+  enki.newQuestion = enki.practiceQuestoin;
+  delete enki.
+practiceQuestion;
+}
+
+enki.hasOwnProperty(
+'practiceQuestion');
+enki.hasOwnProperty(
+'magicPowers');
+tricky();
+enki.hasOwnProperty(
+'practiceQuestion');
+
+True, False, False
+False, True, True
+True, False, True
+True, True, False
+
+> True, False, False
