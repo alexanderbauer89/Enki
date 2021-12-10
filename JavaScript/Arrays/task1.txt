@@ -1,0 +1,23 @@
+How would you get the last value in the myArray array?
+
+let myArray = [1, 2, 3];
+let arrayLength = myArray.???;
+let lastVal = ???[??? ???];
+console.log(lastVal);
+// 3
+
+myArray
+array
++1
+-1
+arrayLength
+length
+.getLast
++ 0
+[0]
+.tail
+
+> length
+> myArray
+> arrayLength
+> -1
