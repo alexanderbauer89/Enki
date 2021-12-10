@@ -1,0 +1,8 @@
+Change the size of the first letter of a paragraph to 50px:
+
+p.special ??? {
+  ??? : 50px;
+}
+
+> ::first-letter
+> font-size
