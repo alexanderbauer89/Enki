@@ -1,0 +1,8 @@
+Which of the following font format is supported by most browsers?
+
+truetype
+woff2
+eot
+woff
+
+> truetype
