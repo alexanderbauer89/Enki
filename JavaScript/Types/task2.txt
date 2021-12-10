@@ -1,0 +1,23 @@
+Match the type name with the operator:
+
+== - ???
+=== - ???
+
+Fill in the gaps with the correct equality operator to get the output:
+
+"19" ??? 19
+// true
+
+"nk" ??? "nk"
+// true
+
+==
+Weak Equality Operator
+Reference Equality Operator
+Strict Equality Operator
+===
+
+> Weak Equality Operator
+> Strict Equality Operator
+> ==
+> ===
