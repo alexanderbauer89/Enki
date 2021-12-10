@@ -1,0 +1,7 @@
+You can invoke an object's method by writing:
+
+methodName(obj);
+obj.methodName();
+obj.methodName;
+
+> obj.methodName();
