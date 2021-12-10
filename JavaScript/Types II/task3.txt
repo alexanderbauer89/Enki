@@ -1,0 +1,10 @@
+What does the following return?
+
+typeof new Date();
+
+An object
+A date
+Null
+Undefined
+
+> An object
