@@ -1,0 +1,6 @@
+Pick the right index at which you should insert a character as to result in "enki" string:
+
+str-insert("eki", "n",
+???)
+
+> 2
