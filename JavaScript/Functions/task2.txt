@@ -1,0 +1,8 @@
+In JavaScript, objects are passed into a function as a 
+
+reference
+json
+string
+value
+
+> reference
