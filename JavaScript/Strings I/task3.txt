@@ -1,0 +1,13 @@
+Complete the following code snippet to replace the first + with -:
+
+let s = 'x + y + z = w';
+s = s.???(
+  '???',
+  '???'
+);
+console.log(s);
+// "x - y + z = w"
+
+> replace
+> +
+> -
