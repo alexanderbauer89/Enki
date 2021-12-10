@@ -1,0 +1,10 @@
+When referencing parent selectors, what symbol is used and what happens to this symbol upon compilation from Sass to CSS?
+
+!, nothing, it remains there alongside the parent selector.
+&, nothing, it remains there alongside the parent selector.
++, nothing, it remains there alongside the parent selector.
++, it's replaced by the referenced parent selector.
+!, it's replaced by the referenced parent selector.
+&, it's replaced by the referenced parent selector.
+
+> &, it's replaced by the referenced parent selector.
