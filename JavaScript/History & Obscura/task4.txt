@@ -1,0 +1,16 @@
+How do you enable strict mode in ECMAScript 5?
+
+"??? ???";
+
+var
+str
+use
+strict-mode
+let
+strict
+on
+mode
+enable
+
+> use
+> strict
