@@ -1,0 +1,20 @@
+Which snippet will throw an error?
+
+// Option A
+let answer = 42;
+answer = 'life';
+
+// Option B
+const answer = 42;
+answer = 'life';
+
+// Option C
+var answer = 42;
+answer = 'life';
+
+Option A
+Option C
+Option B
+None of these
+
+> Option B
