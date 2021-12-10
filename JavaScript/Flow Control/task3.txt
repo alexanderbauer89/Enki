@@ -1,0 +1,10 @@
+Complete the syntax of the following do/ while loop such that i will be 10 at the end of it:
+
+let i = 0;
+??? {
+  i++;
+} ??? (i < ???)
+
+> do
+> while
+> 10
