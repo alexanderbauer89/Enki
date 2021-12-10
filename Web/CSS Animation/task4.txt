@@ -1,0 +1,8 @@
+Which two properties have to be combined in order for you to be able to wrap text around a shape?
+
+inset and shape-outside
+clip-path and shape-outside
+clip-path and inset
+path-wrap and shape-wrap
+
+> clip-path and shape-outside
