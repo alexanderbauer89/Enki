@@ -1,0 +1,8 @@
+What is ECMAScript?
+
+the same as JavaScript
+a standard that drives JavaScript development
+a JavaScript dialect
+a JavaScript extension
+
+> a standard that drives JavaScript development
