@@ -1,0 +1,8 @@
+Complete the code snippet to dynamically insert a value:
+
+p:before {
+  content: "Here we go:
+???{1 + 13}";
+}
+
+> #
