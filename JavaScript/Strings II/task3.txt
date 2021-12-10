@@ -1,0 +1,19 @@
+What will the tests return?
+
+let str =
+'Practicing my RegExp with Enki!';
+
+let containsRegExp = /
+Regular Expressions/i;
+containsRegExp.test(str);
+// ???
+
+let containsEnki = /Enki /i;
+containsEnki.test(str);
+// ???
+
+true
+false
+
+> false
+> true
