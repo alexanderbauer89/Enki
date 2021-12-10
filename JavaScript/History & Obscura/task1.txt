@@ -1,0 +1,8 @@
+How is JavaScript related to Java?
+
+Java has its origins in JavaScript
+JavaScript has its origins in Java
+They are basically the smae
+They are not related
+
+> They are not related
