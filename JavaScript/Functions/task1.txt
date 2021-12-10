@@ -1,0 +1,16 @@
+What would the following snippet print?
+
+function mult(x, y){
+  let z = x * x;
+}
+
+console.log(mult(2,3));
+???
+
+undefined
+9
+6
+4
+error
+
+> undefined
