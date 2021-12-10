@@ -1,0 +1,12 @@
+On the first line declare a boolean variable named a that's true.
+On the second line declare a number variable named b with the value equal to 3.14.
+
+let ??? = ???;
+??? ??? =
+???;
+
+> a
+> true
+> let
+> b
+> 3.14
