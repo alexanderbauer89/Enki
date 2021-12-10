@@ -1,0 +1,8 @@
+Sass knows that some .scss files are partials because
+
+their name is starts with an _.
+they contain the @partial directive.
+there are no CSS files generated for them.
+they contain the @partial mixin.
+
+> their name is starts with an _.
