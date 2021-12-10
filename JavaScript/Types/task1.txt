@@ -1,0 +1,8 @@
+Which one of the following is not a primitive type:
+
+number
+string
+symbol
+RegExp
+
+> RegExp
