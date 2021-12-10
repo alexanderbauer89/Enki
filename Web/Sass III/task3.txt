@@ -1,0 +1,11 @@
+What does the following code snippet compile to?
+
+p {
+  color: #810421 + #010511;
+}
+/* Compiles to */
+p {
+  color: ???;
+}
+
+> #820932
