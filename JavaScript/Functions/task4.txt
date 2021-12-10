@@ -1,0 +1,10 @@
+Give the output:
+
+alert(foo()); // ???
+let foo = function() { return
+'Enki'; }
+
+error
+alerts 'Enki'
+
+> error
