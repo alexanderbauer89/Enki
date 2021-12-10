@@ -1,0 +1,17 @@
+Which property is missing in the following CSS code when disabling the default callout shown when a touch target is touched and held?
+
+-webkit-???: none;
+
+And which browser is this only compatible width? ???
+
+touch-callout
+callout-touch
+callout-held
+touch-held
+Firefox
+Chrome
+Internet Explorer
+Safari
+
+> touch-callout
+> Safari
