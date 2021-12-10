@@ -1,0 +1,12 @@
+Complete the following code snippet such that A is logged to the console:
+
+let x = 1;
+switch (???) {
+  ??? ???:
+   console.log('A');
+}
+// A
+
+> x
+> case
+> 1
