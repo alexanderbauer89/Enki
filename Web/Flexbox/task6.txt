@@ -1,0 +1,8 @@
+Which element should have display: flex property in order for the gutters to be equally distributed?
+
+The html document.
+Every column gutter but the first.
+The container.
+Every column gutter.
+
+> The container.
