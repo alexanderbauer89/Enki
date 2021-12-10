@@ -1,0 +1,8 @@
+How do you restart an animation?
+
+.animation:hover{
+  ???:
+    ???;
+    
+> animation-play-state
+> running
