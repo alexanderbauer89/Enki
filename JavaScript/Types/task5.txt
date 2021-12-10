@@ -1,0 +1,6 @@
+What does the following code output?
+
+console.log("one" / 2);
+// ???
+
+> NaN
