@@ -1,0 +1,10 @@
+Which characters are used to enclose a multi-line string?
+
+"" // A
+
+`` // B
+
+A
+B
+
+> B
