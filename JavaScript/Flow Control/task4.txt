@@ -1,0 +1,18 @@
+Iterate through the elements of myArray:
+
+let myArray = [1, 2, "3",
+"item"];
+
+??? (let i ??? ???){
+  console.log(i);
+}
+
+do
+for
+Array
+myArray
+of
+
+> for
+> of
+> myArray
