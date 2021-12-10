@@ -1,0 +1,7 @@
+Display the following paragraphs as uppercase:
+
+p.upper{
+  ???: uppercase;
+}
+
+> text-transform
