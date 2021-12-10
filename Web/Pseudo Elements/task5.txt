@@ -1,0 +1,8 @@
+What rule must be added in order for the selection pseudo-element to be supported on all browsers?
+
+::-moz-selection
+::-sup-selection
+::-gecko-selection
+::-support-selection
+
+> ::-moz-selection
