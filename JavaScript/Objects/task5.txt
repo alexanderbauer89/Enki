@@ -1,0 +1,17 @@
+What will be printed by this console.log()?
+
+const ourDog = {
+  name: 'Leo',
+  'dog years': 14
+}
+
+console.log(JSON.stringify(
+ourDog));
+
+'{"???":"???","
+???":???}'
+
+> name
+> Leo
+> dog years
+> 14
