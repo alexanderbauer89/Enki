@@ -1,0 +1,17 @@
+Complete the following snippet:
+
+let arr = [1,2,3];
+
+arr.??? = 2;
+// arr = [1,2]
+
+arr.length = 4;
+//arr = ???
+
+[1,2,undefined,undefined,undefined]
+[1,2,undefined,undefined]
+length
+size
+
+> length
+> [1,2,undefined,undefined]
