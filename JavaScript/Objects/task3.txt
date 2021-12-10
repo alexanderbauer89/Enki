@@ -1,0 +1,13 @@
+Complete the code snippet:
+
+var test = {
+  prop1: 1,
+  prop2: 2
+}
+// set prop1 to undefined
+test.prop1 = ???;
+// remove prop2
+??? ;
+
+> undefined
+> delete
