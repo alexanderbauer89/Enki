@@ -1,0 +1,8 @@
+Complete the code to check if variable z is not a number.
+
+var z = NaN
+???.???(z)
+// true
+
+> Number
+> isNan
