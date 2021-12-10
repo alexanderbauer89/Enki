@@ -1,0 +1,12 @@
+Which of the following calc() syntaxes is the correct one?
+
+.generate {
+  width: calc(30% - 21px);
+  height: calc(100% / 3 * 4);
+}
+
+width
+height
+both
+
+> both
