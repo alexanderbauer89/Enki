@@ -1,0 +1,8 @@
+Which of the following properties will "glue" an element to its place?
+
+position: fixed;
+left:0px;
+z-index: 9999;
+position: relative;
+
+> position: fixed;
