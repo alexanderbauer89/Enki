@@ -1,0 +1,31 @@
+Change the content of each paragraph tag to say "My content was changed!":
+
+<html>
+  <body>
+    <p>Hello World!</p>
+    <p>I am a paragraph tag</p>
+    <p>my content can be changed</p>
+    
+    <script>
+      let paragraphTags =
+ document.???("
+ ???");
+      for (
+        let i = 0;
+        i < paragraphTags.
+length;
+        i++
+      ) {
+        ???[i].
+??? =
+
+'My content was changed!';
+      }
+     </script>
+  </body>
+</html>
+
+> getElementsByTagName
+> p
+> paragraphTags
+> innerHTML
