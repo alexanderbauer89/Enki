@@ -1,0 +1,20 @@
+Complete the missing gaps in the following HTML snippet, such that the JavaScript code contained by an enki.js file will be run via a script tag:
+
+???
+  ???="???" ???
+???
+
+<script>
+src
+<script
+</script>
+>
+enki.js
+<script />
+/>
+
+> <script
+> src
+> enki.js
+> >
+> </script>
