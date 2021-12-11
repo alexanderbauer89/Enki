@@ -1,0 +1,6 @@
+How can you log variables into the console?
+
+???.???(myVar);
+
+> console
+> log
