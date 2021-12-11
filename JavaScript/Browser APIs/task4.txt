@@ -1,0 +1,19 @@
+Select the element with the id "title":
+
+<html>
+<body>
+
+<p id="title">
+  Hello World!
+</p>
+
+<script>
+var title = document.
+???("???");
+</script>
+
+</body>
+</html>
+
+> getElementById
+> title
