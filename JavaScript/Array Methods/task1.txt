@@ -1,0 +1,19 @@
+How would you select a fruit at random from the array fruits?
+
+let fruits = [
+  "oranges",
+  "apples",
+  "banana"
+];
+
+let index = Math.???(
+  Math.random() * fruits.
+length
+);
+
+console.log(
+  "the random fruit is" +
+  fruits[index]
+);
+
+> floor
