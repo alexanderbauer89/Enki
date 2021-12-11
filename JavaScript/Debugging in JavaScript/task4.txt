@@ -1,0 +1,6 @@
+What scope is the catch clause of a try/catch statement in?
+
+function scoped.
+block scoped.
+
+> block scoped.
