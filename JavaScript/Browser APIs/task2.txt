@@ -1,0 +1,18 @@
+Select the element with the id "message" and change its content using the DOM:
+
+<html>
+<body>
+
+<p id="message">Hello World!</p>
+
+<script>
+document
+  .???("message")
+  .??? = "Changed!";
+</script>
+
+</body>
+</html>
+
+> getElementById
+> innerHTML
