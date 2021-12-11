@@ -1,0 +1,13 @@
+Complete the following block in the code snippet such that the comments make sense:
+
+??? {
+  throw "my error";
+} ??? (e) {
+  // exception is caught here
+} ??? {
+  // will always run
+}
+
+> try
+> catch
+> finally
