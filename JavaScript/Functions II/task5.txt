@@ -1,0 +1,11 @@
+A use case of the IIFE pattern is to wrap the whole code in an IIFE and pass in the ??? object. This could be given an alias of ???. 
+Global public properties could then be made accessible.
+
+returned
+modal
+global
+window
+new
+
+> window
+> global
