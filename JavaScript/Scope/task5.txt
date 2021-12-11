@@ -1,0 +1,14 @@
+This code ??? run:
+
+function foo()  {
+  let localVariable = "lVar";
+  return function bar() {
+    return localVariable;
+  };
+}
+foo()();
+
+will not
+will
+
+> will
