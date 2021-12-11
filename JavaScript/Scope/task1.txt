@@ -1,0 +1,23 @@
+What will the following functions print?
+
+var e = 1;
+function run() {
+  console.log(e);
+  var e = 4;
+}
+run();
+
+var c = 1;
+function calc() {
+  console.log(c * c);
+  c = 4;
+}
+calc();
+
+run: undefined, calc: 1
+run: 4, calc: 1
+run: 1, calc: 1
+run: 4, calc: 4
+run: undefined, calc: undefined
+
+> run: undefined, calc: 1
