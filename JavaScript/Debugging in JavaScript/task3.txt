@@ -1,0 +1,15 @@
+Complete the following code snippet such that the try/catch block will handle SyntaxErrors:
+
+??? {
+  eval('3.14 + /2.71');
+} catch (???) {
+  if (err.??? ==
+  ???) {
+  // handling
+ }
+}
+
+> try
+> err
+> contructor
+> SyntaxError
