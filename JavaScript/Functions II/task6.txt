@@ -1,0 +1,19 @@
+Complete the function expression in the following code snippet such that the code works correctly:
+
+??? add = ??? a(x, y, z){
+  ??? x + y + z;
+}
+
+console.log(add(1, 2, 3));
+
+fn
+function
+return
+console.log
+get
+()
+let
+
+> let
+> function
+> return
