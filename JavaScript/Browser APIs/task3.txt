@@ -1,0 +1,7 @@
+Store a reference to the body element in a variable:
+
+let bodyElement =
+  ???.???
+  
+> document
+> body
