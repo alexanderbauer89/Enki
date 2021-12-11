@@ -1,0 +1,11 @@
+The following code will output
+
+s = "enki";
+console.log(s);
+var s;
+
+undefined
+enki
+nothing
+
+> enki
