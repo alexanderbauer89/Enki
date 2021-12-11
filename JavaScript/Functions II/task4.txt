@@ -1,0 +1,8 @@
+Is the name field used in a function expression for defining functions mandatory?
+
+only on browsers
+no
+only in older JavaScript versions
+yes
+
+> no
