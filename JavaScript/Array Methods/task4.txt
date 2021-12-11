@@ -1,0 +1,10 @@
+Modify array1 such that it contains array2's contents in order.
+
+let array1 = ['a', 'b', 'c'];
+let array2 = ['d', 'e', 'f'];
+
+array1.???(???
+array2)
+
+> push
+> ...
