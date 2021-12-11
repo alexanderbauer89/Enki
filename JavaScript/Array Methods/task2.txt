@@ -1,0 +1,10 @@
+Create a new array by returning the square of each element:
+
+let arr = [1,2,3,4,'enki'].
+???(x => x*x);
+// the result will be
+[1,4,9,16,
+???]
+
+> map
+> NaN
