@@ -1,0 +1,7 @@
+When can a scenario occur where calling functions do not exist?
+
+When functions haven't been declared properly.
+When scripts haven't been passed or imported properly.
+When scripts are shared between different parts of a website.
+
+> When scripts are shared between different parts of a website.
