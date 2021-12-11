@@ -1,0 +1,12 @@
+Assuming the scopes specified in the comments, does the snippet use non-strict or strict mode?
+
+function bar(foo){
+  foo = "hello";  // local scope
+  baz = "world";
+  // global scope
+}
+
+non-strict
+strict
+
+> non-strict
