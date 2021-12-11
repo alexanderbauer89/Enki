@@ -1,0 +1,21 @@
+Fill in the gaps such that the naturalHalf function, given an input number, will return undefined for every odd number and the number's half for each even number:
+
+function naturalHalf(number)  {
+  if (number ??? 2 == 0)  {
+    return ???
+  }
+  return ???
+}
+
+NaN;
+;
+null;
+number;
+number / 2;
+%
+/;
+number % 2;
+
+> %
+> number / 2;
+> ;
