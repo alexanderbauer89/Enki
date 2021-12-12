@@ -1,0 +1,6 @@
+What can Node be used to create?
+
+client-side applications
+server-side applications
+
+> server-side applications
