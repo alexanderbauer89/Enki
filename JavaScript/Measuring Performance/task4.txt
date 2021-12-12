@@ -1,0 +1,10 @@
+Fill the gap to compute the duration between start and end marks:
+
+performance.???(
+    "???",
+    "start",
+    "end"
+);
+
+> measure
+> duration
