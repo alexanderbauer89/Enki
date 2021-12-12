@@ -1,0 +1,9 @@
+Retrieve the data corresponding to the "Enki" key from local storage:
+
+let localData = ???.
+???(
+    "Enki"
+);
+
+> localStorage
+> getItem
