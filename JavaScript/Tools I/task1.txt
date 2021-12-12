@@ -1,1 +1,8 @@
-Which
+Which of the following statements is false about npm link?
+
+uses the online npm registry to link global packages
+allows easier local development when working with multiple libraries
+creates a symbolic link between packages
+allows you to use a local library without reinstalling it after each time
+
+> uses the online npm registry to link global packages
