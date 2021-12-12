@@ -1,0 +1,11 @@
+Fill in the gaps to make the device vibrate for two seconds, pause for a second, then vibrate for three more seconds:
+
+???.???([
+    2000,
+    1000,
+    ???
+]);
+
+> navigator
+> vibrate
+> 3000
