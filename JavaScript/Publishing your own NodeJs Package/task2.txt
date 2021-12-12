@@ -1,0 +1,9 @@
+How would you publish publicly your scopred npm package?
+
+npm ??? ???
+??? ???
+
+> publish
+> --access
+> =
+> public
