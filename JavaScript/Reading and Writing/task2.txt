@@ -1,0 +1,8 @@
+Which FileReader's function is called after readAsDataURL() is completed?
+
+oncomplete
+readAsDataURL
+onend
+onload
+
+> onload
