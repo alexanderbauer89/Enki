@@ -1,0 +1,7 @@
+What is the main difference between how npm2 and npm3 handles dependencies?
+
+dependencies are always update to their latest version
+dependencies can be locked to at specific version
+e_modules structure depends on the declaration
+
+> e_modules structure depends on the declaration
