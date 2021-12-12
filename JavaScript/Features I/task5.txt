@@ -1,0 +1,39 @@
+Consider there is a Makefile in the output directory of your project. You want to run this with prod argument via an npm script called makeOutput:
+
+How would you define the script?
+
+{
+  "name": "Enki",
+  "???": {
+    "???": "??? ???
+???"
+  }
+}
+
+How would you run the script?
+
+??? ??? ???
+
+&&
+npm run
+output
+npm
+scripts
+makeOutput
+and
+prod
+add
+||
+cd output
+make
+makeFile
+makeOutput
+
+> scripts
+> makeOutput
+> cd output
+> &&
+> make
+> npm run
+> makeOutput
+> prod
