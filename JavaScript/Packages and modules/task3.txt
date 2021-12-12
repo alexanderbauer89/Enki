@@ -1,0 +1,8 @@
+Packages that the application is dependent on are specified in
+
+devDependencies.json file
+package.json file
+dependencies.json file
+node_modules directory
+
+> package.json file
