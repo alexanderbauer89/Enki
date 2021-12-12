@@ -1,0 +1,21 @@
+Which of these is the correct way of creating a Blob?
+
+let a = new Blob(
+    "<img src='#' >",
+    { type: 'text/html' }
+ );
+
+ let b = new Blob(
+    ["<img src='#' >"]
+ );
+
+ let c = Blob(
+    ["<img src='#' >"],
+    { type: 'text/html' }
+ );
+
+ a
+ b
+ c
+
+ > b
