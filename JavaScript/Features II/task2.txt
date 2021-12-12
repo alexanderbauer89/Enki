@@ -1,0 +1,12 @@
+How would you add an environmental variable called API_KEY that's equal to xyz at the runtime of you node application? 
+Suppose the main file of you application is index.js
+
+??? ???
+??? ???
+???
+
+> API_KEY
+> =
+> xyz
+> node
+> index.js
