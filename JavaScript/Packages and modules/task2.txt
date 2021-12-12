@@ -1,0 +1,9 @@
+How would you initialize an npm project within the @enki scope?
+
+??? ???
+???=???
+
+> npm
+> init
+> -scope
+> enki
