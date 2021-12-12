@@ -1,0 +1,8 @@
+What will happen when downloading a corrupted npm package?
+
+npm will refuse and stop the installation
+npm will crash your system
+npm will continue
+npm will continue, but will show warnings
+
+> npm will refuse and stop the installation
