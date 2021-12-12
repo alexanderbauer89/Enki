@@ -1,0 +1,19 @@
+Declare the connection and type:
+
+let connection =
+    ???.connection ||
+    navigator.??? ||
+    navigator.webkitConnection;
+let type = connection.???;
+
+mozConnection
+eventConnection
+effectiveType
+statusConnection
+connection
+navigator
+kind
+
+> navigator
+> mozConnection
+> effectiveType
