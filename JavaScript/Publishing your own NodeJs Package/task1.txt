@@ -1,0 +1,8 @@
+In order for the JavaScript file to be a module, it must have
+
+at least one function
+at least one non-void function
+a non-empty exports object
+constants
+
+> a non-empty exports object
