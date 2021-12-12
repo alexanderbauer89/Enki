@@ -1,0 +1,27 @@
+Fill in the following code snippet such that it will send the user a notification with the text "Hello from Enki"
+only if the permissions are already granted:
+
+if (???.??? === ???)
+{
+    ???(???)
+}
+
+throw Notification
+"granted"
+true
+return Notif
+new Notification
+new Notif
+access
+return Notification
+throw Notif
+permission
+Notification
+Notif
+"Hello from Enki"
+
+> Notification
+> permission
+> "granted"
+> new Notification
+> "Hello from Enki"
