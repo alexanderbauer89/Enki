@@ -1,0 +1,16 @@
+How would you update npm to the latest version? Place the flag at the end of the command.
+
+npm ??? ??? ???
+
+remove
+-g
+--latest
+latest
+npm
+install
+add
+-l
+
+> install
+> npm
+> -g
