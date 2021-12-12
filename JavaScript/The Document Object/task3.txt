@@ -1,0 +1,10 @@
+Fill in the blanks to create a function that returns an element.
+
+function initializeElement() {
+    let paragraph = document.
+???('p')
+    return ???
+}
+
+> createElement
+> paragraph
