@@ -1,0 +1,10 @@
+Get and return the MediaStream object using the promise below:
+
+let p = navigator.???.
+???({
+    audio: true,
+    video: true
+});
+
+> mediaDevices
+> getUserMedia
