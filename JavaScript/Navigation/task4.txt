@@ -1,0 +1,20 @@
+What is the name of the event fired when a user leaves the webpage?
+
+???
+
+What is the name of the event listener triggered before a user leaves the webpage?
+
+???
+
+leave
+onbeforeunload
+onexit
+onback
+exit
+onback
+back
+beforeunload
+onleave
+
+> beforeunload
+> onbeforeunload
