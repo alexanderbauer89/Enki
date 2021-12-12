@@ -1,0 +1,8 @@
+The prefix needed to invoke preconfigured values is:
+
+npm_package_config
+npm_package_config_
+$npm_package_config_
+$npm_config
+
+> $npm_package_config_
