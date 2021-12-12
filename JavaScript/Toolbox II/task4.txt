@@ -1,0 +1,10 @@
+How do you check the status of a permission?
+
+permission.status();
+permissions.status();
+permissions.query();
+permissions.log();
+permission.log();
+permission.query();
+
+> permissions.query();
