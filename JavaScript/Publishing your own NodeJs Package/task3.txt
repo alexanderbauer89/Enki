@@ -1,0 +1,11 @@
+If you have a test script defined in your package.json, what will be the easiest way to invoke it?
+
+$ ???
+
+test
+test .
+npm run test
+npm test
+jest all
+
+> npm test
