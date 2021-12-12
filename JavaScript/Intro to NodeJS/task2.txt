@@ -1,0 +1,7 @@
+What file extension does node use?
+
+.jscript
+.javascript
+.js
+
+> .js
