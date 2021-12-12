@@ -1,0 +1,7 @@
+The aim of a package is to
+
+solve every problem in an application efficiently
+solve specific problems efficently
+encapsulate the application
+
+> solve specific problems efficiently
