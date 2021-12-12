@@ -1,0 +1,29 @@
+Fill in the blanks to complete a function that takes an array and returns a list element with list items
+for each element in the given array.
+
+function createListElement(
+data){
+    let ul = document
+     .???('ul');
+    for (
+     let i = 0;
+     i < data.length;
+     i++
+) {
+    let li = document
+     .createElement('li');
+    let text = document
+        .???(data[
+???]);
+    li
+     .appendChild(text);
+    ul
+     .appendChild(li);
+
+ }
+ return ul;
+}
+
+> createElement
+> createTextNode
+> i
