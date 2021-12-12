@@ -1,0 +1,8 @@
+A default npm script event is:
+
+postinstall
+pre-commit
+link
+gulp
+
+> postinstall
