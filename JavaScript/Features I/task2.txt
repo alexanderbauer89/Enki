@@ -1,0 +1,6 @@
+You can find out the exact location of available binaries with:
+
+??? ???
+
+> npm
+> bin
