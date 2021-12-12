@@ -1,0 +1,9 @@
+Construct the full URL path by completing the JS code snippet below:
+
+let newURL = ???+
+    "//" + ??? + "/"
+         + ???;
+
+> window.location.protocol
+> window.location.host
+> window.location.pathname
