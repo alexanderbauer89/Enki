@@ -1,0 +1,19 @@
+Which method of fs writes to a file asynchronously?
+
+???
+
+Which method reads from a file asynchronously?
+
+???
+
+write
+readAsync
+writeFileAsync
+writeAsync
+readFileAsync
+writeFile
+read
+readFile
+
+> writeFile
+> readFile
