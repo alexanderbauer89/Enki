@@ -1,0 +1,7 @@
+Add a listener to a double click event:
+
+myVar.???('???'
+, myDoubleClickFunction);
+
+> addEventListener
+> dblclick
