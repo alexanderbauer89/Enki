@@ -1,0 +1,25 @@
+Create a 2d blue rectangle using Canvas:
+
+let canvas =
+    document.getElementById(
+"canvas");
+// get the 2d context to draw
+in 2d
+let context = canvas.getContext
+("2d");
+
+// color and draw
+???.fillStyle = "???";
+context.???(20,20,100,200)
+
+fillRect
+blue
+document
+canvas
+drawRectangle
+context
+rectangle
+
+> context
+> blue
+> fillRect
