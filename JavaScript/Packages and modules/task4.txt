@@ -1,0 +1,7 @@
+In which version of npm were peerDependencies available?
+
+npm v4
+npm v3
+npm v2
+
+> npm v2
