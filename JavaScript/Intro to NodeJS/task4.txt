@@ -1,0 +1,12 @@
+Consider the file enki.js:
+
+// enki.js
+console.log('Hello, Enki!')
+
+How would you run from the terminal interface the code in the file, using the NodeJS interpreter:
+
+??? ???
+# Hello, Enki!
+
+> node
+> enki.js
