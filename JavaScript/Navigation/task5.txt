@@ -1,0 +1,10 @@
+Assuming that the current window has no parent, what would the following check return?
+
+window === window.top
+
+Undefined
+False
+Error
+True
+
+> True
