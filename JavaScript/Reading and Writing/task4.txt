@@ -1,0 +1,7 @@
+Complete the following code snippet such that the file object is read as an array buffer?
+
+let reader = new ???();
+reader.???(file);
+
+> FileReader
+> readAsArrayBuffer
