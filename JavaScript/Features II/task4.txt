@@ -1,0 +1,5 @@
+What's the equivalent abbreviated command of npm link?
+
+npm ???
+
+> ln
