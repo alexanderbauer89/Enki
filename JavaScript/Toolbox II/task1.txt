@@ -1,0 +1,8 @@
+How can you view an element in fullscreen with the HTML Fullscreen API?
+
+requestFullscreen()
+viewFullScreen()
+viewScreen()
+applyFullscreen()
+
+> requestFullscreen()
