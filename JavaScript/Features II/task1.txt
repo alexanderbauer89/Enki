@@ -1,0 +1,7 @@
+If npm cannot find or fails to install the dependency the installation of the module continues, however what is required from the user?
+
+A printed error statement.
+A try catch to handle the lack of the dependency.
+An alternative way for the module to run without said dependency.
+
+> A try catch to handle the lack of the dependency.
