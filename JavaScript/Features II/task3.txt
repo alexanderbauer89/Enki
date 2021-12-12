@@ -1,0 +1,11 @@
+Consider an npm script called doSomething. Run it via npm, passing "enki" as an argument to it:
+
+??? ???
+??? \
+ ??? "???"
+ 
+> npm
+> run
+> doSomething
+> --
+> enki
