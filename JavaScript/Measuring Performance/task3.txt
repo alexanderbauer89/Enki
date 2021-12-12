@@ -1,0 +1,18 @@
+The navigation API shows how a user navigated on a particular page.
+What are the missing values for the following type properties?
+
+0: ???
+1: ???
+2: ???
+255: Other.
+
+Refreshed page.
+URL or link.
+Invalid link.
+History.
+New page.
+Bookmarked page.
+
+> URL or link.
+> Refreshed page.
+> History.
