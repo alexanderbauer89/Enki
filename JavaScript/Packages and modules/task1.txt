@@ -1,0 +1,8 @@
+For a module to be a package as well, it has to
+
+be required
+have an index.js file
+have a package.json file
+be published
+
+> have a package.json file
