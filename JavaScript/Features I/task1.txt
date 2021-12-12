@@ -1,0 +1,32 @@
+Fill in the following package.json file such that it has 2 scripts:
+
+One called test which will run jest and another called test:ci which will run the first script with -- ---runInBand option:
+
+{
+  "name": "Enki",
+  "???": {
+    "???": "???",
+    "???": "??? ???"
+  }
+}
+
+node-scripts
+jest
+scripts
+-- runInBand
+runInBand
+testing
+script
+run test
+test:ci
+test --
+npm
+test
+npm run test
+
+> scripts
+> test
+> jest
+> test:ci
+> npm run test
+> -- runInBand
