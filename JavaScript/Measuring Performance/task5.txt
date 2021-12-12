@@ -1,0 +1,7 @@
+Which following property of ProgressEvent shows the amount of work already done by the underlying process?
+
+ProgressEvent.loaded;
+ProgressEvent.total;
+ProgressEvent.lengthComputable;
+
+> ProgressEvent.loaded;
