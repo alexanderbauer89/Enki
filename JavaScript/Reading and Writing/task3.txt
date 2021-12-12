@@ -1,0 +1,10 @@
+Read from a text file:
+
+reader.onload = function(e) {
+    let text = reader.???;
+}
+reader.readAsText(file,
+???);
+
+> result
+> encoding
