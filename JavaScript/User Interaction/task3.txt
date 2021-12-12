@@ -1,0 +1,11 @@
+Set the elements attribute so it's allowed to be dragged and at the start of the "drag" event,
+the handler_function would be triggered.
+
+<div ???="true"
+    ???="
+handler_function(event);">
+This is draggable
+</div>
+
+> draggable
+> ondragstart
