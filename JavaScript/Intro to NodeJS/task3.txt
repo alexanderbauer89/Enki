@@ -1,0 +1,11 @@
+What does the following print?
+
+node
+> 3 + 7 * 3 - 4
+
+command not found: 3
+20
+-10
+26
+
+> 20
