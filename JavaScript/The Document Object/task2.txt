@@ -1,0 +1,17 @@
+Fill in the blanks to overwrite the contents of the div element with id='container':
+
+<body>
+    <div> id ='container'>
+        <h1>Hello world</h1>
+        <p>This is HTML</p>
+    </div>
+</body>
+<script>
+document
+    .???('container')
+    .???
+   = 'I love coffee!'
+</script>
+
+> getElementById
+> innerHTML
