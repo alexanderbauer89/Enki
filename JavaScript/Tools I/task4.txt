@@ -1,0 +1,8 @@
+Fill the gap such that the resulted version of your package will be the same as the one specified:
+
+# assume current version is
+ 3.2.5
+ npm version ???
+ # new version will be 3.3.5
+
+ > minor
