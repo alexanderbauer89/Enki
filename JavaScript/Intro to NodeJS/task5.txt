@@ -1,0 +1,9 @@
+Complete the code snippet to check you're using the latest NPM version:
+
+npm install npm@???
+
+latest -g
+latest -v
+latest
+
+> latest -g
