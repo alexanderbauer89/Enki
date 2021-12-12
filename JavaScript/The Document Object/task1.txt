@@ -1,0 +1,8 @@
+Given this code, fill in the blanks to create a new paragraph element:
+
+let p =
+    document.???("
+    ???");
+
+> createElement
+> p
