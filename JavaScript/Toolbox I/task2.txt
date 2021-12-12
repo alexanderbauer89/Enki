@@ -1,0 +1,21 @@
+Fill in the gaps in the following code snippet.
+Using the geolocation API exposed by the browser and assuming you have all the permissions needed,
+get the current device position and log the latitude and longitude.
+
+navigator.???.
+???(
+    function(pos) {
+     const lat = pos.???
+.???;
+     const long = ???.
+???;
+     console.log(lat, long);
+    }
+);
+
+> geolocation
+> getCurrentPosition
+> coords
+> latitude
+> pos.coords
+> longitude
