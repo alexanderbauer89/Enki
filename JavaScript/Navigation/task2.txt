@@ -1,0 +1,7 @@
+Move forwards once using the History API:
+
+window.???.???(
+);
+
+> history
+> forward
