@@ -1,0 +1,9 @@
+Complete the command in order to get the dependencies for version 1.2.3 of package enki:
+
+npm ???
+    enki???1.2.3
+???
+
+> view
+> @
+> dependencies
