@@ -1,0 +1,19 @@
+Imports the necessary module and fill in the gaps to read file.txt synchronously:
+
+const fs = ???
+
+???.???('file.txt')
+
+fileReader
+FileReader
+readFile
+require('fs')
+file
+readFileTxt
+readFileSync
+fs
+readFileAsync
+
+> require('fs')
+> fs
+> readFileSync
