@@ -1,0 +1,6 @@
+What command do you need to run as to generate a snapshot of the current dependency tree and lock down versions inside it?
+
+??? ???
+
+> npm
+> shrinkwrap
