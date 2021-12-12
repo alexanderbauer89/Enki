@@ -1,0 +1,8 @@
+Complete the code snippet to add a tag to your package:
+
+npm dist-tag ???
+    <pkg>@<version> [<
+???>]
+
+> add
+> tag
