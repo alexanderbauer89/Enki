@@ -1,0 +1,32 @@
+Suppose there is a custom file encoding named xyz.
+
+Using the built-in File System module of NodeJS, how would you write "XXYYZ" to myFile?
+Remember you must manually set the encoding.
+
+const fs = require('fs')
+
+???.???(???, ???,
+ ???, (err) => {
+    console.log(err)
+ }
+
+'XXYYZ
+{ encoding: 'xyz' }
+writeFile
+writeFileAsync
+FS
+{ xyz: true }
+{ xyz }
+XXYYZ
+'myFile'
+new myFile()
+fs
+customEncode(xyz)
+FileSystem
+write
+
+> fs
+> writeFile
+> 'myFile'
+> 'XXYYZ'
+> { encoding: 'xyz' }
