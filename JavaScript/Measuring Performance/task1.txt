@@ -1,0 +1,8 @@
+Scripts with the ??? attribute are executed in order.
+Unlike ??? scripts, they will only execute when the entire document has been loaded.
+
+async
+defer
+
+> defer
+> async
