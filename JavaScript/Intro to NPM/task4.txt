@@ -1,0 +1,8 @@
+??? ???
+???
+
+Will create the default package.json file.
+
+> npm
+> init
+> -y
