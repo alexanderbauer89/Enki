@@ -1,0 +1,7 @@
+What is the required argument the fetch() takes?
+
+An int value stating the number of files to fetch.
+The network name.
+The path to the resource you want to fetch.
+
+> The path to the resource you want to fetch.
