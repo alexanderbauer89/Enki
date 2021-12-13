@@ -1,0 +1,13 @@
+Which method is used to declare a new server and with which arguments?
+
+let http = require('http');
+
+http
+  .???(function (req,
+???) {
+    // ...
+})
+.listen(8000);
+
+> createServer
+> res
