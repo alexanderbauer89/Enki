@@ -1,0 +1,18 @@
+What will be the value of a at the end of the code execution?
+
+const obj = {
+    a: 'b'
+}
+
+const {a: b, c = 'a'} = obj
+// a = ???
+
+'b'
+c
+b
+null
+'a'
+undefined
+obj
+
+> undefined
