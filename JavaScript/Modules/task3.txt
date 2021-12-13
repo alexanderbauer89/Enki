@@ -1,0 +1,25 @@
+Consider the following local node module:
+
+// myModule.js
+
+module.exports = {
+    hello: () => {
+        console.log(
+'Hello from Enki');
+    }
+}
+
+How would you import and use it in your application?
+
+Running node main.js into the console should log "Hello from Enki".
+
+// main.js
+
+const myModule = ???(
+'./myModule.js')
+
+???.???
+
+> require
+> myModule
+> hello()
