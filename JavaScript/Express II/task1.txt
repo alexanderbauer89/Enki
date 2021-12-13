@@ -1,0 +1,10 @@
+How can you access sessions through the request object?
+
+app.???('/', function(
+req, ???) {
+    sess = ???.session;
+}
+
+> get
+> res
+> req
