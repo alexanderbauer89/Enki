@@ -1,0 +1,9 @@
+Which flag must be used to enable debugging?
+
+--debugger
+debugging
+debug
+-debug
+--debug
+
+> --debug
