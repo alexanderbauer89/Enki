@@ -1,0 +1,29 @@
+Complete the following snippet to output "I enjoy studying":
+
+function Hobby(hobb){
+    this.hobby = hobby;
+}
+Hobby.???.??? = function(
+){
+    console.log("I enjoy " +
+ this.hobby);
+}
+
+function MyHobby(hobby){
+    this.hobby = hobby;
+}
+
+???.prototype = new Hobby();
+let student = new MyHobby(
+"studying");
+student.sayHobby();
+
+printHobby
+studying
+prototype
+sayHobby
+MyHobby
+
+> prototype
+> sayHobby
+> MyHobby
