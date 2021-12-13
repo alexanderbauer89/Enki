@@ -1,0 +1,9 @@
+Listen to exit event of a custom REPL:
+
+replServer.???('
+???', function() {
+    process.exit()
+});
+
+> on
+> exit
