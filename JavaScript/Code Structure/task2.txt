@@ -1,0 +1,8 @@
+You can easily share common code between repositories by using
+
+git
+npm
+USB stick
+Dropbox
+
+> npm
