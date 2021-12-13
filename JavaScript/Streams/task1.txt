@@ -1,0 +1,16 @@
+A stream can be Readable, Writable and ???.
+Streams allow data to ??? and ???.
+
+processed in one go
+processed in chunks
+piped to a destination
+Duplex
+Double
+read into fs module
+WritableReadable
+used by the request module
+read from a source
+
+> Duplex
+> read from a source
+> piped to a destination
