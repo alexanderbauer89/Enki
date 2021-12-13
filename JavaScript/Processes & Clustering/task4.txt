@@ -1,0 +1,9 @@
+What does the following line of code do?
+
+if (cluster.isMaster) { ... }
+
+Sets the master process.
+Sets the master process to null.
+Identifies the master process.
+
+> Identifies the master process.
