@@ -1,0 +1,23 @@
+Can you identify type of error most likely depicted on the following snippet?
+
+import http from 'http';
+...
+// create the request header
+http.request({host: test.com,
+    port: 80,
+    path: '/signup',
+    method: 'POST'
+    }, (res, err) => err &&
+    console.log(err))
+    // add the data
+     .write(
+        'username': 'enki',
+        'password': 'enki'
+     );
+
+Handled programmer error
+Handled operational error
+Unhandled programmer error
+Unhandled operational error
+
+> Handled operational error
