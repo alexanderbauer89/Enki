@@ -1,0 +1,6 @@
+What is missing from the following code snippet for getting the current time in milliseconds?
+
+???new ???();
+
+> +
+> Date
