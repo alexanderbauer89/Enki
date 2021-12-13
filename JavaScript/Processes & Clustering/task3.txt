@@ -1,0 +1,8 @@
+Considering cluster to be the master cluster, how would you get all child worker objects?
+
+// ...
+var workers = ???.
+???
+
+> cluster
+> workers
