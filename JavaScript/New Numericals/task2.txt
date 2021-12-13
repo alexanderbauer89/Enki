@@ -1,0 +1,16 @@
+How would you write the number 2 in binary notation?
+
+??? ??? ???
+
+11
+1
+10
+2
+00
+0
+b
+o
+
+> 0
+> b
+> 10
