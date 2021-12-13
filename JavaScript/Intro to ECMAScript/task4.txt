@@ -1,0 +1,18 @@
+Fill in the missing gaps with the output of the log statements:
+
+let year = 2017
+{
+  let year = 2018
+  console.log(year)
+  // ???
+}
+console.log(year)
+// ???
+
+error
+2018
+2017
+year
+
+> 2018
+> 2017
