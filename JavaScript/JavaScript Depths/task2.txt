@@ -1,0 +1,23 @@
+Find the variable scopes in the following code:
+
+var flag = true;
+// flag is ???
+
+function test() {
+    var x;
+    function test2() {
+        // test2 is in ???
+        var y;
+    }
+}
+
+project
+document
+inline
+global
+test2
+test
+var
+
+> global
+> test
