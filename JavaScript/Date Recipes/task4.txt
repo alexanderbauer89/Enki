@@ -1,0 +1,13 @@
+Change the code in order for it to run without using with:
+
+var a, x;
+
+/* with (Math) {
+  x = random();
+  a = exp(x);
+} */
+x = ??? ;
+a = ??? ;
+
+> Math.random()
+> Math.exp(x)
