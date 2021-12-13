@@ -1,0 +1,22 @@
+Swap a and b using destructuring:
+
+let a = 'foo'
+let b = 'bar'
+
+[a ???] = ???
+console.log(a) // bar
+console.log(b) // foo
+
+[b]
+[a, b]
+, a
+[a]
+a
+[, a]
+, b
+,
+[b, a]
+b
+
+> , b
+> [b, a]
