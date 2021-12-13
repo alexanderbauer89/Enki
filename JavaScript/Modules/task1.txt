@@ -1,0 +1,7 @@
+Which of the following statements about node modules do you consider false?
+
+using modules can reduce the amount of code per file
+using modules can make your code easier to maintain and code
+using modules will increase the performance of your application
+
+> using modules will increase the performance of your application
