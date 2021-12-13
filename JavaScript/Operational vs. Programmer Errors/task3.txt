@@ -1,0 +1,9 @@
+Can you identify what a successful system recovery implies?
+
+Fixing the programmer error
+Restarting the system
+Allowing a request to fail
+Allowing a request to fail and reverting
+Handling the programmer error properly
+
+> Allowing a request to fail and reverting
