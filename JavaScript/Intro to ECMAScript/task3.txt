@@ -1,0 +1,22 @@
+Fill in the gaps of the following code such that the output of the log statements make sense:
+
+const ??? = {
+  pi: 3.14,
+  piExtended: 3.141,
+  e: 2.71
+}
+
+special.e = 2.718
+special.??? = 3.141
+
+console.log(special.
+???)
+// 3.14
+console.log(???)
+// 3.141
+
+> special
+> piExtended
+> e
+> pi
+> special.piExtended
