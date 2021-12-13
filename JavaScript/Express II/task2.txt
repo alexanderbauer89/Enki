@@ -1,0 +1,7 @@
+Import the needed module for implementing sessions in Express with the help of cookies:
+
+let cookieSess = ???('
+???');
+
+> require
+> cookie-session
