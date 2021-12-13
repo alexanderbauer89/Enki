@@ -1,0 +1,35 @@
+How would you pipe the data from a readStream of fileA.txt to a writeStream of fileB.txt,
+both created through the fs module? Basically you have to move all the data from fileA to fileB.
+
+let fs = require('fs')
+
+let r = ???(???)
+let w = ???.???(???)
+
+???.???(???)
+
+transfer
+fs.createReadStream
+writeStream
+fs
+fileB
+fs.readStream
+pipe
+createWriteStream
+fs.writeStream
+'fileA.txt'
+move
+readStream
+w
+fileA
+'fileB.txt'
+r
+
+> fs.createReadStream
+> 'fileA.txt'
+> fs
+> createWriteStream
+> 'fileB.txt'
+> r
+> pipe
+> w
