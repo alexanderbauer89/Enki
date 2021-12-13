@@ -1,0 +1,13 @@
+Complete the below code snippet to define a router middleware:
+
+???.use(
+    function(req, res,
+???) {
+     console.log(req.method, req
+.url);
+    ???;
+});
+
+> router
+> next
+> next()
