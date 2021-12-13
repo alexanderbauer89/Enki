@@ -1,0 +1,23 @@
+Fill in the gaps such that the variables will have the commented value:
+
+let x, y, z;
+[??? ??? ???] = [5, 10, 15]
+console.log(x)
+// x == 5
+console.log(y)
+// y == undefined
+console.log(z)
+// z == 15
+
+,
+,y
+x
+x,
+y
+z
+,x
+y,
+
+> x,
+> ,
+> z
