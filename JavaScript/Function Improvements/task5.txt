@@ -1,0 +1,20 @@
+What will be logged by the following snippet:
+
+function bar() {
+  let foo = "b";
+  this.foo = "a";
+  return {
+    foo
+  };
+}
+console.log(bar());
+// ???
+
+'b'
+foo
+{ foo: 'b'}
+error
+{ foo: 'a' }
+'a'
+
+> { foo: 'b'}
