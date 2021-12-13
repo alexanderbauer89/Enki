@@ -1,0 +1,14 @@
+What will the following function calls return?
+
+console.log(Math.cbrt(27));
+// ???
+
+console.log(Math.sign(-22));
+// ???
+
+console.log(Math.trunc(4.522));
+// ???
+
+> 3
+> -1
+> 4
