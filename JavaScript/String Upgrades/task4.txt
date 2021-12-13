@@ -1,0 +1,7 @@
+Create a Collator based on German language:
+
+let i10nDE = new ???.
+???("de");
+
+> Intl
+> Collator
