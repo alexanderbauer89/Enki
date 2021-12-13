@@ -1,0 +1,9 @@
+Complete the following snippet to listen for messages in the master from a worker:
+
+???.on('???',
+function(message) {
+    console.log(message);
+});
+
+> worker
+> message
