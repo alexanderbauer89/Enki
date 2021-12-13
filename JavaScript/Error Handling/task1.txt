@@ -1,0 +1,28 @@
+Which of the following is the correct declaration of a try-catch block?
+
+// Option A
+try (
+    // code
+) catch {exception} (
+    // return exception
+);
+
+// Option B
+try {
+    // code
+} catch {
+    // return exception
+}
+
+// Option C
+try {
+    // code
+} catch (exception) {
+    // return exception
+}
+
+Option A
+Option B
+Option C
+
+> Option C
