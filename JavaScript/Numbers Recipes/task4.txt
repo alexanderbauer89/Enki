@@ -1,0 +1,15 @@
+What does the following JS code snippet output?
+
+console.log(~~15);
+// ???
+console.log(~~"7.08");
+// ???
+console.log(~~"-1.92");
+// ???
+console.log(~~{});
+// ???
+
+> 15
+> 7
+> -1
+> 0
