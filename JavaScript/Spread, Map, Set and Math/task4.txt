@@ -1,0 +1,15 @@
+What will be the output of the last line of the following code?
+
+const mySet = new Set();
+mySet.add(4);
+mySet.add(5);
+mySet.add(4);
+mySet.add(3);
+mySet.add(5);
+mySet.add(5);
+mySet.add(1);
+
+console.log(mySet.size);
+// ???
+
+> 4
