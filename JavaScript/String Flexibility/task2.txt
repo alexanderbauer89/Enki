@@ -1,0 +1,31 @@
+Consider the following tagged template function call:
+
+myTag`Number ${2} is`
+
+And it's defintion:
+
+function myTag(strings, ...
+substitutions) {
+ ...
+}
+
+What will strings and substitutions equal to?
+
+console.log(strings)
+// ???
+console.log(substitutions)
+// ???
+
+'is'
+[0, 2]
+'Number'
+[2]
+['Number', 'is']
+['Number', 'is', 2]
+['Number', 'is', 2]
+2
+[['Number', 'is', 2]
+['Number', 'is']
+
+> ['Number', 'is']
+> 2
