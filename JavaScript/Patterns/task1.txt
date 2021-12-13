@@ -1,0 +1,56 @@
+Fill in the gaps of the following snippets.
+First you need to define you Enki factory which exposes createWithNumber and createWithString:
+
+// myFactory.js
+
+function Enki(number) {
+  this.number = number
+}
+
+function createWithNumber(
+number) {
+  console.log(
+'created with number')
+  return ???(number)
+}
+
+function
+createWithNumberString(str) {
+  console.log(
+'created with number string')
+  ???(Number(str))
+}
+
+module.exports = {
+  createWithNumber:
+createWithNumber,
+  createWithNumberString:
+   createWithNumberString,
+}
+
+How would you use this factory?
+
+// main.js
+var Enki = require(
+'./myFactory.js')
+
+const e1 = ???(42)
+const e2 = ???.???('55')
+
+factory
+createWithNumberString
+Enki.createWithNumber
+create
+Enki.createWithNumberString
+init
+Enki()
+new Enki
+return new Enki
+return new
+Enki
+
+> new Enki
+> return new Enki
+> Enki.createWithNumber
+> Enki
+> createWithNumberString
