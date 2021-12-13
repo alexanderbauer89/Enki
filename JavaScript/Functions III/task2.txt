@@ -1,0 +1,8 @@
+Which method will change the this context of a JavaScript function call?
+
+.call(obj)
+.object()
+.this = ___
+.context(obj)
+
+> .call(obj)
