@@ -1,0 +1,8 @@
+When handling errors in Node, which class is it best practice to use?
+
+nodeerror
+node-error
+Node-error
+Error
+
+> Error
