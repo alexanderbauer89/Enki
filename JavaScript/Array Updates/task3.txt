@@ -1,0 +1,10 @@
+Complete the code example to create an array that looks like this:
+['1','7','3','4','5','6','7']
+
+let ints = ['1','7','3','4','5','6','7'];
+ints.copyWithin(???,
+???,???)
+
+> 1
+> 6
+> 7
