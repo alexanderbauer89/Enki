@@ -1,0 +1,8 @@
+What method is used to get the base-10 numeric representation of a code point at a given position in a string?
+
+for (let codePoint of '🌲🌲') {
+  console.log(codePoint.
+???(0));
+}
+
+> codePointAt
