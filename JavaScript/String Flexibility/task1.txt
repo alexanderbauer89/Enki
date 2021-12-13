@@ -1,0 +1,9 @@
+Complete the following code snippet to assemble a template string that says "Beam me up Scotty!":
+
+let what = "Beam";
+let who = "Scotty";
+
+let line = `??? me up ???!`;
+
+> ${what}
+> ${who}
