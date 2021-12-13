@@ -1,0 +1,14 @@
+How would you enable GZIP compression for express 4.0?
+
+const compress = require('
+???')
+const express = require('
+???')
+
+// ...
+app.???(???)
+
+> compression
+> express
+> use
+> compress()
