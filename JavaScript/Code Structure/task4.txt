@@ -1,0 +1,8 @@
+What kind of object is process.env?
+
+static
+plain JavaScript
+immutable
+live
+
+> live
