@@ -1,0 +1,8 @@
+What is required when you're handling a JSON.parse error in Node?
+
+an error message
+a loop
+a try/catch
+an if statement
+
+> a try/catch
