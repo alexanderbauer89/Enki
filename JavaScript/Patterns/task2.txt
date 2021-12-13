@@ -1,0 +1,11 @@
+Describe the Middleware/pipeline design pattern:
+
+the ??? of one unit is the ??? for the next one.
+
+input
+prototype
+error
+output
+
+> output
+> input
