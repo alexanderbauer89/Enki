@@ -1,0 +1,28 @@
+Implement a simple error-first callback function that will log the err if there is an error.
+Otherwise, it should log the data:
+
+doSomethingWithCallback(???(
+???, ???) {
+ ??? {
+   console.log(err)
+ } ??? {
+    console.???
+ }
+})
+
+else
+fn
+err
+er
+if (err)
+function
+myData
+log(data)
+data
+
+> function
+> err
+> data
+> if (err)
+> else
+> log(data)
