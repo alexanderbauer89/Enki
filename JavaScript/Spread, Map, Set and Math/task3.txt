@@ -1,0 +1,14 @@
+Complete the missing method calls in the following snippets such that the logs hold:
+
+const myMap = new Map()
+
+myMap.???(4, 'enki')
+
+console.log(myMap.???(4))
+// enki
+console.log(myMap.???(4))
+// true
+
+> set
+> get
+> has
