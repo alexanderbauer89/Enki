@@ -1,0 +1,21 @@
+What will the following code output?
+
+console.log(
+    ("0044742323412")
+      .slice(-3)
+);
+// ???
+
+console.log(
+    (32410000(
+      .slice(-5)
+);
+// ???
+
+412
+throws an error
+10000
+004
+
+> 412
+> throws an error
