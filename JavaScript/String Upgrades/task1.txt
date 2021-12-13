@@ -1,0 +1,8 @@
+Fill in the template literal syntax:
+
+let name = 'Enki'
+console.log(
+    `Hello from ???`
+);
+
+> ${name}
