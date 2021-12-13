@@ -1,0 +1,8 @@
+Complete the JS code snippet to create a child process:
+
+let spawn =
+  require('???').
+???;
+
+> child_process
+> spawn
