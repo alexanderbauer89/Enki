@@ -1,0 +1,27 @@
+Consider the function sayHi which is supposed to log the Hi message.
+Likewise, the sayHello function should log the Hello message.
+
+Complete the following snippet such that both functions are defined within the object
+returned, using method shorthand in both cases:
+
+return {
+ ??? {
+  console.log('Hi')
+ },
+ ??? ??? {
+  console.log('Hello')
+ }
+}
+
+sayHello: function()
+sayHi: function()
+function
+sayHello
+sayHi()
+function()
+()
+sayHello:
+
+> sayHi()
+> sayHello
+> ()
