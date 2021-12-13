@@ -1,0 +1,15 @@
+Require the requisite module used to deliver HTML pages:
+
+let ??? = require('???');
+
+serve-static
+node-html
+static-express
+staticExpress
+serveStatic
+nodeHTML
+expressHTML
+express-html
+
+> serveStatic
+> serve_static
