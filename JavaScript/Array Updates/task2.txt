@@ -1,0 +1,16 @@
+What will the following code do_
+
+let enki = ["e", "n", "k", "i"]
+
+let enkiIterator = enki.keys()
+
+console.log(enki[enkiIterator.
+next().value])
+// ???
+
+log en
+log undefined
+raise an error
+log e
+
+> log e
