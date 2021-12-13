@@ -1,0 +1,8 @@
+If currObj is not supplied, what is it set to by default?
+
+The boolean false.
+The global object.
+Equal to null.
+The previous object.
+
+> The global object.
