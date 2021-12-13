@@ -1,0 +1,19 @@
+Fill in the gap with a method introduced in ES6 such that the log statement is correct:
+
+console.log(???.???(70))
+// F
+
+Ascii
+fromNumberCode
+formCharCode
+Char
+fromCode
+fromNumberPoint
+fromNumber
+String
+Number
+fromAsciiNumber
+fromCodePoint
+
+> String
+> fromCodePoint
