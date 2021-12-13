@@ -1,0 +1,10 @@
+What will the context default to when executing a function in strict mode?
+
+Window
+undefined
+this
+bind
+new
+navigator
+
+> undefined
