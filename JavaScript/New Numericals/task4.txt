@@ -1,0 +1,17 @@
+Fill in the gaps with the Number constants' names:
+
+Smallest value, smaller than 1 and bigger than 0 that can be represented as a number:
+
+Number.???
+// 2.220446049250313e-16
+
+Smallest and biggest IEEE-754 numbers:
+
+Number.???
+//-9007199254740991
+Number.???
+//9007199254740991
+
+> EPSILON
+> MIN_SAFE_INTEGER
+> MAX_SAFE_INTEGER
