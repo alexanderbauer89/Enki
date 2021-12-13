@@ -1,0 +1,21 @@
+What is the output of the following JavaScript code?
+
+module.exports = ['a', 'k', 'K'
+, 'y', 'a'];
+
+var test = require('./other.js'
+);
+
+console.log(test[2]);
+console.log(test[4]);
+console.log(test[3]);
+console.log(test[0]);
+console.log(test[1]);
+
+kayak
+ayakK
+kayaK
+Kayak
+yakaK
+
+> Kayak
