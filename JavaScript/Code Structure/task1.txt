@@ -1,0 +1,15 @@
+Can you identify an advantage of using monoliths in the following list?
+
+???
+
+What about one of using microservices?
+
+???
+
+Hard to scale.
+Easy to reason about each component's job.
+A lot of time has to be spent to properly design the system.
+Common code is easily accessed.
+
+> Common code is easily accessed.
+> Easy to reason about each component's job.
