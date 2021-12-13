@@ -1,0 +1,39 @@
+Can you identify what will be the stack trace of the following snippet?
+
+const throw_example = () => {
+ return new Promise((resolve,
+reject) => {
+   setTimeout(() => {
+    throw new Error(
+'throw_example');
+    }, 0);
+   });
+};
+
+const reject_example = () => {
+ return new Promise((resolve,
+reject) => {
+    setTimeout(() => {
+     reject(new Error(
+'reject_example'));
+    }, 0);
+  });
+};
+
+const main = async () => {
+ try {
+    await reject_example();
+    await throw_example();
+ } catch (err) {
+   console.log(err.message);
+ }
+};
+
+main();
+
+An exception with the message reject_example.
+No error shown, only the message reject_example.
+No error shown, only the message throw_example.
+An exception with the message throw_example.
+
+> No error shown, only the message reject_example.
