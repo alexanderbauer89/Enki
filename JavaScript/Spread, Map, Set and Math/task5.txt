@@ -1,0 +1,25 @@
+Create a WeakMap out of the following array such that objects point to their position in the array:
+
+let arr = [ { enki: 1 }, { enki
+: 2 } ];
+new ???(
+   ???.???((???, 1) => [
+???, i])
+)
+
+object
+Weakmap
+array
+weakmap
+obj
+let array
+obj
+arr
+map
+WeakMap
+
+> WeakMap
+> arr
+> map
+> obj
+> obj
