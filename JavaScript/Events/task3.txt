@@ -1,0 +1,8 @@
+How is the delivery of events treated in Node?
+
+asynchronously
+random
+instantly
+synchronously
+
+> synchronously
