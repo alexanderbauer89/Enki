@@ -1,0 +1,18 @@
+Complete the code snippet below to return a new function with its this being equal to thisArg:
+
+???(???, [p1, [???, [
+...]]]
+
+param
+thisArg
+function
+tie
+this
+p2
+bind
+combine
+next
+
+> bind
+> thisArg
+> p2
