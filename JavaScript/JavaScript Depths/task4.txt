@@ -1,0 +1,7 @@
+A polyfill provides...
+
+new features.
+technology that a developer expects the browser to provide natively.
+all HTML tags.
+
+> technology that a developer expects the browser to provide natively.
