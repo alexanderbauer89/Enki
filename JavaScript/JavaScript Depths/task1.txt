@@ -1,0 +1,51 @@
+Complete the missing gaps such that the log statements on the last lines will print the commented output.
+
+var Rectangle = function() {
+  this.??? = null
+  this.length = null
+}
+
+Rectangle.???
+  .??? = function(width) {
+   this.width = width
+   ???
+ }
+
+???.prototype
+  .setLength = function(length
+)  {
+    this.??? = length
+    return ???
+}
+
+const r = (new Rectangle())
+    .setWidth(20)
+    .setLength(30)
+
+console.log(r.length) // 30
+console.log(r.width) // 20
+
+r
+width
+setLength
+return r
+this
+return this
+return
+new
+return null
+prototype
+return width
+new
+Rectangle
+length
+setWidth
+return undefined
+
+> width
+> prototype
+> setWidth
+> return this
+> Rectangle
+> length
+> this
