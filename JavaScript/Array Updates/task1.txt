@@ -1,0 +1,14 @@
+Find the first number divisible by 4:
+
+let ints = ["6", "2", "5", "6", "5", "8"];
+ints.???(???);
+
+filter
+function (e) {return e===4}
+find
+includes
+function (e) {return e % 4}
+function (e) {return e % 4 === 0}
+
+> find
+> function (e) {return e % 4 === 0}
