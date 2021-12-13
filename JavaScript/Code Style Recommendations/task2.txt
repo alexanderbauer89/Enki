@@ -1,0 +1,32 @@
+In order for the brackets placement to be less prone to errors and consistent throughout the project,
+it is recommended that you use style ??? in your code:
+
+// style A
+function A() {
+ return {
+    style: 'A',
+ };
+}
+
+// style B
+
+function B()            {
+ return                 {
+  style: 'B'
+                        }
+                        }
+
+// style C
+function C()
+{
+    return
+    {
+     style: 'C',
+    };
+}
+
+B
+A
+C
+
+> A
