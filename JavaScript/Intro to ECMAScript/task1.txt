@@ -1,0 +1,13 @@
+ECMAScript is a ??? for ??? that is maintained by a ???.
+
+Java
+Committee of developers
+Programming language
+Community of developers
+JavaScript
+Specification
+Engine
+
+> Specification
+> JavaScript
+> Committee of developers
