@@ -1,0 +1,7 @@
+Which fo the following is included in all JavaScript files by default?
+
+module.object
+module.exports
+module.module
+
+> module.exports
