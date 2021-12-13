@@ -1,0 +1,11 @@
+Which are the two parameters allowed in the morgan constructor?
+
+const morgan = require('morgan'
+)
+
+// ...
+app.use(morgan(???,
+???))
+
+> format
+> options
