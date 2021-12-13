@@ -1,0 +1,23 @@
+Complete the next function definition such that the function call below is true:
+
+function cube(??? ???
+???) {
+  return number * number *
+number
+}
+cube() // 0
+
+0
+-1
+1
+let
+const
+n
+default
+=
+int
+number
+
+> number
+> =
+> 0
