@@ -1,0 +1,13 @@
+What is a strictly equal to?
+
+const { a = 1 } = { a:
+ undefined };
+ // a === ???
+
+ undefined
+ NaN
+ 1
+ null
+ 0
+
+ > 1
