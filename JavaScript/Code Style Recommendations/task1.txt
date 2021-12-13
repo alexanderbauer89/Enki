@@ -1,0 +1,15 @@
+Which of the following is a valid function definition?
+
+function A() {
+    // ...
+}
+
+function B() {
+    // ...
+}
+
+B
+A
+Both
+
+> Both
