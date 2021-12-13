@@ -1,0 +1,7 @@
+Which method is used to add a one-time listener function to an event emitter?
+
+.once
+.first
+.instance
+
+> .once
