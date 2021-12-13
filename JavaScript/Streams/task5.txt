@@ -1,0 +1,9 @@
+Complete the code snippet to write data to the writable stream:
+
+rstream.on('???',
+function(data) {
+    wstream.???(data);
+});
+
+> data
+> write
