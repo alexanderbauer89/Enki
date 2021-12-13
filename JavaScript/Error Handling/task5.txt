@@ -1,0 +1,10 @@
+How would you catch unhandled exceptions in your NodeJS code, using an event listener?
+
+process.???(???
+,
+ function(err) {
+    console.log('caught')
+ })
+
+> on
+> 'uncaughtException'
