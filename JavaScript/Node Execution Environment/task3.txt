@@ -1,0 +1,6 @@
+Get the total system memory in bytes:
+
+var os = require("os");
+console.log(os.???());
+
+> totalmem
