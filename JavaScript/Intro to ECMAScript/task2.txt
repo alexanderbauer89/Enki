@@ -1,0 +1,23 @@
+Consider the assignment:
+
+const enki = 42;
+
+What will the following do?
+
+enki = 22;
+// ???
+
+But the following?
+
+if (true) {
+ const enki = 22;
+ // ???
+}
+
+throw an error
+assign 22 to enki within the if's scope
+re-assign 22 to enki
+also throw an error
+
+> throw an error
+> assign 22 to enki within the if's scope
