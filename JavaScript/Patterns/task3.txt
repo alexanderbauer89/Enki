@@ -1,0 +1,11 @@
+Complete the code snippet below which allows the execution of a CPU intensive task to be interleaved with other events:
+
+function compute() {
+    // lots of calculations...
+    process.???(
+???);
+}
+compute();
+
+> nextTick
+> compute
