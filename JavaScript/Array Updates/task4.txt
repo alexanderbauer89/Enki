@@ -1,0 +1,17 @@
+What object is used to create a buffer for a typed array?
+
+???
+
+What object is used to create a view configured for 32-bit signed integers for a typed array?
+
+???
+
+Buffer
+Int32
+I32Arr
+Int32Array
+ArrayBuffer
+Array
+
+> ArrayBuffer
+> Int32Array
