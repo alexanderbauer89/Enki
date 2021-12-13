@@ -1,0 +1,19 @@
+Create a counter that can successfully count up and down:
+
+function Counter () {
+  this.counter = 0;
+  this.countUp = setInterval(
+???, 1000)
+  this.countDown = setInterval(
+???, 1000)
+}
+
+let count = new Counter();
+
+() => {this.counter++;}
+function() {this.counter--;}
+function() {this.counter++;}
+() => {this.counter--;}
+
+> function() {this.counter++;}
+> function() {this.counter--;}
