@@ -1,0 +1,7 @@
+What must be used when exporting an anonymous function?
+
+require
+exports
+module.exports
+
+> module.exports
