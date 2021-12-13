@@ -1,0 +1,10 @@
+Create a random hex colour:
+
+'???' + Math.
+??? ()
+     .???(16)
+     .substr(-6);
+
+> #
+> random
+> toString
