@@ -1,0 +1,11 @@
+What is the output of the following two calls?
+
+const enki = "enki";
+
+isNaN(enki);
+// ???
+Number.isNaN(enki);
+// ???
+
+> true
+> false
