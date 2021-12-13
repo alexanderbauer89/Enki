@@ -1,0 +1,25 @@
+test.on('uncaughtException',
+function(err)
+{
+ console.error(
+'uncaught exception: ',
+                    err.stack
+|| err);
+
+ closeApp(function(err) {
+  if (err)
+    // error closing down
+
+
+  test.exit(1);
+ });
+
+});
+
+What event type is emitted by the test event emitter object?
+
+error
+uncaughtException
+eventFailure
+
+> uncaughtException
