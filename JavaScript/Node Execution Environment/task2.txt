@@ -1,0 +1,13 @@
+Which method is considered to be safer to use in the following case to retrieve a list of files chosen by a user?
+
+var path = "user input";
+child_process.???('ls', ['-l'
+, path], function(err, data) {
+    console.log(data);
+});
+
+execFiles
+spawn
+exec
+
+> spawn
