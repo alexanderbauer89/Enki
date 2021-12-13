@@ -1,0 +1,8 @@
+What does this refer to inside of a callback registered to listen to an event on an EventEmitter?
+
+event
+global
+The instance of EventEmitter
+window
+
+> The instance of EventEmitter
