@@ -1,0 +1,13 @@
+What does the following JS code return when ran?
+
+let str =
+"if(flag){2*8;} else{-2*8;}";
+let flag = false;
+let b = eval(str);
+
+NaN
+undefined
+-16
+16
+
+> -16
