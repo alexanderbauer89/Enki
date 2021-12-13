@@ -1,0 +1,7 @@
+The ??? method lets you invoke the method using an array as an argument whereas the ??? method require explicit parameters.
+
+.call
+.apply
+
+> .apply
+> .call
