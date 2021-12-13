@@ -1,0 +1,8 @@
+If you are using npm, where can you usually find the frozen versions of your packages?
+
+package.json
+yarn-shrinkwrap.json
+frozen-package.json
+npm-shrinkwrap.json
+
+> npm-shrinkwrap.json
