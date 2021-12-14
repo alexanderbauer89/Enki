@@ -1,0 +1,15 @@
+Fill in the class definition below such that the log statements at the end of the snipped hold true.
+
+??? ??? {
+  ???(width, length) {
+   ???.width = ???
+   ??? = length
+  }
+}
+
+const myRec = ??? Rectangle(
+20, 30)
+console.log(myRec.width)
+// 20
+console.log(myRec.length)
+// 30
