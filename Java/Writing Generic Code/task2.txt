@@ -1,0 +1,20 @@
+Declare a generic method that only takes Lists of subclasses of Dog:
+
+public <???>
+    ??? pet(List<???> dogs)
+  {
+    for(Dog d : dogs){
+        d.pet();
+    }
+ }
+
+int
+T extends Dog
+T
+void
+E
+List<Dog>
+
+> T extends Dog
+> void
+> T
