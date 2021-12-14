@@ -1,0 +1,7 @@
+The ??? converts binary code to native code.
+
+Java Virtual System
+Java Virtual Machine
+Virtual Java Environment
+
+> Java Virtual Machine
