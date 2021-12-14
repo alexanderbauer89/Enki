@@ -1,0 +1,9 @@
+Create a new instance of BasicFileAttributes class:
+
+BasicFileAttributes attrs =
+???
+ .???(path,
+ BasicFileAttributes.class);
+
+> Files
+> readAttributes
