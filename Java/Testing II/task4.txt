@@ -1,0 +1,8 @@
+Trigger a left mouse button click using the Robot class:
+
+Robot robot = new Robot();
+robot.???(
+    InputEvent.???);
+
+> mousePress
+> BUTTON1_MASK
