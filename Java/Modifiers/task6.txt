@@ -1,0 +1,8 @@
+To achieve encapsulation, fields in a class should be declared
+
+static
+final
+public
+private
+
+> private
