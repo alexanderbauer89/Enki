@@ -1,0 +1,8 @@
+What annotation should be used to suppress warnings about deprecated methods?
+
+@???(
+    "???"
+);
+
+> SupressWarnings
+> deprecation
