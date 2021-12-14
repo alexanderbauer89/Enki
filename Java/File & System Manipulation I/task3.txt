@@ -1,0 +1,10 @@
+Obtain a DirectoryStream collection:
+
+Path dir = Paths.("path/dir");
+???<Path> stream =
+    ???
+   .???;
+
+> DirectoryStream
+> Files
+> newDirectoryStream(dir)
