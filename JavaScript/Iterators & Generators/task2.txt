@@ -1,0 +1,8 @@
+Fill in the following code expressing the iteration protocol in JavaScript:
+
+Iterator {
+    ???(): {???}
+}
+
+> next
+> value,
