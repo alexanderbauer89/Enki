@@ -1,0 +1,6 @@
+Display all Java VM parameters:
+
+??? ???
+
+> jps
+> -v
