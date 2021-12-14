@@ -1,0 +1,34 @@
+What function holds the functionality of a thread?
+
+???
+
+What function ensures concurrent workflow of a thread?
+
+???
+
+Is an instance of a runnable class considered to be a thread?
+
+???
+
+Should a runnable object be passed to an instance of a Thread class?
+
+???
+
+What is the best practice for Overriding the start() function?
+
+???
+
+No
+run()
+Not overriding it at all
+create()
+It does not matter
+Yes
+start()
+Override it with the intended functionality of a thread
+
+> run()
+> start()
+> No
+> Yes
+> Not overriding it at all
