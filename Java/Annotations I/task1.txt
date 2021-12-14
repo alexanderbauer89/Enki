@@ -1,0 +1,15 @@
+Can we have a 2D array as a method type in an annotation?
+
+???
+
+What is a marker annotation?
+
+???
+
+Yes
+Annotation with no elements
+Annotation with a single element
+No
+
+> No
+> Annotation with no elements
