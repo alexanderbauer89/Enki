@@ -1,0 +1,16 @@
+What comparison is considered to be more efficient?
+
+// 1
+int x = 4;
+int y = 4;
+bool compare1 = x == y;
+
+//2
+Integer a = new Integer(4);
+Integer b = new Integer(4);
+bool compare2 = a.equals(b);
+
+compare1
+compare2
+
+> compare1
