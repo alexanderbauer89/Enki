@@ -1,0 +1,20 @@
+Consider the following object:
+
+const obj = {};
+obj[Symbol("enki")] = "hello"l
+
+Which of the following code snippets will return an array of all the symbol properties found?
+
+1. Object.getOwnPropertySymbols(obj)
+2. Object.keys(obj)
+3. for(var i in obj)
+   { console.log(o)}
+4. JSON.stringify(obj)
+
+none
+3
+2
+4
+1
+
+> 1
