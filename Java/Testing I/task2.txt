@@ -1,0 +1,9 @@
+To test for a boolean value, what assertion method should be used?
+
+assertEquals
+assertBool
+assertTrue
+assert
+assertBoolean
+
+> assertTrue
