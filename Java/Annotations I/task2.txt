@@ -1,0 +1,16 @@
+Where will EnkiAnn be available to access?
+
+???
+
+What should the value of a RetentionPolicy be in order for an annotation to be seen only in the source code?
+
+???
+
+At runtime
+Inside the source code only
+At compilation time only but not when the program runs
+The RetentionPolicy should not be specified
+RetentionPolicy.SOURCE
+
+> At runtime
+> RetentionPolicy
