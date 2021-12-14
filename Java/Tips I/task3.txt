@@ -1,0 +1,8 @@
+Which stream does System.err print to?
+
+Input stream
+Error stream
+Music stream
+Output stream
+
+> Error stream
