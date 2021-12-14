@@ -1,0 +1,10 @@
+Complete the snippet such that the test expects an IOException and has a timeout of 900ms:
+
+@???(
+ ??? = IOException.
+class,
+ ??? = 900);
+
+> Test
+> expected
+> timeout
