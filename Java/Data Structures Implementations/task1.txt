@@ -1,0 +1,7 @@
+What is hashing?
+
+Concept of rewriting methods in a subclass if they already exist in a parent class.
+Concept of encoding an arbitrary data into a fixed size number in a unique way.
+Specific order of inheritance from multiple classes.
+
+> Concept of encoding an arbitrary data into a fixed size number in a unique way.
