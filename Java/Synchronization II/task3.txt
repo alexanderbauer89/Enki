@@ -1,0 +1,6 @@
+Complete the following code snippet to handle interrupt signals:
+
+try { Thread.sleep(1000); }
+catch(??? e) {}
+
+> InterruptedException
