@@ -1,0 +1,20 @@
+Why won't the following code snippet compile?
+
+public class Person {
+    private String name;
+    public Person(String name){
+      this.name = name;
+    }
+}
+public class Company {
+  Person p = new Person("Alex"
+);
+  System.out.println(p.name);
+}
+
+Field name of Person is private and cannot be accessed from Company.
+this keyword is wrongly used.
+p.name shouldn't be a String.
+p is not instantiated correctly.
+
+> Field name of Person is private and cannot be accessed from Company.
