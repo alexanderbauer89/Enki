@@ -1,0 +1,7 @@
+JNDI API has access to
+
+classes bytecode.
+multiple naming and directory services.
+network statistics.
+
+> multiple naming and directory services.
