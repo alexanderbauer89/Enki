@@ -1,0 +1,8 @@
+What is the highest class synchronization pattern?
+
+Monitor
+Mutex
+Semaphore
+Lock
+
+> Monitor
