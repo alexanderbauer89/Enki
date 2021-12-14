@@ -1,0 +1,12 @@
+What will be the value of result?
+
+result = String.format(
+    "%2$s %3$s %1$s",
+    "a",
+    "b",
+    "c"
+);
+
+// result = ???
+
+> bca
