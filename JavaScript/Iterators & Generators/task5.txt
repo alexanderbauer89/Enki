@@ -1,0 +1,16 @@
+Fill in the missing gaps of the following generator function:
+
+??? myGenerator() {
+    ??? 5;
+}
+
+const gen = myGenerator();
+gen.next();
+// {value: 5, done: false}
+gen.???;
+// {value: undefined, done:
+true}
+
+> function*
+> yield
+> next()
