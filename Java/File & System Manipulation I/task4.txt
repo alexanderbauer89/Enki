@@ -1,0 +1,8 @@
+Complete the code snippet below with the missing class such that the code works.
+
+Iterable<Path> myDir =
+???
+  .getDefault().
+getRootDirectories();
+
+> FileSystems
