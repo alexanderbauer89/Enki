@@ -1,0 +1,7 @@
+Set up remote monitoring with JConsole:
+
+jconsole ???:
+???
+
+> hostname
+> port
