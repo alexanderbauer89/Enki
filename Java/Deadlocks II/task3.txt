@@ -1,0 +1,9 @@
+What condition is not necessary for a deadlock to occur?
+
+process that is holding a resource can acquire further resources
+only one process at a time can use the resource
+none of the options listed
+at least two processes each waiting for each others resources
+resources are only freed after a process has finished executing
+
+> none of the options listed
