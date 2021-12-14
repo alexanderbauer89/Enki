@@ -1,0 +1,8 @@
+Which of the following statements about promises do you consider false?
+
+Promises will block the execution thread of your application
+Promises were available before standard JavaScript implementation via third-party libraries
+Promises tend to be more useful in complex scenarios where callback get out of control
+Promises are used for asynchronous operations
+
+> Promises will block the execution thread of your application
