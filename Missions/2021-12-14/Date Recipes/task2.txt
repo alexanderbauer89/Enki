@@ -1,0 +1,11 @@
+What will the following code snippet print?
+
+let date = new Date(2016, 1, 5
+;
+console.log(date);
+// Tue ??? ???
+ 2016
+ // 00:00:00 GMT -700
+
+ > Feb
+ > 5
