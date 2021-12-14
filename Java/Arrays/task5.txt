@@ -1,0 +1,16 @@
+Why are arrays more memory efficient?
+
+???
+
+How do you declare an ArrayList of type int?
+
+???
+
+Elements in array can only be accessed by index
+They don't store any additional information such as next element pointer
+You can't declare an ArrayList of primitive type like int
+They are of a fixed length
+ArrayList<int> arrList = new ArrayList<>();
+
+> They don't store any additional information such as next element pointer
+> You can't declare an ArrayList of primitive type like int
