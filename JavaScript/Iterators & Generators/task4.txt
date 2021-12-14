@@ -1,0 +1,8 @@
+Can an iterator work with any sequence of items?
+
+Yes
+Only numbers
+Only objects
+All apart from strings
+
+> Yes
