@@ -1,0 +1,8 @@
+Create the following promise to represent an error:
+
+return Promise.???(
+    new ???('Boo! :o')
+)
+
+> reject
+> Error
