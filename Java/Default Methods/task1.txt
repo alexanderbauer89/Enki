@@ -1,0 +1,13 @@
+Add a new method to an interface without breaking classes implementing it:
+
+public interface Move{
+  public void byCar(){}
+  public void byAirplane(){}
+  ??? ???
+byWalking(){
+  // default implementation
+ }
+}
+
+> default
+> void
