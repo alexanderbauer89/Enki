@@ -1,0 +1,8 @@
+Which method is more precise than currentTimeMillis() when calculating absolute timing?
+
+timeMillis()
+nanoTime()
+currentNanoMillis()
+nanoMillis()
+
+> nanoTime()
