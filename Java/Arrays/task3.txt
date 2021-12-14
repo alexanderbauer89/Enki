@@ -1,0 +1,7 @@
+Delcare an array of 8 arrays, each of length 4:
+
+int array[][]=new int[
+???][???]
+
+> 8
+> 4
