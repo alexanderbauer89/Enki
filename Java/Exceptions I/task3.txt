@@ -1,0 +1,8 @@
+The two types of exceptions are
+
+runtime & checked
+compiled & runtime
+checked & unchecked
+compiled & unchecked
+
+> checked & unchecked
