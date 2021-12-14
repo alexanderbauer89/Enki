@@ -1,0 +1,11 @@
+What will the value of sum be for the given input?
+
+3 5 test 6
+
+14
+8test6
+8
+14test
+NumberFormatException
+
+> 14
