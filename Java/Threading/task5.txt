@@ -1,0 +1,8 @@
+What does join() method do?
+
+It frees all the resources that the current thread is holding.
+It pauses all the threads in a queue.
+It pauses execution of a thread for a certain time.
+It waits until a thread finished executing.
+
+> It waits until a thread finished executing.
