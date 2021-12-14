@@ -1,0 +1,11 @@
+Create a new directory using a helper class introduced with the nio package:
+
+Path dir = Paths.get("path");
+???
+
+File.createDirectory(dir);
+Files.createDirectory(dir);
+Paths.createDirectory("path");
+Path.createDirectory(dir);
+
+> Files.createDirectory(dir);
