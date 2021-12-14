@@ -1,0 +1,8 @@
+On what algorithm is Garbage Collection based?
+
+Dijkstra
+Depth-first
+Breath-first
+Mark-and-Sweep
+
+> Mark-and-Sweep

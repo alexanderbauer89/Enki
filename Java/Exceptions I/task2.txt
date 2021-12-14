@@ -1,0 +1,13 @@
+Complete the code to create a custom Exception:
+
+public ??? New Exception
+  ??? Exception {
+  public NewException(String
+ message) {
+    super(message);
+  }
+  // ...
+}
+
+> class
+> extends

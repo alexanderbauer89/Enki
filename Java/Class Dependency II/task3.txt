@@ -1,0 +1,8 @@
+A copy constructor provides a simpler and safer way to create a copy of an object than using what method?
+
+construct()
+constructor()
+clone()
+duplicate()
+
+> clone()

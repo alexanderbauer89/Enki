@@ -1,0 +1,8 @@
+The method that creates a new object is called
+
+instantiator
+class
+constructor
+newObject
+
+> constructor

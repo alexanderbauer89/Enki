@@ -1,0 +1,6 @@
+Java has ??? types.
+
+static
+dynamic
+
+> static

@@ -1,0 +1,8 @@
+What class is toString() method inherited from?
+
+Object
+String
+Field
+JavaObj
+
+> Object

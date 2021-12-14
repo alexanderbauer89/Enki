@@ -1,0 +1,7 @@
+Which of the following does short-circuiting not prevent?
+
+Run-time errors
+Expensive calculations
+Exceptions being thrown
+
+> Exceptions being thrown

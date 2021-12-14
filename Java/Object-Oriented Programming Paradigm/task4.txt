@@ -1,0 +1,14 @@
+What is the output of the following snippet?
+
+FamilyCar fCar = new FamilyCar(
+   "newFamilyCar", "31G3G",
+   "beige", 4, 5);
+fCar.start();
+// ???
+
+The 5 seat car starts!
+The car starts!
+The turbocharged car starts!
+The 5 door car starts!
+
+> The 5 seat car starts!

@@ -1,0 +1,13 @@
+What does the following code snippet do?
+
+public class Enki {
+  private static int x;
+  public Enki() {
+    x++;
+  }
+}
+
+Keeps count of something in an instance of a class.
+Keeps count of something across all instances of a class.
+
+> Keeps count of something across all instances of a class.

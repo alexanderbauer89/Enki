@@ -1,0 +1,7 @@
+Complete the snippet with the function's correct type:
+
+public ??? test() {
+  System.out.println("test");
+}
+
+> void

@@ -1,0 +1,8 @@
+Which of the following is an example of a method that takes an interface as argument?
+
+Arrays.sort()
+Collections.sort()
+List.add()
+UserDefinedFileAttributeView.read()
+
+> Collections.sort()

@@ -1,0 +1,23 @@
+Which of the following Java code snippets is most efficient and illustrates the correct use of a Diamond Operator?
+
+// Example A
+Map<String, List<Integer>>
+  map =
+  new HashMap<String, List<
+  Integer>>();
+  
+// Example B
+Map<String, List<Integer>>
+  map =
+  new HashMap<()>;
+  
+// Example C
+Map<String, List<Integer>>
+  map =
+   new HashMap<>();
+   
+Example B
+Example A
+Example C
+
+> Example C

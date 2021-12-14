@@ -1,0 +1,27 @@
+What would the following snippet print to the console?
+
+public class Person {
+  public static String
+ lastPerson;
+  public String name;
+  public Person(name) {
+    this.name = name;
+    this.lastPerson = name;
+  }
+}
+
+Person john = new Person(
+"John");
+Person sam = new Person("Sam")
+;
+
+System.out.println(john.
+lastPerson);
+// ???
+
+SamJohn
+Sam
+JohnSam
+John
+
+> Sam

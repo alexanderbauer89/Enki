@@ -1,0 +1,8 @@
+What do you have to do to use a public class from another package?
+
+Write a getter.
+Extend the class.
+Nothing.
+Import that package.
+
+> Import that package.

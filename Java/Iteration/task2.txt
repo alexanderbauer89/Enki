@@ -1,0 +1,9 @@
+Complete the following code snippet using double brace initialization to create an anonymous class derived fromt he initial specified class:
+
+new ArrayList<String>()
+???
+  ???("Enki!");
+}};
+
+> {{
+> add

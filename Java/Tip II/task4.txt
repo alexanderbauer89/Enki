@@ -1,0 +1,19 @@
+What will this snippet output?
+
+public void foo(Person per){
+  per.setName("Tom");
+  per = new Person("Mike");
+  per.SetName("Anna");
+}
+Person p = new Person("John");
+foo(p);
+System.out.println(p.getName())
+;
+// ???
+
+John
+Anna
+Tom
+Mike
+
+> Tom

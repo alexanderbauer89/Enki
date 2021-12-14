@@ -1,0 +1,7 @@
+Which of the following is not an advantage of using the final keyword:
+
+The compiler and VM can optimize the code.
+The values of final variables cannot be accidentally changed.
+It allows classes, where final has been used, to be extended to prevent code reptition.
+
+> It allows classes, where final has been used, to be extended to prevent code reptition.

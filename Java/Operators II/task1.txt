@@ -1,0 +1,11 @@
+How would you rewrite this code using shorthand notation?
+
+int i = 0;
+i = i + 1;
+int j = i;
+
+int j = i++
+int j = ++i
+int j = i + 1
+
+> int j = ++i

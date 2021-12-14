@@ -1,0 +1,8 @@
+What type of programming language is Java considered to be?
+
+functional
+object-oriented
+esoteric
+quantum
+
+> object-oriented

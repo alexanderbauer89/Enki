@@ -1,0 +1,8 @@
+To concatenate two strings, the operator + is used.
+
++
+,
+-
+++
+
+> +

@@ -1,0 +1,26 @@
+Which of these comments best describe the purpose of the code?
+
+public BigDecimal addTax(
+BigDecimal cost) {
+ BigDecimal costWithTax =
+  cost + (cost * 0.2);
+ return costWithTax;
+}
+
+// A
+/*Adds a 20% VAT tax to the
+product's cost*/
+
+// B
+/*Takes a value as a parameter, increases
+it by 20% and returns that
+value*/
+
+// C
+/*Returns a tax value*/
+
+A
+B
+C
+
+> A

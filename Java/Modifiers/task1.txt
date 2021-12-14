@@ -1,0 +1,8 @@
+Which of the following modifiers makes a variable visible only to its enclosing class?
+
+protected
+private
+static
+public
+
+> private

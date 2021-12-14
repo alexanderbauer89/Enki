@@ -1,0 +1,15 @@
+Complete the following code such that it iterates over a while loop:
+
+List<String> enki = Arrays.
+asList(
+"enki", "is", "awesome");
+
+Iterator<String> enkIt =
+              enki.???();
+while (enkIt.???()){
+  System.out.println(enkIt.next
+());
+}
+
+> iterator
+> hasNext
