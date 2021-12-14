@@ -1,0 +1,11 @@
+Complete the following Java code snippet to convert the string into a date:
+
+String dateString =
+"31-07-1996";
+Date date = new
+ ???("dd-MM-yyyy")
+.???(dateString);
+
+
+> SimpleDateFormat
+> parse
