@@ -1,0 +1,8 @@
+What is tight coupling?
+
+A low-level of dependency between two classes
+A high-level of dependency inside the same class
+A high-level of dependency between two classes
+A low-level of dependency inside the same class
+
+> A high-level of dependency between two classes
