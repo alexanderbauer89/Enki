@@ -1,0 +1,18 @@
+Complete the following code to change your opinion:
+
+String myOpinion =
+"I love running in cold
+weather"                ;
+String oldOpinion = "love";
+String newOpinion = "hate";
+??? = myOpinion.replace(
+    oldOpinion, ???
+);
+
+oldOpinion
+newOpinion
+replaceOpinion
+myOpinion
+
+> myOpinion
+> newOpinion
