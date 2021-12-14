@@ -1,0 +1,8 @@
+What is serialization?
+
+None of the present options are true
+The way of converting information about an object into an array of bytes
+The way of making a class abstract
+The way of making a class non extendable
+
+> The way of converting information about an object into an array of bytes
