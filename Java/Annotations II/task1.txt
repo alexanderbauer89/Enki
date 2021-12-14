@@ -1,0 +1,7 @@
+Which opening tag does a Javadoc comment start with?
+
+//
+/**
+#
+
+> /**
