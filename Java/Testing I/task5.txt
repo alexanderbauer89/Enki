@@ -1,0 +1,8 @@
+In case you need a custom set up function for a single test in a set, you should
+
+annotate it with @BeforeAll
+define and call it as a normal method
+write a new test
+annotate it with @BeforeEach
+
+> define and call it as a normal method
