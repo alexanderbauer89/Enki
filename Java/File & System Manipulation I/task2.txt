@@ -1,0 +1,15 @@
+Complete the method to get all the files that contain enki in their name, on Desktop and in all other directories on Desktop:
+
+FileUtils.listFiles("~/Desktop"
+, new
+???,
+???);
+
+WildcardDirectoryFilter("*")
+WildcardFileFilter("enki")
+TrueFilter.ALL
+WildcardFileFilter("*enki*")
+TrueFileFilter.INSTANCE
+
+> WildcardFileFilter("enki")
+> TrueFileFilter.INSTANCE
