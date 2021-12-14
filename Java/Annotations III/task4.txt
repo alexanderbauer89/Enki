@@ -1,0 +1,12 @@
+Which of the two methods will raise a warning saying it is deprecated and should not be used?
+
+public void one() {};
+@Deprecated
+public void two() {};
+
+one()
+two()
+none
+both
+
+> two()
