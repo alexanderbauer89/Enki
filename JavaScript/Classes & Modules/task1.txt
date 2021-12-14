@@ -13,3 +13,11 @@ console.log(myRec.width)
 // 20
 console.log(myRec.length)
 // 30
+
+> class
+> Rectangle
+> constructor
+> this
+> width
+> this.length
+> new
