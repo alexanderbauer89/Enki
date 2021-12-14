@@ -1,0 +1,7 @@
+Which of the following statements is false about Symbols?
+
+Symbols are immutable
+Symbols can be used as constants
+Symbols can be overwritten
+
+> Symbols can be overwritten
