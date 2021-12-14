@@ -1,0 +1,8 @@
+What's the main advantage of using meaningful names for methods?
+
+Improves running times.
+Improves your code's readability.
+Bigger names are always better.
+Improves code compilation times.
+
+> Improves your code's readability.
