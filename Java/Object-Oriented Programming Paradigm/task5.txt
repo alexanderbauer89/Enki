@@ -1,0 +1,21 @@
+Which of the following lines of code is not valid?
+
+1. public class FamilyCar
+extends Car {}
+2. public class FamilyCar
+implements Car {}
+3. public class AmphibiousCar
+implements
+                           Car,
+Boat {}
+4. public class AmphibiousCar
+extends Car,
+                           Boat
+{}
+
+4
+1
+2
+3
+
+> 4
