@@ -1,0 +1,11 @@
+How can you condense two exceptions into a single multi-catch catch block?
+
+try {
+  // ...
+}
+catch(IOException ???
+SQLException e) {
+  // do something
+}
+
+> |
