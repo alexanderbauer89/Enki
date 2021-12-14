@@ -1,0 +1,22 @@
+What function should be Overriden in a custom thread?
+
+???
+
+What function should be called in order to concurrently start a thread?
+
+???
+
+Should a thread object be passed to an instance of a Thread class?
+
+???
+
+Yes
+No
+start()
+create()
+It does not matter
+run()
+
+> run()
+> start()
+> No
