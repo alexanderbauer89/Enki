@@ -1,0 +1,9 @@
+How do you expose a method from a module?
+
+// myModule.js
+
+??? function myFunc() {
+    // function code here
+}
+
+> export
