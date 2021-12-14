@@ -1,0 +1,7 @@
+Which method can we use to remove the surrounding white space in a string?
+
+indexOf()
+contains()
+trim()
+
+> trim()
