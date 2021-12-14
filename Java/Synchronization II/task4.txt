@@ -1,0 +1,7 @@
+To avoid creating threads which can be expensive, what framework can be used to process create and discard requests?
+
+Java Thread Manager Framework
+Java Executor Framework
+Java Process Framework
+
+> Java Executor Framework
