@@ -1,0 +1,6 @@
+Using Java 8's Oracle Nashorn engine run enki.js:
+
+??? ???
+
+> jjs
+> enki.js
