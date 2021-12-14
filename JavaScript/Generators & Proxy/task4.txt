@@ -1,0 +1,35 @@
+Fill in the gaps of the following snippet such that the logs stand true:
+
+const obj = {
+    enki: 'Enki'
+}
+console.log(obj.enki)
+// Enki
+
+const proxyFn = {
+    ???: () => ???
+}
+
+const proxy = ???(???,
+???)
+
+console.log(???.enki)
+// 42
+
+new Proxy
+enki
+proxy
+obj
+get
+42
+proxyFn
+Proxy
+Enki
+get()
+
+> get
+> 42
+> new Proxy
+> obj
+> proxyFn
+> proxy
