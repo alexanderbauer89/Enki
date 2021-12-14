@@ -1,0 +1,13 @@
+Fill in the missing gaps in the following function definition such that it can be used as an error-first callback function:
+
+function myCallback(error,
+ result) {
+  if(???) {
+   console.log('error', error)
+  }
+  console.log('result',
+  ???)
+ }
+
+ > error
+ > result
