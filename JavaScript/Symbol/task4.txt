@@ -1,0 +1,12 @@
+What special Symbol is used internally to implement the iteration protocol?
+
+let arr = ["a", "b", "c"];
+let it = arr[???.
+???]();
+console.log(it.next().value);
+// a
+console.log(it.next().value);
+// b
+
+> Symbol
+> iterator
