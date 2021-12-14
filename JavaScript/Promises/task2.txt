@@ -1,0 +1,22 @@
+Complete the missing words in the code such that the commented scenario stands true:
+
+const p = new ???(
+    (resolve, reject) => {
+     console.log('Hello');
+     setTimeout(() => {
+      ???(
+'...from Enki!');
+     }, 4000)
+   });
+
+p.???(res => {
+    console.log(res)
+})
+
+// log 'Hello'
+// wait 4 seconds
+// log '...from Enki!'
+
+> Promise
+> resolve
+> then
