@@ -1,0 +1,7 @@
+What lines in Thread2 should we swap to avoid a deadlock situation?
+
+lines 4 & 5
+lines 2 & 1
+lines 3 & 2
+
+> lines 2 & 1
