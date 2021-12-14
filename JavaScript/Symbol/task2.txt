@@ -1,0 +1,28 @@
+Fill in the gaps such that the logs are correct:
+
+const sym1 = Symbol.???(
+'enki')
+const sym2 = ???.for(???)
+
+console.log(sym1 === sym2)
+// true
+
+console.log(Symbol.???(sym1))
+// "enki"
+
+access
+sym2
+'enki'
+keyFor
+for
+"Enki"
+key
+Symbol
+new
+sym1
+get
+
+> for
+> Symbol
+> 'enki'
+> keyFor
