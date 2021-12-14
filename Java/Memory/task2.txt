@@ -1,0 +1,14 @@
+Stack memory is used to store ???, ???, and ???.
+
+Heap memory is used to store ???.
+
+references to objects stored in heap memory
+objects
+global variables
+method calls
+local variables
+
+> local variables
+> method calls
+> references to objects stored in heap memory
+> objects
