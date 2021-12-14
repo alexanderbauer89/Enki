@@ -1,0 +1,16 @@
+Create a new instance of UserPrincipal for the username tom:
+
+UserPrincipal owner =
+path.???
+.???
+.???;
+
+getUserPrincipalLookupService()
+getFileSystem()`
+getUserPrincipalLookupService("tom")
+lookupPrincipalByName("tom")
+lookupPrincipalByName()
+
+> getFileSystem()`
+> getUserPrincipalLookupService()
+> lookupPrincipalByName("tom")
