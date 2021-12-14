@@ -1,0 +1,7 @@
+Print the JavaSystem properties as name value pairs with the given process running on a 64 bit VM:
+
+jinfo ??? ???
+    PID
+
+> -J-d64
+> -sysprops
