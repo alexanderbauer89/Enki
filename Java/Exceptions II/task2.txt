@@ -1,0 +1,11 @@
+When using chained exceptions, it's useful to be able to find the cause of an exception using the following code:
+
+try {
+    ...
+}
+catch (Exception e) {
+    Throwable cause = e.
+???
+}
+
+> getCause()
