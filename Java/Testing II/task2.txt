@@ -1,0 +1,6 @@
+JUnit can test private methods by itself.
+
+True
+False
+
+> False
