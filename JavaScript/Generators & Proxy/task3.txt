@@ -1,0 +1,28 @@
+What will be the output of the following generator calls?
+
+function* myGen() {
+    while(true) {
+      try {
+       yield 'enki'
+      } catch(err) {
+        console.log('Error')
+      }
+   }
+}
+
+const g = myGen()
+g.next()
+// { value: 'enki', done:
+false }
+g.throw('abc')
+// ???
+// ???
+
+nothing
+{ value: 'enki', done: false}
+Error
+abc
+Error('abc')
+
+> Error
+> { value: 'enki', done: false}
