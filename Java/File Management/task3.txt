@@ -1,0 +1,21 @@
+You have the following code snippet:
+
+File f = new File(
+"usr/home/enki");
+if( ??? ){
+ try{
+    FileReader reader = new
+ FileReader(f);
+    ...
+ }catch(Exception e){}
+}
+
+How would you check if the file exists?
+
+f.toFile()
+!f.isDirectory()
+f.Exists()
+f.exists()
+!f.isFile()
+
+> f.exists()
