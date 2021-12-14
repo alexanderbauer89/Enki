@@ -1,0 +1,42 @@
+Given the following code snippet, what do you think will be the output of each method call?
+
+const p1 = new Promise(resolve
+ =>
+  setTimeout(() => resolve("a"
+), 5000)
+);
+const p2 = new Promise(resolve
+ =>
+  setTimeout(() => resolve("b"
+), 500)
+);
+const p3 = new Promise(resolve
+ =>
+  setTimeout(() => resolve("c"
+), 4000)
+);
+
+Promise.all([p1, p2, p3]).then
+(res =>
+    console.log(res)
+);
+// ???
+
+Promise.race([p1, p2, p3]).
+then(res =>
+  console.log(res)
+);
+// ???
+
+['b', 'a', 'c']
+'b'
+['a', 'c', 'b']
+['a', 'b', 'c']
+['c', 'b', 'a']
+['c', 'a', 'b']
+['b', 'c', 'a']
+'a'
+'c'
+
+> 'a', 'b', 'c'
+> 'b'
