@@ -1,0 +1,8 @@
+Which of the following statements about naming your callback functions do you consider false?
+
+they can minimise the memory used by your application
+they can make your code more intuitive
+they can help you avoid callback hell
+they make your code more readable
+
+> they can minimise the memory used by your application
