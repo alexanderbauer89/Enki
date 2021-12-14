@@ -1,0 +1,21 @@
+Fill in the missing gaps such that the next() calls' output stand true:
+
+??? myGen() {
+    ??? 4;
+    ??? [3,1];
+}
+
+let x = myGen();
+x.next();
+// { value: 4, done: false }
+x.next();
+// { value: 3, done: false }
+x.next();
+// { value: 1, done: false }
+x.next();
+// { value: undefined, done:
+true}
+
+> function*
+> yield
+> yield*
