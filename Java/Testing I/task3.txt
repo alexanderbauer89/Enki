@@ -1,0 +1,8 @@
+Complete the code below such that the test expects the specified error to be thrown:
+
+???( ??? =
+    FileNotFoundException.class)
+;
+
+> @Test
+> expected
