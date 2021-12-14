@@ -1,0 +1,17 @@
+What is <?> equivalent to?
+
+???
+
+Suppose we have class A and class B extends A.
+Considering the B is a subtype of A, is List<B> a subtype of List<A>?
+
+???
+
+Yes
+No
+<? super Object>
+<? extends Object>
+In this case we can not tell
+
+> <? extends Object>
+> No
