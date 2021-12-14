@@ -1,0 +1,6 @@
+Complete the following code snippet to set the value of the field to 10:
+
+intField.???(myObj, 10)
+;
+
+> setInt
