@@ -1,0 +1,8 @@
+Complete the snippet to initialize a list:
+
+List<String> enki =
+    ???.???(
+    "enki", "is", "cool" );
+
+> Arrays
+> asList
