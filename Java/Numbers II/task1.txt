@@ -1,0 +1,9 @@
+Check if the value of x is NaN:
+
+double x = 13.0/0;
+???.???(
+???);
+
+> Double
+> isNaN
+> x
