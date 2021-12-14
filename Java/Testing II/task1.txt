@@ -1,0 +1,7 @@
+What should be prioritized when testing?
+
+code written by multiple developers
+trivial operations like getX()
+external databases
+
+> code written by multiple developers
