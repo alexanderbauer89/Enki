@@ -1,0 +1,38 @@
+Consider the following:
+
+class Engine {
+//not serializable
+    private int
+numberOfCilinders;
+    private int volumeInLitres
+;
+    private String model;
+    ...
+}
+
+class Car implements
+Serializable {
+    private String model;
+    private Engine engine;
+    private int topSpeed;
+    ...
+}
+
+Is class Car serializable and if not why?
+
+???
+
+What could be done to Car in order to avoid the above problem?
+
+???
+
+Engine should be marked as public
+No, Car doesn't implement the necessary interface
+Car should implement clonable interface
+No, Car doesn't inherit form a serializable class
+Yes, Car is serializable
+Engine should be marked as transient
+No, Car has a non serializable field
+
+> No, Car has a non serializable field
+> Engine should be marked as transient
