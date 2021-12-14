@@ -1,0 +1,8 @@
+Collect CPU usage information from the compiler using HPROF:
+
+java -agentlib:???
+    =cpu=???
+example.java
+
+> hprof
+> samples
