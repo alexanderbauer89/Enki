@@ -1,0 +1,14 @@
+What would be the result of the following code?
+
+String s =
+"Check out this cat, my cat,
+the best cat really"         ;
+int index = s.indexOf("cat");
+//index: ???
+
+30
+15
+0
+24
+
+> 15
