@@ -1,0 +1,6 @@
+What would be the return value of the following method:
+
+"beautiful".substring(4, 6);
+// ???
+
+> ti
