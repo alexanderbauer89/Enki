@@ -1,0 +1,8 @@
+What can Promises do compared to callbacks?
+
+call your callback more frequently
+call your callback earlier
+cancel execution
+maintain control over execution flow
+
+> maintain control over execution flow
