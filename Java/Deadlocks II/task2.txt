@@ -1,0 +1,15 @@
+What is the concept of deadlock prevention?
+
+???
+
+What is a master lock?
+
+???
+
+A general single lock which is required by every process in order to run
+It is a lock that is acquired by a master process
+The key is to prevent a deadlock situation is to avoid one of the conditions necessary for it
+Hope it will not occur
+
+> The key is to prevent a deadlock situation is to avoid one of the conditions necessary for it
+> A general single lock which is required by every process in order to run
