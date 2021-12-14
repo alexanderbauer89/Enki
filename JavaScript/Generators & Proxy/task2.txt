@@ -1,0 +1,26 @@
+Fill in the missing output of the following code snippet:
+
+function* myGen() {
+ let toYield = 2;
+ while (true) {
+    const i = yield toYield;
+    if (i) {
+      toYield = i;
+    }
+  }
+}
+
+let z = myGen();
+z.next();
+// { value: ???
+, done: false}
+z.next(4);
+// { value: ???
+, done: false}
+z.next(3);
+// { value: ???
+, done: false}
+
+> 2
+> 4
+> 3
