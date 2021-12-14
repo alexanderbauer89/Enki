@@ -1,0 +1,8 @@
+Which one of the following classes is synchronized?
+
+Hashtable
+HashMap
+none
+both
+
+> Hashtable
