@@ -1,0 +1,16 @@
+Which of the following error message would be the most helpful?
+
+# A
+Error: Invalid argument
+
+# B
+Invalid age: -5
+
+# C
+Something went wrong
+
+C
+A
+B
+
+> B
