@@ -1,0 +1,7 @@
+When is a WeakHashMap entry taken by the garbage collector?
+
+After it has been used once.
+When it's empty.
+When the key's strong reference is set to be null.
+
+> When the key's strong reference is set to be null.
