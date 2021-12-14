@@ -1,0 +1,8 @@
+What is the keyword used when instantiating objects?
+
+build
+new*
+new
+static
+
+> new
