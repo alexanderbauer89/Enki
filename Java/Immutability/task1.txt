@@ -1,0 +1,13 @@
+Complete the following code such that the EnkiInterface interface will have a static method returning an int:
+
+public ???
+EnkiInterface {
+??? ???
+myStaticMethod(){
+    return 5;
+ }
+}
+
+> interface
+> static
+> int
