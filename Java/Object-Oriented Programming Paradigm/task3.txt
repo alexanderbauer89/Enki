@@ -1,0 +1,8 @@
+Where should the super() method be called in the constructor?
+
+It is not suppoed to be called in the constructor.
+As the last statement.
+Anywhere.
+As the first statement.
+
+> As the first statement.
