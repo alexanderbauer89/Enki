@@ -1,0 +1,16 @@
+What will be the output of the following statements?
+
+const sym1 = Symbol("enki");
+console.log(sym1);
+// ???
+
+console.log(typeof sym1);
+// ???
+
+const sym2 = Symbol("enki");
+console.log(sym1 === sym2);
+// ???
+
+> Symbol(enki)
+> "symbol"
+> false
