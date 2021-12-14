@@ -1,0 +1,7 @@
+If we pass a collection as well as other arguments to a function, where should the collection argument be passed?
+
+At the end of the argument list.
+It should be the first argument to be passed.
+The order of the arguments does not matter.
+
+> At the end of the argument list.
