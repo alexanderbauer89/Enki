@@ -1,0 +1,16 @@
+Which of the following is equivalent to the if statement below:
+
+int count;
+if (flag > 5) {
+ count = 2;
+} else {
+  count = 5;
+}
+
+int count = flag > 5 ? 2:5;
+int count = flag > 5 ? 5:2;
+int flag = count > 5 ? 5:2;
+int x = y > 5 ? 5/2;
+int count = flag > 5 ? 5/2;
+
+> int count = flag > 5 ? 2:5;
