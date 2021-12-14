@@ -1,0 +1,8 @@
+When multithreading, what type of variable should be used to prevent synchronization problems?
+
+threading variables
+class variables
+local variables
+instance variables
+
+> local variables
