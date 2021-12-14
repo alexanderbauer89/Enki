@@ -1,0 +1,36 @@
+Fill in the following promise definition such that the logs stand true:
+
+const p = new ???(
+    (resolve, reject) => {
+     ???('enki')
+    })
+    .???(res => console.log(
+ res))
+    .then(res => console.log(
+ 'says'))
+    .???(err => console.log(
+ 'hey'))
+    .??? => console.log(
+ 'hello'))
+// enki
+// says
+// hello
+
+catch
+next
+then (res
+Promise
+res
+reject
+then
+finally
+next(
+then()
+resolve
+catch()
+
+> Promise
+> resolve
+> then
+> catch
+> then (res
