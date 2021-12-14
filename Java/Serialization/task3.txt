@@ -1,0 +1,16 @@
+What is serialVersionUID?
+
+???
+
+What is the best practice for serialVersionUID declaration?
+
+???
+
+Custom declaration
+A random number
+Automatic declaration
+A specific number that is used upon deserializing an object
+It represents the number of static variables and methods in a serialized class
+
+> A specific number that is used upon deserializing an object
+> Custom declaration
