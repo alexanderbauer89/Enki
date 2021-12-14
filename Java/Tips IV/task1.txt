@@ -1,0 +1,8 @@
+What method can be used to get the timezone of the location where the program is running?
+
+TimeZone.getDefault()
+TimeZone.getTimeZone()
+TimeZone.getStandard()
+TimeZone.getLocalTimeZone()
+
+> TimeZone.getDefault()
