@@ -1,0 +1,8 @@
+jstack works the same as pressing Ctrl-break in the console window where a Java program is running,
+or by calling which two methods on each of the Thread objects in the VM?
+
+Thread.getAllStackTraces() and Thread.dumpStack()
+Thread.getStackTraces() and Thread.getDumpStack()
+Thread.stackTraces() and Thread.allDumpStack()
+
+> Thread.getAllStackTraces() and Thread.dumpStack()
