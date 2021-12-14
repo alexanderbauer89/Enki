@@ -1,0 +1,7 @@
+Complete the standard definition of a restricted annotation:
+
+@???(
+  ???.ELEMENT_TYPE);
+
+> Target
+> ElementType
