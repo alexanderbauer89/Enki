@@ -1,0 +1,8 @@
+What does Paths helper class do?
+
+Converts a Path object to a path String.
+Converts a path String to a Path object.
+Returns a path String to the local folder.
+Returns only a Path object to the user's home folder.
+
+> Converts a path String to a Path object.
