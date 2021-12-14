@@ -1,0 +1,8 @@
+In JUnit, code is tested with
+
+deep equal statements
+equal statements
+JUnit.testln() statements
+assertions
+
+> assertions
