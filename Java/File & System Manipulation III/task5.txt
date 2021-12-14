@@ -1,0 +1,8 @@
+Check if an optional's instance is not null:
+
+Optional<String>
+    myName = Optional.ofNullable
+( null );
+myName.???();
+
+> isPresent
