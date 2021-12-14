@@ -1,0 +1,9 @@
+Which two properties make two classes in a JVM the same class?
+
+Loaded by the same class loader, have the same qualified name.
+Same qualified name, same size.
+Loaded by the same class loader, same methods.
+Same qualified name, same compilation times.
+Loaded by the same class loader, same fields.
+
+> Loaded by the same class loader, have the same qualified name.
