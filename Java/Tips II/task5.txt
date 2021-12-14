@@ -1,0 +1,18 @@
+Complete the following snippet such that an enumeration is created:
+
+public ??? MyEnum ???
+    A, B, C
+???
+
+[
+(
+enumeration
+enum
+)
+}
+]
+{
+
+> enum
+> {
+> }
