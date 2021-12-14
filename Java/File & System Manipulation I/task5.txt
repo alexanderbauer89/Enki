@@ -1,0 +1,25 @@
+What does user.home return?
+
+???
+
+What does path.separator return?
+
+???
+
+What does file.separator return?
+
+???
+
+What does user.dir return?
+
+???
+
+returns user home directory
+user working directory
+path separator character
+character that separates components of a file path
+
+> returns user home directory
+> path separator character
+> character that separates components of a file path
+> user working directory
