@@ -1,0 +1,17 @@
+What is a lock?
+
+???
+
+What is the difference between a lock and a mutex?
+
+???
+
+mutex allows multiple processes to enter critical section
+synchronization mechanism that allows multiple thread to enter a critical section
+lock pauses execution of a program for a certain time in order for the system to free up the resources
+synchronization mechanism that allows a single thread to enter a critical section
+mutex can be accesses by processes while lock can only be accessed by threads
+mutex can be accesses by threads while lock can only be accessed by processes
+
+> synchronization mechanism that allows a single thread to enter a critical section
+> mutex can be accesses by processes while lock can only be accessed by threads
