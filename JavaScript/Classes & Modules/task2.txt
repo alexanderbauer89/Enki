@@ -1,0 +1,27 @@
+Given the class:
+
+class Utils {
+    static NotFound404() {
+      return new Error({
+        statusCode: 404,
+        message: "not found"
+      });
+    }
+}
+
+Which of the following method calls do you think is correct?
+
+throw Utils.NotFound404() //1
+throw (new Utils()).NotFound404
+() // 2
+throw new Utils().NotFound404()
+ // 3
+throw Utils().NotFound404()
+// 4
+
+3
+1
+2
+4
+
+> 1
