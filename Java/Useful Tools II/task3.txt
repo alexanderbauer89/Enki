@@ -1,0 +1,7 @@
+Dump the heap information into the practice.bin file:
+
+jmap ???:???=
+    practice.bin PID
+
+> -dump
+> file
