@@ -1,0 +1,8 @@
+Suppose the following annotation. Complete the snippet so it will be included in the JavaDoc.
+
+@???
+@Enki
+  String enki = "enki";
+}
+
+> Documented
