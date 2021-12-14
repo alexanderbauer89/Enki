@@ -1,0 +1,17 @@
+What property does an object in JavaScript need to have in order to be used in a for..of syntax:
+
+const x = {}
+x[???] = function() {...}
+
+for (const y of x) {
+    // iterate
+}
+
+@@it
+Iterator
+Symbol.iterator
+it
+Symbol()
+Symbol.match
+
+> Symbol.iterator
