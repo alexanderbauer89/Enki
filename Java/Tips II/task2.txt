@@ -1,0 +1,6 @@
+If portability is intended what java class is more reliable?
+
+StrictMath
+Math
+
+> StrictMath
