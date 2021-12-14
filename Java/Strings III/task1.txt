@@ -1,0 +1,9 @@
+What will be the value of enki string after the code snippet is ran?
+
+DecimalFormat myFormat =
+  new DecimalFormat("00000");
+String enki = myFormat.format(
+33);
+// enki = ???
+
+> 000333
