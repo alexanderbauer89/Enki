@@ -1,0 +1,9 @@
+The locking methods of a StampedLock return a stamp represented by a ??? value.
+
+int
+long
+char
+float
+String
+
+> long
