@@ -1,0 +1,7 @@
+Where should synchronized be in order for a method to work?
+
+before return type
+before access type
+before the name of the method
+
+> before return type
