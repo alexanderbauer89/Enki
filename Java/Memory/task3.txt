@@ -1,0 +1,10 @@
+Enable GC logging when running the java application:
+
+java -XX:+??? Enki
+
+GCLogging
+PrintGarbageCollection
+GCLog
+PrintGCDetails
+
+> PrintGCDetails
