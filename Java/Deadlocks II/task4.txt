@@ -1,0 +1,18 @@
+Why is this an unsafe state?
+
+A : 2k/10k
+
+B : 1k / 6k
+
+C : 2k / 5k
+
+D : 1k / 6k
+
+Free : 3k
+
+C will not run
+A will not run
+B will not run
+D will not run
+
+> A will not run
