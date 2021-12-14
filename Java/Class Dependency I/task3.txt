@@ -1,0 +1,8 @@
+What is a mutable object?
+
+An object that cannot be modified after instantiation.
+An object that can be modified after instantiation.
+An object with no methods.
+An object with no fields.
+
+> An object that can be modified after instantiation.
