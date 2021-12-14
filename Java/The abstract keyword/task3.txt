@@ -1,0 +1,7 @@
+Template methods are a good way to prevent
+
+compilation issues
+spelling mistakes
+code repetition
+
+> code repetition
