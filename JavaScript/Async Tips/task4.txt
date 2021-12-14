@@ -1,0 +1,14 @@
+How to prevent the shutdown to happen?
+
+let task = setTimeout(shutdown,
+ 5000);
+ if (confirm('cancel shutdown?')
+ ) {
+  ???
+ }
+
+ delete task;
+ task = null;
+ clearTimeout(task)
+
+ > clearTimeout(task)
