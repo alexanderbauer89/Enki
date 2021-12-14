@@ -1,0 +1,8 @@
+Which of the following statements is false about iterators?
+
+Iterators remember the position while iterating
+Iterators are special objects that go over a collection
+Iterators can be manually implemented
+Iterators work only on arrays
+
+> Iterators work only on arrays
