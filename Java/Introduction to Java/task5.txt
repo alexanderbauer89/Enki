@@ -1,0 +1,8 @@
+A ??? translate the Java code written by the programmer into bytecode.
+
+terminal
+compiler
+IDE
+virtual machine
+
+> compiler
