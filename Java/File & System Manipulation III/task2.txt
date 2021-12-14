@@ -1,0 +1,7 @@
+Print all class-level dependencies of enki.jar application:
+
+??? ??? enki.
+jar
+
+> jdeps
+> -v
