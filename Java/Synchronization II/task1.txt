@@ -1,0 +1,7 @@
+What is a thread safe way of accessing and updating variables without using locks or synchronized?
+
+instant variables
+atomic variables
+electronic variables
+
+> atomic variables
