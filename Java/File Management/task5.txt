@@ -1,0 +1,10 @@
+Use File class to delete a file:
+
+File.???;
+
+drop(path)
+delete(path)
+remove(path)
+rm(path)
+
+> delete(path)
