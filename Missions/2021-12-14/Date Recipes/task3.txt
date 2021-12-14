@@ -1,0 +1,12 @@
+Make hi run every 2 seconds:
+
+function hi(){
+    alert("Hi!");
+}
+var loop = ???
+    .???(hi,???)
+;
+
+> window
+> setInterval
+> 2000
