@@ -1,0 +1,18 @@
+Consider the following snippet:
+
+input = new FileReader(
+"infile.txt");
+int c;
+while ((c = input.read()) != -1
+) {
+    System.out.println(c);
+}
+
+What will be printed to the console?
+
+Nothing.
+c as a String.
+c as a character.
+c ASCII value.
+
+> c ASCII value.
