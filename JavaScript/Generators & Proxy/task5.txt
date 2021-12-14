@@ -1,0 +1,32 @@
+Fill in the gaps such that log statements hold true:
+
+const rev = ???.???({}, {
+    ???: () => 42
+});
+
+const proxy = rev.???;
+console.log(proxy.enki)
+// 42
+
+???.???()
+console.log(proxy.enki)
+// TypeError
+
+get()
+try
+revocable
+new Proxy
+throw
+get
+revoke
+proxy
+Proxy
+rev
+catch
+
+> Proxy
+> revocable
+> get
+> proxy
+> rev
+> revoke
