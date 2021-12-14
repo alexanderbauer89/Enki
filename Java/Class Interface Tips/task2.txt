@@ -1,0 +1,7 @@
+What's the name of the process where a method is redefined after being taken from a parent class?
+
+Overriding
+Overloading
+Inheriting
+
+> Overriding
