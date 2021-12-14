@@ -1,0 +1,11 @@
+What method from the Process class,
+introduced in Java8 should be used to
+terminate a process?
+
+end
+destroyForcibly
+terminate
+exit
+destroy
+
+> destroyForcibly
