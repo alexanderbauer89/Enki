@@ -1,0 +1,8 @@
+A pager utility that allows you to scroll and search through a stream of output, alternative to more, is
+
+less
+cut
+awk
+grep
+
+> less
