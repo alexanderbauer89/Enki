@@ -1,0 +1,8 @@
+jnettop and nettop are tools used to
+
+enable and disable ports
+count hops to the remote
+monitor traffic
+verify how the DNS resolves
+
+> monitor traffic
