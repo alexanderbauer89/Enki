@@ -1,0 +1,22 @@
+Alias the following connection:
+
+ssh -i ~/.ssh/id_rsa
+    root@123.12.255.19 -p 256
+
+In the .ssh/config file:
+
+Host myServer
+??? ~/.ssh/id_rsa
+HostName ???
+User root
+??? 256
+
+IdentityFile
+123.12.255.19
+ID
+Port
+Name
+
+> IdentityFile
+> 123.12.255.19
+> Port
