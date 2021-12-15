@@ -1,0 +1,7 @@
+To change the owner of a file using chown you need to
+
+have root access
+have read permissions for the file
+be the owner of the file
+
+> have root access
