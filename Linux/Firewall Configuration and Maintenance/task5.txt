@@ -1,0 +1,8 @@
+Which of the following commands will be a service-like way to stop iptables?
+
+disable iptables.service
+iptables -R DROP
+stop iptables.service
+service iptables stop
+
+> service iptables stop
