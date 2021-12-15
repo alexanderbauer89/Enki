@@ -1,0 +1,11 @@
+Using aptitude, prevent the enki package from updating:
+
+??? ??? enki
+
+stop
+apt-get
+hold
+aptitude
+
+> aptitude
+> hold
