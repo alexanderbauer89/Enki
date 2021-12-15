@@ -1,0 +1,7 @@
+The fail2ban service looks through logs and bans IP that
+
+made too many requests
+had too many failed log in attempts
+were inactive for too long
+
+> had too many failed log in attempts
