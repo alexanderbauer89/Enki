@@ -1,0 +1,17 @@
+The usual syntax to use a SSH tunnel is:
+
+??? ??? \
+ ??? \
+ ???
+
+port:host:hostport
+-L
+username@ssh_server
+port:host
+ssh
+-t
+
+> ssh
+> -L
+> port:host:hostport
+> username@ssh_server
