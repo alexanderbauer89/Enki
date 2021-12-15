@@ -1,0 +1,10 @@
+Complete the following command line snippet to download the picture using curl, outputing to a cat.jpg file:
+
+??? ???
+???
+https://catpictures.com/
+cat1.jpg
+
+> curl
+> -o
+> cat.jpg
