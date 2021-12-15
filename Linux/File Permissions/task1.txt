@@ -1,0 +1,8 @@
+You can target all groups when setting permissions with the a symbol.
+
+a
+go
+@
+all
+
+> a
