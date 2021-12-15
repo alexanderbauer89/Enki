@@ -1,0 +1,13 @@
+Delete the contents of old_log_file :
+
+??? ??? > ???
+
+touch
+rm
+cat
+/dev/null
+old_log_file
+
+> ca
+> /dev/null
+> old_log_file
