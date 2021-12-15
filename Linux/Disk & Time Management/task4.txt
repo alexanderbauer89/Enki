@@ -1,0 +1,14 @@
+Change the system's timezone:
+
+??? ??? ???
+
+dpkg
+tzdata
+reconfigure
+tz
+sudo
+dpkg-reconfigure
+
+> sudo
+> dpkg-reconfigure
+> tzdata
