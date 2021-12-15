@@ -1,0 +1,9 @@
+In contrast to ps, top displays processes
+
+of all users
+only owned by the current user
+sorted by memory usage
+in real time
+as a snapshot
+
+> in real time
