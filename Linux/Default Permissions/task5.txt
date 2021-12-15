@@ -1,0 +1,12 @@
+Make enki file unalterable:
+
+sudo ??? ??? enki
+
+-R
+-i
++i
+chattr
+-Ri
+
+> chattr
+> +i
