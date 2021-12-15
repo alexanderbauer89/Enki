@@ -1,0 +1,9 @@
+Run a local script on a user@server machine:
+
+??? ???
+'bash -s'
+    ??? enki.sh
+
+> ssh
+> user@server
+> <
