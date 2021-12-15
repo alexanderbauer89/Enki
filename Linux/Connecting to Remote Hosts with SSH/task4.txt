@@ -1,0 +1,8 @@
+You can decode .mp3 in terminal with ??? package.
+
+music
+mplay
+mpg321
+sound
+
+> mpg321
