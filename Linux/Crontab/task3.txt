@@ -1,0 +1,11 @@
+Make enki.py file executable:
+
+??? ??? enki.py
+
+chmod
++x
+-x
+chch
+
+> chmod
+> +x
