@@ -1,0 +1,10 @@
+Replace the first apparition of apple in each line by orange:
+
+??? '???
+??? ???'
+ fruits.txt
+
+> sed
+> s/
+> apple/
+> orange/
