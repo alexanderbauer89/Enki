@@ -1,0 +1,11 @@
+How would you list all environment variables` values?
+
+???
+
+$ALL
+$PATH
+$VARS
+vars
+env
+
+> env
