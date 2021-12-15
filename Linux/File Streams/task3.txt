@@ -1,0 +1,20 @@
+Consider enki.txt file:
+
+Linux/Data Manipulation/cut
+command
+JavaScript/Core/Prototype
+Java/Fundamentals/Inheritance
+
+Print the subtopic name using cut:
+
+cut ??? ??? ???
+
+enki.txt
+-d"/"
+-f1
+-d" "
+-f2
+
+> -d"/"
+> -f2
+> enki.txt
