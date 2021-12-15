@@ -1,0 +1,13 @@
+Which argument will be retrieved after pressing Alt + . twice?
+
+cd /documents/enki
+cat chapter1.txt chapter2.txt
+
+rm ???
+
+chapter2.txt
+/documents/enki
+chapter1.txt chapter2.txt
+chapter1.txt
+
+> /documents/enki
