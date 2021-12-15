@@ -1,0 +1,11 @@
+Search in the home directory for files that contain happy in their title:
+
+??? ??? -type
+  ??? ???
+???
+
+> find
+> ~
+> f
+> -name
+> "*happy*"
