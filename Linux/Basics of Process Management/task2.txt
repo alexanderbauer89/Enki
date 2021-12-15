@@ -1,0 +1,20 @@
+In the following extract of a tree representation of processes, which process launched pstree?
+
+pstree
+systemd-|-ModemManager-|-{gdbus
+}
+        |
+|_{gdmain}
+        |_konsole--
+bash-|-pstree
+     |
+|
+-{QXcbEventReader}
+
+konsole
+ModemManager
+QXcbEventReader
+bash
+systemd
+
+> bash
