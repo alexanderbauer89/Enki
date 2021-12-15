@@ -1,0 +1,9 @@
+Say team directory belongs to group enki and has setgid permission enabled.
+
+If a user of group test creates a new file in that directory, which group will own the file?
+
+enki
+both groups
+test
+
+> enki
