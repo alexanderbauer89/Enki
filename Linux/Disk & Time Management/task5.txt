@@ -1,0 +1,12 @@
+Sync the system time with the 0.uk.pool.ntp.org server :
+
+??? ???
+ 0.uk.pool.ntp.org
+
+-f
+-gq
+ntpd
+ntupdate
+
+> ntpd
+> -gq
