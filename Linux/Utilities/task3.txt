@@ -1,0 +1,9 @@
+Use the convert command to resize the height of enki.png to 200 and rename it newEnki.jpg:
+
+??? enki.png
+??? ???
+newEnki.jpg
+
+> convert
+> -resize
+> x200
