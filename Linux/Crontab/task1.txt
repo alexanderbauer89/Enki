@@ -1,0 +1,8 @@
+Setup cron to run myScript.py every Saturday at 8:00pm and 10:00pm :
+
+??? ??? * *
+??? myScript.py
+
+> 00
+> 20,22
+> 6
