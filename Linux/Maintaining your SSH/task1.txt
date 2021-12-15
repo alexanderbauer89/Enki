@@ -1,0 +1,6 @@
+Complete the following code snippet such that, by running it, a SSH rsa key pair is generated:
+
+??? -t ???
+
+> ssh-keygen
+> rsa
