@@ -1,0 +1,7 @@
+Which of the following is an alternate description of what setuid does?
+
+It gives root privileges over the file to all other users.
+It allows users to run an executable with the permissions of the file's owner.
+It gives elevated privileges over the file to all other users in a specific group.
+
+> It allows users to run an executable with the permissions of the file's owner.
