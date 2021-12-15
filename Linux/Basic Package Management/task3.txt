@@ -1,0 +1,9 @@
+The missing dependencies error thrown by dpkg can be fixed by:
+
+??? ??? \
+ ??? ???
+
+> sudo
+> apt-get
+> install
+> -f
