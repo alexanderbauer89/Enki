@@ -1,0 +1,9 @@
+Complete the following command to delete kernels older than the current one :
+
+??? ???
+???
+ linux-image-x.x-x-generic
+
+> sudo
+> apt-get
+> purge
