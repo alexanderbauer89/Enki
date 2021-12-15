@@ -1,0 +1,9 @@
+Add the user user to the group root:
+
+??? ???
+???
+    root user
+
+> usermod
+> --append
+> --groups
