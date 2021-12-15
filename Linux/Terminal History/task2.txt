@@ -1,0 +1,7 @@
+To reverse search for a tagged command you have to press
+
+Ctrl+R
+Ctrl+C
+Ctrl+H
+
+> Ctrl+R
