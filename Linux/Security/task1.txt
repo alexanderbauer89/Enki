@@ -1,0 +1,14 @@
+How do you change SELinux settings to only warn and log :
+
+??? ???
+
+set-enforce
+getenforce
+permissive
+setenforce
+logging
+warnings
+enforcing
+
+> setenforce
+> permissive
