@@ -1,0 +1,8 @@
+It's not a good idea to use ??? in a script name when you run it using run-parts.
+
+.
+r
+-
+_
+
+> .
