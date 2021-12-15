@@ -1,0 +1,19 @@
+If you have a file with lines that look like this:
+
+// clothing     expected
+received    price
+T-shirts    200     150
+10.00
+Jeans       300     299
+29.99
+
+Write an awk script that would calculate, for each line, the money left from the products not being received.
+Assume that you are using the default whitespace separator:
+
+awk '{??? ???'
+ ~/shipment_track
+500.00
+29.99
+
+> print
+> ($2-$3)*$4
