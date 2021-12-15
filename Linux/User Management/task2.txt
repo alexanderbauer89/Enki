@@ -1,0 +1,8 @@
+Change enkiUser's password:
+
+??? ???
+???
+
+> sudo
+> passwd
+> enkiUser
