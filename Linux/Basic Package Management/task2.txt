@@ -1,0 +1,8 @@
+A status code of uf stands for
+
+unknown desired state and half installed state
+unknown desired state and removal of the config files failed state
+installed desired state and unknown state
+unmount desired state and removal of the config files failed state
+
+> unknown desired state and removal of the config files failed state
