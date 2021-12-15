@@ -1,0 +1,7 @@
+The explicit number of TCP connections is part of ???'s output.
+
+ss -s
+ss -ta
+ss -a
+
+> ss -s
