@@ -1,0 +1,7 @@
+A polyfill is a downloadable code that provides
+
+support for older browsers
+all HTML tags
+new features
+
+> support for older browsers
