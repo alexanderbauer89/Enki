@@ -1,0 +1,8 @@
+Which of the following summarizes the best feature of an init system?
+
+It gets all the non-kernel programs and services running.
+It checks for kernel errors.
+It gets all the kernel services running.
+It initializes the user interface.
+
+> It gets all the non-kernel programs and services running.
