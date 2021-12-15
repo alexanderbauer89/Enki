@@ -1,0 +1,8 @@
+You can check kernel messages log by issuing
+
+dmesg
+kmesg
+log
+dboot
+
+> dmesg
