@@ -1,0 +1,9 @@
+The ping command will send ??? and count the time until the ???
+
+connection fails
+your public key
+data
+server responds
+
+> data
+> server responds
