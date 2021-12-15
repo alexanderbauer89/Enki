@@ -1,0 +1,5 @@
+What is the command to make the system start the restart process now?
+
+???
+
+> sudo
