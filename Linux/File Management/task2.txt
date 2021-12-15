@@ -1,0 +1,10 @@
+What kind of file would the following expression match?
+
+mv ??*.[mM]p3
+
+Any file with a name of a least two character long.
+Any file with a name of at least two character long and the extension .mp3 or .Mp3.
+Any file with a name of at least two character long and the extension .mp4
+Any file with the extension .mp3 or .Mp3.
+
+> Any file with a name of at least two character long and the extension .mp3 or .Mp3.
