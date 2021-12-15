@@ -1,0 +1,10 @@
+What should be added to the script in order for the system to use the first node interpreter in PATH?
+
+#! ???
+
+/usr/bin/node
+/bin/sh
+/usr/bin/env node
+/usr/bin/env node4
+
+> /usr/bin/env node
