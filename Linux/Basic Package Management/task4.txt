@@ -1,0 +1,8 @@
+apt-cache showpkg <package_name>
+would work on ??? systems.
+
+Debian
+RPM
+BSD
+
+> Debian
