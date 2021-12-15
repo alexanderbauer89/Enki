@@ -1,0 +1,12 @@
+Match with the correct argument:
+
+kill ???
+killall ???
+
+username
+processID
+taskID
+processname
+
+> processID
+> processname
