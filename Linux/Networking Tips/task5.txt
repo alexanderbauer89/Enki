@@ -1,0 +1,16 @@
+List IPv6 configuration via ifconfig:
+
+??? <interface> |
+    ??? ???
+
+ifconfig
+ip
+ip-config
+"ipv6"
+"inet6"
+grep
+ipv6
+
+> ifconfig
+> grep
+> "inet6"
