@@ -1,0 +1,11 @@
+Give enkiUser root access:
+
+usermod ??? ??? enkiUser
+
+-ag
+root
+admin
+-aG
+
+> -aG
+> root
