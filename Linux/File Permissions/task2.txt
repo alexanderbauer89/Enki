@@ -1,0 +1,15 @@
+Add read/execute permissions for group and other for enki.txt:
+
+??? ??? enki.txt
+
+chperm
+chmod
+505
+550
+755
+changemod
+005
+055
+
+> chmod
+> 055
