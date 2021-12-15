@@ -1,0 +1,8 @@
+If there is a bad hop right at the beginning, the most likely to blame is
+
+destination's ISP
+your ISP
+your network
+destination's server
+
+> your network
