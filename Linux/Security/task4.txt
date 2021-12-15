@@ -1,0 +1,14 @@
+Disable USB storage devices:
+
+echo "install ??? /bin/true"
+
+ >> /etc/???
+
+usb-disable
+no-usb
+usb-storage
+usb-security
+modprobe.d/usb-storage.conf
+
+> usb-storage
+> modprobe.d/usb-storage.conf
