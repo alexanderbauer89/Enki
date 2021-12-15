@@ -1,0 +1,10 @@
+You can get detailed information about your Linux distribution by running:
+
+???
+
+lin_release
+lsb_release -a
+lsb_release -i
+ls_release -a
+
+> lsb_release -a
