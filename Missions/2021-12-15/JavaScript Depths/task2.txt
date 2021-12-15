@@ -1,0 +1,25 @@
+Find each variable scope in the following code:
+
+var a = 1;
+// a is in global
+var b = 2;
+// b is in ???
+function foo(){
+    // foo is in global
+    var a = 2;
+    // a is in foo
+    function fee(){
+        // fee is in ???
+        var b = 3;
+        // b is in ???
+    }
+}
+
+global
+foo
+fee
+local
+
+> global
+> foo
+> fee
