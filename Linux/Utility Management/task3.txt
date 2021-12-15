@@ -1,0 +1,7 @@
+The safer alternative to apt-get purge that also removes PPA's is
+
+ppa-purge
+add-apt-repository --remove
+manually deleting their list files
+
+> ppa-purge
