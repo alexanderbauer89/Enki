@@ -1,0 +1,13 @@
+You can clear another user's history by running :
+
+sudo ??? /dev/null >
+        ???
+
+history
+-c
+/home/user/.bash_history
+cat
+~/.bash_history
+
+> cat
+> /home/user/.bash_history
