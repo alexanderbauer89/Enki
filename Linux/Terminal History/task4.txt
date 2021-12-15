@@ -1,0 +1,13 @@
+Complete the snippet to disable command tracking:
+
+??? ??? ???
+
+-o
+se
+shopt
++o
+history
+
+> set
+> +o
+> history
