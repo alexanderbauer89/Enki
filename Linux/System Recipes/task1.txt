@@ -1,0 +1,11 @@
+What command should be run to set the new hostname using the systemd-services package?
+
+??? ??? new_hostname
+
+hostnamemd
+set-hostname
+set_hostname
+hostnamectl
+
+> hostnamectl
+> set-hostname
