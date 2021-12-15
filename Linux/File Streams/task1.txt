@@ -1,0 +1,8 @@
+The flag of tail that will make it keep printing lines as they are appended to a file is
+
+-a
+-n
+-r
+-f
+
+> -f
