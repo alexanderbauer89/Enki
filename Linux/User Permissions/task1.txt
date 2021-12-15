@@ -1,0 +1,12 @@
+You can see the groups a user is in by issuing:
+
+??? ???
+
+user
+ls -g
+-groups
+groups
+group
+
+> groups
+> user
