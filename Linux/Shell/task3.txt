@@ -1,0 +1,8 @@
+Directories saved by pushd can be seen using
+
+dirs
+dirs -c
+topd
+cd -
+
+> dirs
