@@ -1,0 +1,11 @@
+Make the paused process 3 run in the background and bring paused process 2 to the foreground:
+
+# process 3
+??? ???
+# process 2
+??? ???
+
+> bg
+> %3
+> fg
+> %2
