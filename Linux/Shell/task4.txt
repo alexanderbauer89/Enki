@@ -1,0 +1,7 @@
+You can browse websites from the terminal using the
+
+lynx package
+firefox package
+browse package
+
+> lynx package
