@@ -1,0 +1,15 @@
+Limit the download rate for file.iso to 1MB:
+
+??? ??? ???
+http://server.com/file.iso
+
+-L
+--limit-rate
+ds
+wget
+1MB
+1m
+
+> wget
+> --limit-rate
+> 1m
