@@ -1,0 +1,8 @@
+You can access the loopback interface by going to
+
+http://localarea
+http://l.p
+http://loopback
+http://127.0.0.1
+
+> http://127.0.0.1
