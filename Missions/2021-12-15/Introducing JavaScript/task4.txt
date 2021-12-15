@@ -1,0 +1,7 @@
+Log a message in the console:
+
+???.???(
+"my message");
+
+> console
+> log
