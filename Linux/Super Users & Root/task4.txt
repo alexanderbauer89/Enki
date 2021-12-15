@@ -1,0 +1,11 @@
+A hack to re-run the last command as root is:
+
+adduser newUser
+???
+
+adduser newUser
+!!
+sudo adduser newUser
+sudo !!
+
+> sudo !!
