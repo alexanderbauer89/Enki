@@ -1,0 +1,8 @@
+Out of the following, the tool that is not helpful if you want to generate passwords is
+
+xargs
+makepasswd
+apg
+pwgen
+
+> xargs
