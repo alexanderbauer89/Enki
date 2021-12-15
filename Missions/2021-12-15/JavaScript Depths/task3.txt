@@ -1,0 +1,7 @@
+An object in JavaScript that can be inherited from is called
+
+function
+prototype
+variable
+
+> prototype
