@@ -1,0 +1,8 @@
+You can prompt for confirmation when using rm and mv commands with ??? flag.
+
+-p
+-i
+-l
+-r
+
+> -i
