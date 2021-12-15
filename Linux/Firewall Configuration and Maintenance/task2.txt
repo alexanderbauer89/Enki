@@ -1,0 +1,10 @@
+Which of the following flags, when used together with iptables command will disable DNS resolution:
+
+sudo iptables ???
+
+-L
+-D
+-n
+-d
+
+> -n
