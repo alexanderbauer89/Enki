@@ -1,0 +1,14 @@
+You can downgrade a package on Debian systems using:
+
+??? install
+    ???=???
+
+package_name
+apt-mark
+apt-get
+desired_package_version
+current_packate_version
+
+> apt-get
+> package_name
+> desired_package_version
