@@ -1,0 +1,8 @@
+slurm is used as a
+
+measurement tool for internet speed
+measurement tool for users access to a server
+energy drink
+measurement tool for cpu usage
+
+> measurement tool for internet speed
