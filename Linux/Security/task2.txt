@@ -1,0 +1,17 @@
+Disable cron access for every user:
+
+??? ???>>/etc/???
+
+cron.lock
+echo
+ALL
+allow
+deny
+DISABLE
+cron.deny
+ls
+cron.allow
+
+> echo
+> ALL
+> cron.deny
