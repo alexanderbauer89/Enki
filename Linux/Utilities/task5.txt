@@ -1,0 +1,8 @@
+Find out the sizes of all items on your Desktop, expressed in an easily readable format:
+
+??? ???
+???
+
+> du
+> -ha
+> ~/Desktop/
