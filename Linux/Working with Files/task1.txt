@@ -1,0 +1,15 @@
+Sort the file enki in reverse and output it to output_enki:
+
+??? ??? ???
+output_enki enki
+
+-r
+-re
+-o
+-to
+-f
+sort
+
+> sort
+> -r
+> -o
