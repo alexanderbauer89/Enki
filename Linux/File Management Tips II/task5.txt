@@ -1,0 +1,7 @@
+rsync works best for files/directories that
+
+are system independent
+need constant syncing
+have to be downloaded only once
+
+> need constant syncing
