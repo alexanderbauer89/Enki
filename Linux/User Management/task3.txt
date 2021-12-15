@@ -1,0 +1,23 @@
+Create a new user:
+
+??? enkiUser
+
+Change its password:
+
+??? enkiUser
+
+Delete both the user and its home directory:
+
+??? enkiUser
+
+enkiUser
+sudo
+userdel -r
+rm -r
+useradd
+passwd
+usermod
+
+> useradd
+> passwd
+> userdel -r
