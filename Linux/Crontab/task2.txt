@@ -1,0 +1,8 @@
+You have to modify the ??? variable in the cron file to run all the commands using /bin/bash.
+
+SHELL
+COMPILE
+BASH
+RUN
+
+> SHELL
