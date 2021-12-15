@@ -1,0 +1,7 @@
+Complete the command to remove old_folder and print the name of each deleted file:
+
+??? ???
+~/old_folder
+
+> rm
+> -rv
