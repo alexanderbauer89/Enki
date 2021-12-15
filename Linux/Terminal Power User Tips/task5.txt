@@ -1,0 +1,27 @@
+Complete the following snippet to obtain the output :
+
+??? ???
+...
+foomatic-kitload (8) -
+installs a data kit
+          into the foomatic
+database.
+grub-install (8) - install
+GRUB to a device
+install-docs (8) - manage
+online
+        Debian documentation
+install-sgmlcatalog (8) -
+maintain
+        transitional SGML
+catalog
+...
+
+apropos
+"user"
+"to"
+apropo
+"install*"
+
+> apropos
+> "install*"
