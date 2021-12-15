@@ -1,0 +1,8 @@
+If you are looking for a port forwarding on a machine without an interactive shell, you should use ssh ??? flag.
+
+-n
+-C
+-N
+-p
+
+> -N
