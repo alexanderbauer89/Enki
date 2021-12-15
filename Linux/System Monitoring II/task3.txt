@@ -1,0 +1,14 @@
+Find information about a user named tom:
+
+??? ???
+
+enki
+-s
+user
+tom
+find
+ls
+w
+
+> w
+> tom
