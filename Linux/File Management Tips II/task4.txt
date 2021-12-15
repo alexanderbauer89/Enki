@@ -1,0 +1,8 @@
+The ??? flag is used to decompress files.
+
+-f
+-d
+no flag
+-c
+
+> -d
