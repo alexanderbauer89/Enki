@@ -1,0 +1,9 @@
+> ???, whereas >> ???.
+
+delete a file
+writes the stdout to a file, overwriting its content
+creates a new folder
+appends stdout stream to a file
+
+> writes the stdout to a file, overwriting its content
+> appends stdout stream to a file
