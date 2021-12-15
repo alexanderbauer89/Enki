@@ -1,0 +1,8 @@
+Complete the following snippet:
+
+??? ???=
+"netstat -a | more"
+ports
+
+> alias
+> ports
