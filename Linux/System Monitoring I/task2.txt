@@ -1,0 +1,11 @@
+To find out just your system's architecture, you would run :
+
+??? ???
+
+-s
+uname
+-arch
+-m
+
+> uname
+> -m
