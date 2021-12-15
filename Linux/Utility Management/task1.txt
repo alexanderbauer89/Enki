@@ -1,0 +1,8 @@
+What is a PPA?
+
+A package
+A repository
+A piece of software
+A type of shell
+
+> A repository
