@@ -1,0 +1,12 @@
+Complete the following command to replace cat with rat from lines which conain dog as well:
+
+??? ??? animals > animals1
+
+'/dog/s/cat/rat/g'
+'/dog/!s/cat/rat/g'
+des
+sed
+'/s/cat/dog/g'
+
+> sed
+> '/dog/s/cat/rat/g'
