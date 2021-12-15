@@ -1,0 +1,8 @@
+The sudo flag that allows you o run commands as another user is
+
+-t
+-u
+-R
+-n
+
+> -u
