@@ -1,0 +1,13 @@
+Using pwgen, generate a secure and random password with 20 characters:
+
+??? ??? ??/
+
+40
+openssl
+20
+-s
+pwgen
+
+> pwgen
+> -s
+> 20
