@@ -1,0 +1,8 @@
+Which of these lines will instruct the machine to send empty packets to keep the connection alive?
+
+ServerAlivePackets
+ServerAliveCountMax
+TCPKeepAlive
+ServerAliveInterval
+
+> TCPKeepAlive
