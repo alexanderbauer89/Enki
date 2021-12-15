@@ -1,0 +1,8 @@
+You can run a command in the background by adding ??? at the end of it .
+
+$
+bg
+&
+!
+
+> &
