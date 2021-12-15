@@ -1,0 +1,8 @@
+xargs takes the ??? stream and transforms it into the ??? stream for other utilities to use.
+
+STDERR
+STDOUT
+STDIN
+
+> STDIN
+> STDOUT
