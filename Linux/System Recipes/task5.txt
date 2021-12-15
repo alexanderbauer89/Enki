@@ -1,0 +1,12 @@
+As a hack for bench-testing the computer's GPU you can use:
+
+??? if=/dev/zero bs=1M
+     count=1024 | ???
+
+md5s
+md5sum
+db
+dd
+
+> dd
+> md5sum
