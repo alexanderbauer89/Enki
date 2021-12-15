@@ -1,0 +1,10 @@
+Use shred to delete old_folder, in 2 iterations, without hiding the shredding process:
+
+??? ???
+??? ???
+    ~/old_folder
+
+> sudo
+> shred
+> -n
+> 2
