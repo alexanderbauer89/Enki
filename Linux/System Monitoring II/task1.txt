@@ -1,0 +1,15 @@
+How would you retrieve information on audio hardware?
+
+??? ??? | ???
+ -A7 -i "audio"
+
+regx
+grep
+-o
+Ispci
+sudo
+-v
+
+> lspci
+> -v
+> grep
