@@ -1,0 +1,20 @@
+You have the following file websites.txt:
+
+google.com
+twitter.com
+enki.com
+
+Use substitution to pass the content of the file to curl:
+
+??? ??? (???)
+
+cat websites.txt
+<
+$
+curl
+websites.txt
+"
+
+> curl
+> $
+> cat websites.txt
