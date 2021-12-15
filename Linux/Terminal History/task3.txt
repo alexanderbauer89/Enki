@@ -1,0 +1,9 @@
+Depending on your setup, adding
+at the beginning of a command will make history not record it.
+
+!
+@
+?
+space
+
+> space
