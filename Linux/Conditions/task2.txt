@@ -1,0 +1,11 @@
+Consider:
+
+rm enki || echo 'fail'
+
+|| will execute the second command if and only if
+
+the first command fails
+the first command succeeds
+"enki" is already installed
+
+> the first command fails
