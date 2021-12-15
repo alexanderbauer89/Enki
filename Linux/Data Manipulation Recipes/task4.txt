@@ -1,0 +1,17 @@
+Print the result of the following expressions, but only show the first 5 digits:
+
+??? "???=???; 58/21" |
+???
+
+echo
+5
+scale
+bc
+math
+obase
+6
+
+> echo
+> scale
+> 5
+> bc
