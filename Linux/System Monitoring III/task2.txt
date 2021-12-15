@@ -1,0 +1,16 @@
+Prevent user Tom from logging into the system :
+
+sudo ??? ???
+    ??? ???
+
+/bin/nologin
+cshs
+Tom
+-s
+-l
+chsh
+
+> chsh
+> Tom
+> -s
+> /bin/nologin
