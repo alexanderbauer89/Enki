@@ -1,0 +1,12 @@
+Append a new rule to the INPUT chain that blocks packets from 132.154.32.101
+
+??? ???
+???
+    -s ???
+    ??? DROP
+
+> iptables
+> -A
+> INPUT
+> 132.154.32.101
+> -j
