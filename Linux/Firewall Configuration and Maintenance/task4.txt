@@ -1,0 +1,16 @@
+The action flow to log dropped packets is:
+
+1. ???
+2. ???
+3. ???
+4. ???
+
+Set the number of logged packets
+Set the last action of the chain to DROP
+Use the new chain as target
+Create a new chain
+
+> Create a new chain
+> Set the number of logged packets
+> Set the last action of the chain to DROP
+> Use the new chain as target
