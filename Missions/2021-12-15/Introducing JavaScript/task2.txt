@@ -1,0 +1,8 @@
+Can we do the following declaration?
+
+let new = "Keywords";
+
+Yes
+No
+
+> No
