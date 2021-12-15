@@ -1,0 +1,9 @@
+The ??? command will tell you what executable your shell would be running after typing a command.
+
+where
+ps
+try
+man
+which
+
+> which
