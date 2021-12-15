@@ -1,0 +1,7 @@
+Complete the following snippet to redirect or pipe script.sh :
+
+script.sh ??? cat -n
+script.sh ??? file.txt
+
+> |
+> >
