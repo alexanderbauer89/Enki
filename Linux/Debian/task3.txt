@@ -1,0 +1,15 @@
+To generate missing locale values and reconfigure the existing ones you can run:
+
+??? 'en_US.UTF-8'
+??? ???
+
+dpkg-reconfigure
+locales
+locale
+reconfigure
+locale-gen
+gen
+
+> locale-gen
+> dpkg reconfigure
+> locales
