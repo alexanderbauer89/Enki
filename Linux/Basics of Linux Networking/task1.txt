@@ -1,0 +1,7 @@
+What interface corresponds to the physical connection?
+
+enp0s3
+Io
+eth0
+
+> eth0
