@@ -1,0 +1,9 @@
+Is the following line of code valid?
+
+let 777jackpot = "jackpot";
+// line is ???
+
+not valid
+valid
+
+> not valid
