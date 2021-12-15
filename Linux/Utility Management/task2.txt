@@ -1,0 +1,7 @@
+PPA's are not recommended if
+
+you want to test new features
+you want a stable build
+applications are not working
+
+> you want a stable build
