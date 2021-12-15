@@ -1,0 +1,14 @@
+Match the file descriptors with their names:
+
+stdin - ???
+stdout - ???
+stderr - ???
+
+standard stream
+standard input
+standard output
+standard error
+
+> standard input
+> standard output
+> standard error
