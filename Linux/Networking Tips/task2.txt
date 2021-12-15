@@ -1,0 +1,14 @@
+You can test if a server's port 20 is open by issuing:
+
+??? ???
+  ??? 20
+
+-v
+your_ip
+nc
+-z
+server_address
+
+> nc
+> -z
+> server_address
