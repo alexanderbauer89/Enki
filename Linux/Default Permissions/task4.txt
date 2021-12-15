@@ -1,0 +1,11 @@
+The sticky bit prevents
+
+the owner from moving the file
+the owner of the file from deleting the file
+other users from deleting the file
+the root from deleting the file
+
+> the owner from moving the file
+> the owner of the file from deleing the file
+> other users from deleting the file
+> the root from deleting the file
