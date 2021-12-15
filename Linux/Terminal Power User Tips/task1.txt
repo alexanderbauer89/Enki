@@ -1,0 +1,18 @@
+Complete the following snippet, knowing that | is the cursor at the current positoin:
+
+# ctrl-w will ???
+ls| -l ~/
+# ctrl-k will ???
+ls |-l ~/
+# ctrl-u will ???
+ls -l| ~/
+
+delete -l ~/
+delete ls
+move the cursor to the end of line
+delete ls -l
+move the cursor to the beginning of the line
+
+> delete ls
+> delete -l ~/
+> delete ls -l
