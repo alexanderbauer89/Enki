@@ -1,0 +1,14 @@
+Display .bashrc without empty lines:
+
+??? -v ??? ???
+~/.bashrc
+
+-e
+'^$'
+grep
+'^'
+^_
+
+> grep
+> -e
+> '^$'
