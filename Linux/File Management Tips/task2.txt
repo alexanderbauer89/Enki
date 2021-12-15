@@ -1,0 +1,9 @@
+Set the modification time of enki.txt to be 5 minutes ago :
+
+??? ???
+???
+    enki.txt
+
+> touch
+> -d
+> "5 minutes ago"
