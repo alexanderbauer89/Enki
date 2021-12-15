@@ -1,0 +1,12 @@
+If you split the following example by space (defaul awk splitting value), which column number would [18/Sept/2004:
+represent ?
+
+66.249.64.13 - - [18/Sep/2004:
+11:07:48 +1000] "GET /
+contact.html
+
+HTTP/1.0" 200 468 "-"
+"Googlebot/2.1
+# ???
+
+> $4
