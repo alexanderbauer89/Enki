@@ -1,0 +1,9 @@
+You can call
+alongside another command to find out its alias, functions, builtins and keywords.
+
+--desc
+-type
+type
+desc
+
+> type
