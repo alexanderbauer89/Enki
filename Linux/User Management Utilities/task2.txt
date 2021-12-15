@@ -1,0 +1,8 @@
+??? pair, provided by the mlocate package, is used to search for files efficiently .
+
+searchb/locate
+updateb/locate
+search/locate
+indexdb/findb
+
+> updateb/locate
