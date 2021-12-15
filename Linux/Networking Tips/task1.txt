@@ -1,0 +1,16 @@
+To temporary alias eth0 interface as eth0:1 using ifconfig, you would run:
+
+??? ??? ???
+ 100.100.100.1 ???
+
+sudo
+ACTIVE
+eth0:1
+ifconfig
+up
+eth0
+
+> sudo
+> ifconfig
+> eth0:1
+> up
