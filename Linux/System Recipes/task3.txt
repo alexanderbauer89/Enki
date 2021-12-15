@@ -1,0 +1,8 @@
+A negative value of TMPTIME tells the system to delete the tmp folder
+
+every day
+after a reboot
+when a process stops using them
+never
+
+> never
