@@ -1,0 +1,7 @@
+BADSIG GPG errors usually occur because
+
+there is not enough space on the disk
+the login credentials are wrong
+the signatures are incorrect
+
+> the signatures are incorrect
