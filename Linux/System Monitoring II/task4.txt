@@ -1,0 +1,8 @@
+flag is required to find files used by a specific process.
+
+-r
+-f
+-pr
+-p
+
+> -p
