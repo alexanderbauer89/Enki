@@ -1,0 +1,8 @@
+Why was JavaScript originally developed?
+
+To add functionality to web pages
+To replace HTML
+To enhance Java
+To create databases
+
+> To add functionality to web pages
