@@ -1,0 +1,7 @@
+&& operator is used to execute a second command if the first one
+
+succeeds
+is not found
+fails
+
+> succeeds
