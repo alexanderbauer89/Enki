@@ -1,0 +1,8 @@
+How do you break down file.txt every 5 characters using fold?
+
+??? ???
+???
+
+> fold
+> -w5
+> file.txt
