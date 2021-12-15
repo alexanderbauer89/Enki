@@ -1,0 +1,14 @@
+Strip index.html file of tags using lynx:
+
+??? ???
+  ??? < index.html
+
+-stdin
+-dump
+stdout
+lynx
+-input
+
+> lynx
+> -dump
+> -stdin
