@@ -1,0 +1,15 @@
+Give full access to enki.txt for the user and its group and remove access of others:
+
+??? ???,o??? ???
+
+chmod
+enki.txt
++rwx
+ug+rwx
+-rwx
+ugo
+
+> chmod
+> ug+rwx
+> -rwx
+> enki.txt
