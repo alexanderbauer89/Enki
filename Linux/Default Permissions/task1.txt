@@ -1,0 +1,8 @@
+What default permission would a new file have if the umask is 314 (which translates to -wx--xr--)?
+
+r--r--r--
+--x--x-wx
+r--rw--w-
+-wx-wx-w-
+
+> r--rw--w-
