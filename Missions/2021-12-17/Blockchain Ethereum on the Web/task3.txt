@@ -1,0 +1,6 @@
+Is the JavaScript web3 the only available version of web3?
+
+Yes
+No
+
+> No
