@@ -1,0 +1,6 @@
+ERC721 token standard supports decimals?
+
+True
+False
+
+> False
