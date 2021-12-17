@@ -1,0 +1,8 @@
+What was the outcome of theDAO hack with regard to Ethereum?
+
+ICOs are now illegal
+The address was black-listed through a soft-forked
+No funds were returned, but the address was black-listed
+Funds were returned through a hard-forked
+
+> Fund were returned through a hard-forked
