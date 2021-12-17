@@ -1,0 +1,8 @@
+What's the value of b at the end of the snippet?
+
+int a = 0;
+int b = a++;
+System.out.print(b);
+// ???
+
+> 0
