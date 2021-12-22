@@ -1,0 +1,34 @@
+Assume our redux store reducer looks like this:
+
+//App.js
+function reducer(
+  state = initialState,
+  action
+) {
+  switch (action.type) {
+    case "increment":
+      return {
+        count: state.count +1
+      };
+    default:
+      return state;
+  }
+}
+
+Complete the following code to dispatch the increment action within a class component:
+
+class MyApp extends React.
+Component {
+  // ...
+  increment = () => {
+    ???.???.
+???({ ???:
+'increment' })
+  };
+  // ...
+}
+
+> this
+> props
+> dispatch
+> type
