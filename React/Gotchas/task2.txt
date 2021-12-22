@@ -1,0 +1,8 @@
+Can you use switch statements in JSX?
+
+only wrapped in an IIFE
+yes
+only for strings
+no
+
+> only wrapped in an IIFE
