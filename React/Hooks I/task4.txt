@@ -1,0 +1,13 @@
+Complete the following code such that the effect is ran only when the name state changes:
+
+function Test() {
+  const [name, setName] =
+useState("");
+
+  ???(() => {
+    // side-effect
+  }, ???);
+}
+
+> useEffect
+> [name]
