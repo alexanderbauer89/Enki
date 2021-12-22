@@ -1,0 +1,5 @@
+In the terminal, add numbering before a file's content (counting only non-empty lines) :
+
+cat enki.txt | ???
+
+> nl
