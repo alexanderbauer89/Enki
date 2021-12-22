@@ -1,0 +1,7 @@
+Where can you call custom hooks inside a component?
+
+Anywhere.
+Only at the top-level.
+Only inside a useEffect() statement.
+
+> Only at the top-level.
