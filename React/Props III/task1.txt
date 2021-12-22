@@ -1,0 +1,10 @@
+Complete the code snippet below to clone an element and override the ref with the give value:
+
+React.???(
+  child,
+  { ???: 'newRef' },
+  null
+);
+
+> cloneElement
+> ref
