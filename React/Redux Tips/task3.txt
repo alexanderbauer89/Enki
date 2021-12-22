@@ -1,0 +1,9 @@
+What method can be used to create a new object, but with additional properties in a pure fashion:
+
+return ???.???(
+{}, myObj, {
+  myProperty: newValue
+});
+
+> Object
+> assign
