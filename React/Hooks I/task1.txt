@@ -1,0 +1,16 @@
+True of False?
+
+We can call useState() and useEffect() inside custom hooks?
+
+???
+
+When writing a new custom hook, its name should usually start with ???.
+
+True
+"use"
+"custom"
+False
+"set"
+
+> True
+> "use"
