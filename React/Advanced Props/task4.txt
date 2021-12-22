@@ -1,0 +1,8 @@
+What validator must be used to make sure there is exactly one child passed to children?
+
+children: ???.
+???.???,
+
+> PropTypes
+> element
+> isRequired
