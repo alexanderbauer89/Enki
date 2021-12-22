@@ -1,0 +1,8 @@
+Converting Unix files to DOS or the other way around can be done on all systems using
+
+dos2unix
+dtou
+sed
+unix2dos
+
+> sed
