@@ -1,0 +1,13 @@
+Is this a controlled or uncontrolled
+<input>
+?
+
+ReactDOM.render(
+    <input value="Enki!" />,
+    node
+);
+
+Controlled
+Uncontrolled
+
+> Controlled
