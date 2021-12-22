@@ -1,0 +1,14 @@
+Fill the missing that such that the default values for the value prop is "xyz":
+
+function Comp(props) {
+  return <h2>{props.value}</h2>
+;
+}
+
+Comp.??? = {
+  ???: ???,
+};
+
+> defaultProps
+> value
+> "xyz"
