@@ -1,0 +1,19 @@
+Consider these functions:
+
+function a(x) {
+  return x * x;
+}
+
+function b(x) {
+  return Math.random() * x;
+}
+
+Would you say function a is pure or impure?
+What about function b?
+
+pure, pure
+impure, impure
+impure, pure
+pure, impure
+
+> pure, impure
