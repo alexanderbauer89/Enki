@@ -1,0 +1,7 @@
+How do you cleanup after running an effect in a function component?
+
+By returning a cleanup function from the useEffect() hook.
+By calling a cleanup function immediately after the useEffect() hook.
+By writing a custom hook and calling it inside the useEffect() hook.
+
+> By returning a cleanup function from the useEffect() hook.
