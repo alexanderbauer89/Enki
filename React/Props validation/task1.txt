@@ -1,0 +1,14 @@
+Complete the missing validation such that the first prop is a function and the second an object:
+
+function Test(props) { return <
+p>A</p>; };
+Test.propTypes = {
+  myFunction: ???.
+???,
+  myObject: PropTypes.
+???,
+};
+
+> PropTypes
+> func
+> object
