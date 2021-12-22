@@ -1,0 +1,6 @@
+The constructor of a components runs every time the props change.
+
+False
+True
+
+> False
