@@ -1,0 +1,28 @@
+Consider the following style object:
+
+var pStyle = {
+    fontSize: 15,
+    color: 'black'
+}
+
+How would you pass it to the follwing <p />?
+
+ReactDDOM.render(
+    <p ??? ??? ???>Enki!<
+/p>,
+aNode)
+
+{style}
+=
+applyStyle
+pstyle
+:
+pStyle
+useStyle
+style
+s
+{pStyle}
+
+> style
+> =
+> {pStyle}
