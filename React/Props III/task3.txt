@@ -1,0 +1,18 @@
+Complete the code such that EnkiComp only re-renders if areEqual returns false
+
+function EnkiComp(props) {
+    /* ... */
+}
+function areEqual(prevProps,
+ nextProps) {
+   /* ... */
+}
+const Enki = React.???
+(
+  ???,
+  ???
+);
+
+> memo
+> EnkiComp
+> areEqual
