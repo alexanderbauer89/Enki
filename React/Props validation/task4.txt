@@ -1,0 +1,18 @@
+What are the basic arguments of a validator function?
+
+function (???, ???, ???
+) {
+// Check here
+}
+
+componentName
+propName
+value
+props
+name
+validator
+text
+
+> props
+> propName
+> componentName
