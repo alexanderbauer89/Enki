@@ -1,0 +1,26 @@
+Which function would always update the state to the expected value?
+
+A = count => {
+  this.setState({
+    count: this.stae.count +
+1
+  });
+};
+
+B = () => {
+  this.setState(state => ({
+    count: state.count + 1
+  }));
+};
+
+C = count => {
+  this.setState(() => ({
+    count: count + 1
+  }));
+};
+
+A
+B
+C
+
+> B
