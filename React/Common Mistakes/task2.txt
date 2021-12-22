@@ -1,0 +1,19 @@
+What will be the state of the <Test> component?
+
+function Test() {
+  const [state, setState] =
+useState(0);
+
+  useEffect(()=> {
+    setState(1);
+  }, []);
+
+  return <p>{state}</p>;
+}
+
+null
+undefined
+1
+0
+
+> 0
