@@ -1,0 +1,30 @@
+Suppose you want to load some data via an ajax call to your component after it was mounted.
+Fill in the gaps such that you make sure you won't update the state with your ajax call login if the componen is unmounted:
+
+class Component extends React.
+Component {
+  ???() {
+    this.??? =
+???;
+    $.get(this.props.
+ajaxSource, res => {
+      if (???) {
+        this.setState({
+          propToUpdate: res
+        })
+      }
+   })
+}
+render() {
+    // ...
+}
+???() {
+  this.mounted = false
+  }
+})
+
+> componentDidMount
+> mounted
+> true
+> this.mounted
+> componentWillUnmount
