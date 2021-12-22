@@ -1,0 +1,8 @@
+/log/auth.log can be used to track
+
+failed log in attempts
+packets sent
+password used to log in
+packets received
+
+> failed log in attempts
