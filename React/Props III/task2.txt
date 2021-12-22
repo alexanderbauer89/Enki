@@ -1,0 +1,12 @@
+Complete the following code to define a pure component using class syntax:
+
+??? MyComp ???
+  React.??? {
+    react() {
+      // ...
+    }
+}
+
+> class
+> extends
+> PureComponent
