@@ -1,0 +1,12 @@
+Check if the enki file is sorted:
+
+??? ??? enki.txt
+
+-r
+sort
+nl
+awk
+-c
+
+> sort
+> -c
