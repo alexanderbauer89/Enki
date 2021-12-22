@@ -1,0 +1,8 @@
+Once the combineReducers() function has transformed an object with different reducer functions into a single reducer function,
+where is it then passed to?
+
+createStore()
+createObject()
+createReducer()
+
+> createStore()
