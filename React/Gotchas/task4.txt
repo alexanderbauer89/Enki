@@ -1,0 +1,12 @@
+What does the following code snippet do?
+
+ReactDOM.render(
+  <div>{false}</div>,
+  aNode
+);
+
+Renders the div element false.
+Renders there to be no div element.
+Specifies that the React element has no child.
+
+> Specifies that the React element has no child.
