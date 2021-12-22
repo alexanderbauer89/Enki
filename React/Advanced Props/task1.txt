@@ -1,0 +1,25 @@
+What will be rendered within the div with id="main"?
+
+function Exercise(props) {
+  return (
+    <div id="main">{props.
+children}</div>
+  );
+}
+
+ReactDOM.render(
+  <Exercise>
+    <h1>Main</h1>
+  </Exercise>
+  document.getElementById(
+"root")
+);
+
+nothing
+Exercise
+<h1>Main</h1>
+<p>Main</p>
+<h2>Main</h2>
+root
+
+> <h1>Main</h1>
