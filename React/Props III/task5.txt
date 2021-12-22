@@ -1,0 +1,13 @@
+Consider the following component defined as a function:
+
+let enki = ({enki}) => <h1>{
+enki}</h1>;
+
+Complete the code snippet to enforce prop validation:
+
+???.??? = {
+    enki: PropTypes.string,
+}
+
+> enki
+> propTypes
