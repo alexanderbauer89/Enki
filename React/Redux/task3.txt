@@ -1,0 +1,14 @@
+First, create a Redux store:
+
+import { createStore } from
+ 'redux';
+let store =
+ ???(reducer,
+initstate);
+
+Next, try to get its state:
+
+return store.???()
+
+> createStore
+> getState
