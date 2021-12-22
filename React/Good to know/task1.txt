@@ -1,0 +1,19 @@
+Given:
+
+myData.x.y = 3;
+myData.a.b.push(4);
+
+Write the equivalent with the aid of immutability helpers:
+
+import update from
+"immutability-helper";
+
+var newObj = ???(myData
+, {
+x: {y: {???set :3}},
+a: {b: {$???: [4]}},
+});
+
+> update
+> $
+> push
