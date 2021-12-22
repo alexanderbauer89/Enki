@@ -1,0 +1,10 @@
+What method is used to invoke a function on every immediate child whithin children, and returns an array?
+
+map
+toArray
+forEach
+count
+only
+fn
+
+> map
