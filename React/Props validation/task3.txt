@@ -1,0 +1,15 @@
+Validate if myProp is an instance of the Enki class:
+
+function Test(props) {
+  return <p>Testing {myProp}</p
+>;
+}
+
+Test.propTypes = {
+  myProp: ???.
+???(???)
+};
+
+> PropTypes
+> instanceOf
+> Enki
