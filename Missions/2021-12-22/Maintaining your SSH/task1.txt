@@ -1,0 +1,7 @@
+The file on the server in which to add you ssh key to set up password-less authentication is
+
+~/ssh/authorized_keys
+~/.ssh/authorized_keys
+~/ssh/keys
+
+> ~/.ssh/authorized_keys
