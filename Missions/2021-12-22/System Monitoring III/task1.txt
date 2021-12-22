@@ -1,0 +1,8 @@
+Service-specific actions (enable, stop, restart, reload) can be triggered by
+
+syserv
+res
+nano
+systemctl
+
+> systemctl
