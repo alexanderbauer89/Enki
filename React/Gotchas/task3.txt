@@ -1,0 +1,14 @@
+Which of the following tags is a self closing tag?
+
+// Option A
+<div>
+</div>
+
+// Option B
+<tag/>
+
+Option B
+Neither of them..
+Option A
+
+> Option B
