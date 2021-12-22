@@ -1,0 +1,7 @@
+Which of the following can' have ref as an attribute:
+
+function components
+HTML elements
+class components
+
+> function components
