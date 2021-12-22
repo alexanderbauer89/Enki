@@ -1,0 +1,7 @@
+Append the enki array to the myArray array using the spread operator in a pure fashion:
+
+return [???myArray,
+???];
+
+> ...
+> enki
