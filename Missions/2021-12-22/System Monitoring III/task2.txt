@@ -1,0 +1,12 @@
+Restore log-in for Tom:
+
+sudo ??? Tom
+    -s ???
+
+chsh
+/bin/bash
+cshs
+/bin/login
+
+> chsh
+> /bin/bash
