@@ -1,0 +1,8 @@
+Why does one pay gas to publish a smart contract on the blockchain?
+
+To prove their honesty
+To tip the nodes that run the code
+To speed up the verification process
+To support the Ethereum foundation
+
+> To prove their honesty
