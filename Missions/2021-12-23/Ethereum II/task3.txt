@@ -1,0 +1,12 @@
+What are usually the types of the main mapping of a ERC721 token?
+
+??? => ???
+
+int256
+balance(uint256)
+unique ID
+address (uint256)
+string
+
+> unique ID
+> address (uint256)
