@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+
+Is used to tell the system what
+should be used for tha particular file.
+
+path
+script
+interpreter
+
+> interpreter
