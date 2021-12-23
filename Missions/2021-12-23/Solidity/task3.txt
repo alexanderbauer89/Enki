@@ -1,0 +1,8 @@
+If coins are found to be stolen, identify what should be done to revert the theft transactions
+
+ban the thief's address
+soft fork
+hard fork
+transactions cannot be reverted
+
+> hard fork
